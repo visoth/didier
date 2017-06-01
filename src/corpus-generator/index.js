@@ -11,20 +11,26 @@ csv({ trim:true, delimiter:';' })
         { "didier": static_questions })
     jsonfile.writeFile(
         '../bot/data/vente/didier.products.corpus.json', 
-        { "didier.products": _.flatten(group_by_type(data).slice(0, 100).map(gen_question_answer)) })
+        { "didier.products": [
+            ..._.flatten(group_by('type', data).slice(0, 80).map(gen_question_answer)),
+            ..._.flatten(group_by('segment', data).slice(0, 80).map(gen_question_answer)),
+            ..._.flatten(group_by('family', data).slice(0, 80).map(gen_question_answer)),
+            ..._.flatten(group_by('classe', data).slice(0, 80).map(gen_question_answer)),
+            ..._.flatten(group_by('brick', data).slice(0, 80).map(gen_question_answer)),
+        ]})
 })
 
 // question & answer
 const gen_question_answer = group => ask_product.map(item => [
-    item.question(group.type),
+    item.question(group.name.trim()),
     item.answer(get_operations(group.children))
 ])
 
 // utils
-const uniq = (data) => _.uniq(data) 
+const uniq = (data) => _.uniq(data).slice(0, 5) 
 const remove_number = (text) => text.replace(/[0-9]/g, '')
 const get_operations = (item) => item.map(i => i.OperationCode)
-const group_by_type = (data) => alasql(`SELECT type, ARRAY(_) as children from ? GROUP BY type`, [data])
+const group_by = (type, data) => alasql(`SELECT ${type} as name, ARRAY(_) as children from ? GROUP BY ${type}`, [data])
 
 // Questions & answsers
 const static_questions = [
@@ -37,15 +43,15 @@ const static_questions = [
 
 const ask_product = [
     {
-        question: (type) => `Je cherche des ${type}`,
+        question: (name) => `Je cherche des ${name}`,
         answer: (sales) => `Ok! on a les ventes ${uniq(sales).map(remove_number).join(', ')}`
     },
     {
-        question: (type) => `J'aimerais acheter des ${type}`,
+        question: (name) => `J'aimerais acheter des ${name}`,
         answer: (sales) => `Bien! on a les ventes ${uniq(sales).map(remove_number).join(', ')}`,
     },
     {
-        question: (type) => `Je viens acheter des ${type}`,
+        question: (name) => `Je viens acheter des ${name}`,
         answer: (sales) => `Bien! on a les ventes ${uniq(sales).map(remove_number).join(', ')}`,
     },
 ]
