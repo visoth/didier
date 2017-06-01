@@ -1,13 +1,20 @@
-from flask import Flask
+from flask import Flask, request, jsonify
+from robot import getresponse
+from train import trainbot
+
 app = Flask(__name__)
 
 @app.route('/')
-def hello_world():
-    return 'Hello, World!'
-    
-@app.route('/hello')
-def hello():
-    return 'Hello, World'
+def root():
+    return "projet didier"
 
-if __name__ == "__main__":
+@app.route('/question', methods=['POST'])
+def question():
+    return jsonify({"reponse" : getresponse(request.json["question"])})
+
+@app.route('/train', methods=['POST'])
+def train():
+    return jsonify({"status" : trainbot("")})
+
+if __name__ == '__main__':
     app.run()
