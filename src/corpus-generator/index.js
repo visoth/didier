@@ -11,7 +11,7 @@ csv({ trim:true, delimiter:';' })
         { "didier": static_questions })
     jsonfile.writeFile(
         '../bot/data/vente/didier.products.corpus.json', 
-        { "didier.products": _.flatten(group_by_type(data).slice(0, 1000).map(gen_question_answer)) })
+        { "didier.products": _.flatten(group_by_type(data).slice(0, 100).map(gen_question_answer)) })
 })
 
 // question & answer
