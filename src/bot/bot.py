@@ -20,6 +20,7 @@ bot = ChatBot("Didier",
 bot.train('data/vente/greetings.corpus.json')
 bot.train('data/vente/trivia.corpus.json')
 bot.train('data/vente/didier.corpus.json')
+bot.train('data/vente/didier.sales.corpus.json')
 bot.train('data/vente/didier.products.corpus.json')
 
 print("Bonjour, Didier a votre service, en quoi pourrai-je vous etre utile ?")

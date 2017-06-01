@@ -1,0 +1,2404 @@
+{
+    "didier.products": [
+        [
+            "Donne moi les produit de la vente CKLEIN259",
+            "Ok! voici les produits : [9809542] Bottines après-ski Tippi - noir et gris - tige : 16,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente CKLEIN259",
+            "Bien! voici les produits : [9809542] Bottines après-ski Tippi - noir et gris - tige : 16,5 cm"
+        ],
+        [
+            "Montre moi la vente CKLEIN259",
+            "D'accord! voici les produits : [9809542] Bottines après-ski Tippi - noir et gris - tige : 16,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BERSHKA35",
+            "Ok! voici les produits : [10626068] XX, [10626055] XX, [10625772] XX, [10625862] XX, [10626053] XX"
+        ],
+        [
+            "Montre moi les produit de la vente BERSHKA35",
+            "Bien! voici les produits : [10626068] XX, [10626055] XX, [10625772] XX, [10625862] XX, [10626053] XX"
+        ],
+        [
+            "Montre moi la vente BERSHKA35",
+            "D'accord! voici les produits : [10626068] XX, [10626055] XX, [10625772] XX, [10625862] XX, [10626053] XX"
+        ],
+        [
+            "Donne moi les produit de la vente ISOTONER37",
+            "Ok! voici les produits : [10002304] Chaussettes d'intérieur antidérapantes - noir et gris, [10002335] Chaussettes d'intérieur antidérapantes - noir et bleu, [10002443] Bottillons - camel, [10002337] Chaussettes d'intérieur antidérapantes - violet et noir, [10002294] Chaussons - bleu marine et orange"
+        ],
+        [
+            "Montre moi les produit de la vente ISOTONER37",
+            "Bien! voici les produits : [10002304] Chaussettes d'intérieur antidérapantes - noir et gris, [10002335] Chaussettes d'intérieur antidérapantes - noir et bleu, [10002443] Bottillons - camel, [10002337] Chaussettes d'intérieur antidérapantes - violet et noir, [10002294] Chaussons - bleu marine et orange"
+        ],
+        [
+            "Montre moi la vente ISOTONER37",
+            "D'accord! voici les produits : [10002304] Chaussettes d'intérieur antidérapantes - noir et gris, [10002335] Chaussettes d'intérieur antidérapantes - noir et bleu, [10002443] Bottillons - camel, [10002337] Chaussettes d'intérieur antidérapantes - violet et noir, [10002294] Chaussons - bleu marine et orange"
+        ],
+        [
+            "Donne moi les produit de la vente AZZARO45",
+            "Ok! voici les produits : [10473132] Cravate - 100% soie - bleu marine x 5 cm, [10473146] Cravate - 100% soie - rouge x 7,5 cm, [10473141] Cravate - 100% soie - bleu marine x 7 cm, [10448462] Trousse de toilette Bahia - bleu marine - 23 x 14 x 13 cm, [10473116] Foulard - rayures - bleu foncé - 188 x 62 cm"
+        ],
+        [
+            "Montre moi les produit de la vente AZZARO45",
+            "Bien! voici les produits : [10473132] Cravate - 100% soie - bleu marine x 5 cm, [10473146] Cravate - 100% soie - rouge x 7,5 cm, [10473141] Cravate - 100% soie - bleu marine x 7 cm, [10448462] Trousse de toilette Bahia - bleu marine - 23 x 14 x 13 cm, [10473116] Foulard - rayures - bleu foncé - 188 x 62 cm"
+        ],
+        [
+            "Montre moi la vente AZZARO45",
+            "D'accord! voici les produits : [10473132] Cravate - 100% soie - bleu marine x 5 cm, [10473146] Cravate - 100% soie - rouge x 7,5 cm, [10473141] Cravate - 100% soie - bleu marine x 7 cm, [10448462] Trousse de toilette Bahia - bleu marine - 23 x 14 x 13 cm, [10473116] Foulard - rayures - bleu foncé - 188 x 62 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BERSHKA34",
+            "Ok! voici les produits : [10183224] Jupe portefeuille - motif fleuri - noir, [10183127] Combishort - tissu côtelé - rouge, [10183188] Doudoune - capuche - noir, [10183100] Jegging - coupe skinny - bleu denim, [10183190] Veste en jean - bleu denim"
+        ],
+        [
+            "Montre moi les produit de la vente BERSHKA34",
+            "Bien! voici les produits : [10183224] Jupe portefeuille - motif fleuri - noir, [10183127] Combishort - tissu côtelé - rouge, [10183188] Doudoune - capuche - noir, [10183100] Jegging - coupe skinny - bleu denim, [10183190] Veste en jean - bleu denim"
+        ],
+        [
+            "Montre moi la vente BERSHKA34",
+            "D'accord! voici les produits : [10183224] Jupe portefeuille - motif fleuri - noir, [10183127] Combishort - tissu côtelé - rouge, [10183188] Doudoune - capuche - noir, [10183100] Jegging - coupe skinny - bleu denim, [10183190] Veste en jean - bleu denim"
+        ],
+        [
+            "Donne moi les produit de la vente ALDO14",
+            "Ok! voici les produits : [10498220] Mules Savassa - cuir - coloris doré - talon : 5 cm - plateau : 3 cm, [10498550] Chaussures bateau Sumsion - cuir - marron, [10498527] Low-boots Rosennano - cuir - noir - talon : 10,5 cm, [10497885] Mules Agrigolle - noir - talon : 10,5 cm - plateau : 4 cm, [10498227] Mules Sevalilia - cuir - beige - talon : 10 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ALDO14",
+            "Bien! voici les produits : [10498220] Mules Savassa - cuir - coloris doré - talon : 5 cm - plateau : 3 cm, [10498550] Chaussures bateau Sumsion - cuir - marron, [10498527] Low-boots Rosennano - cuir - noir - talon : 10,5 cm, [10497885] Mules Agrigolle - noir - talon : 10,5 cm - plateau : 4 cm, [10498227] Mules Sevalilia - cuir - beige - talon : 10 cm"
+        ],
+        [
+            "Montre moi la vente ALDO14",
+            "D'accord! voici les produits : [10498220] Mules Savassa - cuir - coloris doré - talon : 5 cm - plateau : 3 cm, [10498550] Chaussures bateau Sumsion - cuir - marron, [10498527] Low-boots Rosennano - cuir - noir - talon : 10,5 cm, [10497885] Mules Agrigolle - noir - talon : 10,5 cm - plateau : 4 cm, [10498227] Mules Sevalilia - cuir - beige - talon : 10 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BBROTHERS15",
+            "Ok! voici les produits : [10031868] Pantalon chino, bleu denim foncé, [10031770] Veste sans manches, bleu électrique, [10031831] Pull sans manches, orange, [10031835] Pull, bleu nuit, [10031855] Veste, beige clair"
+        ],
+        [
+            "Montre moi les produit de la vente BBROTHERS15",
+            "Bien! voici les produits : [10031868] Pantalon chino, bleu denim foncé, [10031770] Veste sans manches, bleu électrique, [10031831] Pull sans manches, orange, [10031835] Pull, bleu nuit, [10031855] Veste, beige clair"
+        ],
+        [
+            "Montre moi la vente BBROTHERS15",
+            "D'accord! voici les produits : [10031868] Pantalon chino, bleu denim foncé, [10031770] Veste sans manches, bleu électrique, [10031831] Pull sans manches, orange, [10031835] Pull, bleu nuit, [10031855] Veste, beige clair"
+        ],
+        [
+            "Donne moi les produit de la vente INBLU4",
+            "Ok! voici les produits : [9315497] Pantoufles Stellina - effet brillant  - fuchsia et violet, [9315628] Pantoufles Sport - gris clair et noir, [9315642] Pantoufles Tech - noir, [9315485] Pantoufles Holly - gris chiné et violet, [9315495] Pantoufles Holly - fuchsia et violet"
+        ],
+        [
+            "Montre moi les produit de la vente INBLU4",
+            "Bien! voici les produits : [9315497] Pantoufles Stellina - effet brillant  - fuchsia et violet, [9315628] Pantoufles Sport - gris clair et noir, [9315642] Pantoufles Tech - noir, [9315485] Pantoufles Holly - gris chiné et violet, [9315495] Pantoufles Holly - fuchsia et violet"
+        ],
+        [
+            "Montre moi la vente INBLU4",
+            "D'accord! voici les produits : [9315497] Pantoufles Stellina - effet brillant  - fuchsia et violet, [9315628] Pantoufles Sport - gris clair et noir, [9315642] Pantoufles Tech - noir, [9315485] Pantoufles Holly - gris chiné et violet, [9315495] Pantoufles Holly - fuchsia et violet"
+        ],
+        [
+            "Donne moi les produit de la vente CHARLISE3",
+            "Ok! voici les produits : [9548665] Robe - fil métallisé - vieux rose, [9548666] Robe pull - motif écaille - écru, [9548795] Écharpe - gris - 96x18 cm, [9548853] Jupe longue - broderie - écru, [9548460] Débardeur - dentelle - bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente CHARLISE3",
+            "Bien! voici les produits : [9548665] Robe - fil métallisé - vieux rose, [9548666] Robe pull - motif écaille - écru, [9548795] Écharpe - gris - 96x18 cm, [9548853] Jupe longue - broderie - écru, [9548460] Débardeur - dentelle - bleu marine"
+        ],
+        [
+            "Montre moi la vente CHARLISE3",
+            "D'accord! voici les produits : [9548665] Robe - fil métallisé - vieux rose, [9548666] Robe pull - motif écaille - écru, [9548795] Écharpe - gris - 96x18 cm, [9548853] Jupe longue - broderie - écru, [9548460] Débardeur - dentelle - bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente FREDDY9",
+            "Ok! voici les produits : [10484198] XX, [10484260] XX, [10484050] XX, [10483887] XX, [10484288] XX"
+        ],
+        [
+            "Montre moi les produit de la vente FREDDY9",
+            "Bien! voici les produits : [10484198] XX, [10484260] XX, [10484050] XX, [10483887] XX, [10484288] XX"
+        ],
+        [
+            "Montre moi la vente FREDDY9",
+            "D'accord! voici les produits : [10484198] XX, [10484260] XX, [10484050] XX, [10483887] XX, [10484288] XX"
+        ],
+        [
+            "Donne moi les produit de la vente ABRILFLOWERS1",
+            "Ok! voici les produits : [10374451] Ballerines - cuir - coloris doré rose, [10374582] Sandales - cuir - rouge - Semelles compensées : 6,5 cm, [10374589] Escarpins - cuir - bleu marine - talon : 8,5 cm, [10374446] Ballerines - cuir - fuchsia, [10374591] Escarpins - cuir - beige - talon : 8,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ABRILFLOWERS1",
+            "Bien! voici les produits : [10374451] Ballerines - cuir - coloris doré rose, [10374582] Sandales - cuir - rouge - Semelles compensées : 6,5 cm, [10374589] Escarpins - cuir - bleu marine - talon : 8,5 cm, [10374446] Ballerines - cuir - fuchsia, [10374591] Escarpins - cuir - beige - talon : 8,5 cm"
+        ],
+        [
+            "Montre moi la vente ABRILFLOWERS1",
+            "D'accord! voici les produits : [10374451] Ballerines - cuir - coloris doré rose, [10374582] Sandales - cuir - rouge - Semelles compensées : 6,5 cm, [10374589] Escarpins - cuir - bleu marine - talon : 8,5 cm, [10374446] Ballerines - cuir - fuchsia, [10374591] Escarpins - cuir - beige - talon : 8,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BABYBOTTE12",
+            "Ok! voici les produits : [9515942] Bottes de pluie LOL - écru et rouge - tige : 13 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BABYBOTTE12",
+            "Bien! voici les produits : [9515942] Bottes de pluie LOL - écru et rouge - tige : 13 cm"
+        ],
+        [
+            "Montre moi la vente BABYBOTTE12",
+            "D'accord! voici les produits : [9515942] Bottes de pluie LOL - écru et rouge - tige : 13 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AGUARDIANI13",
+            "Ok! voici les produits : [9247697] Bottines, cuir | moka | tige : 13 cm, [9247709] Stilettos, cuir | marron foncé | talon : 11 cm, [9247761] Derbies à boucle, cuir | bordeaux foncé, [9247699] Low-boots cuir | noir | tige : 14 cm, [9247733] Slippers, cuir | noir"
+        ],
+        [
+            "Montre moi les produit de la vente AGUARDIANI13",
+            "Bien! voici les produits : [9247697] Bottines, cuir | moka | tige : 13 cm, [9247709] Stilettos, cuir | marron foncé | talon : 11 cm, [9247761] Derbies à boucle, cuir | bordeaux foncé, [9247699] Low-boots cuir | noir | tige : 14 cm, [9247733] Slippers, cuir | noir"
+        ],
+        [
+            "Montre moi la vente AGUARDIANI13",
+            "D'accord! voici les produits : [9247697] Bottines, cuir | moka | tige : 13 cm, [9247709] Stilettos, cuir | marron foncé | talon : 11 cm, [9247761] Derbies à boucle, cuir | bordeaux foncé, [9247699] Low-boots cuir | noir | tige : 14 cm, [9247733] Slippers, cuir | noir"
+        ],
+        [
+            "Donne moi les produit de la vente BMOON39",
+            "Ok! voici les produits : [10333727] Maillot de bain 2 pièces Silverstripe - bonnets doublés - blanc et rose, [10333425] Slip de bain brésilien Allstars - violet et blanc, [10333701] Robe de plage Hadlow - ajouré - orange, [10333706] Maillot 1 pièce Tansy - bonnets doublés - fuchsia, [10333432] Foulard Silkcheich - 100% soie - bleu marine - 95 x 95 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BMOON39",
+            "Bien! voici les produits : [10333727] Maillot de bain 2 pièces Silverstripe - bonnets doublés - blanc et rose, [10333425] Slip de bain brésilien Allstars - violet et blanc, [10333701] Robe de plage Hadlow - ajouré - orange, [10333706] Maillot 1 pièce Tansy - bonnets doublés - fuchsia, [10333432] Foulard Silkcheich - 100% soie - bleu marine - 95 x 95 cm"
+        ],
+        [
+            "Montre moi la vente BMOON39",
+            "D'accord! voici les produits : [10333727] Maillot de bain 2 pièces Silverstripe - bonnets doublés - blanc et rose, [10333425] Slip de bain brésilien Allstars - violet et blanc, [10333701] Robe de plage Hadlow - ajouré - orange, [10333706] Maillot 1 pièce Tansy - bonnets doublés - fuchsia, [10333432] Foulard Silkcheich - 100% soie - bleu marine - 95 x 95 cm"
+        ],
+        [
+            "Donne moi les produit de la vente FREEGUN15",
+            "Ok! voici les produits : [10203269] Casquette Star Wars - marron, [10202996] Porte-clés - noir, [10203271] Casquette Star Wars - orange et bleu, [10202995] Porte-clés - noir, [10203275] Casquette Star Wars - vert"
+        ],
+        [
+            "Montre moi les produit de la vente FREEGUN15",
+            "Bien! voici les produits : [10203269] Casquette Star Wars - marron, [10202996] Porte-clés - noir, [10203271] Casquette Star Wars - orange et bleu, [10202995] Porte-clés - noir, [10203275] Casquette Star Wars - vert"
+        ],
+        [
+            "Montre moi la vente FREEGUN15",
+            "D'accord! voici les produits : [10203269] Casquette Star Wars - marron, [10202996] Porte-clés - noir, [10203271] Casquette Star Wars - orange et bleu, [10202995] Porte-clés - noir, [10203275] Casquette Star Wars - vert"
+        ],
+        [
+            "Donne moi les produit de la vente REPLAY59",
+            "Ok! voici les produits : [10129569] Écharpe tube | bleu marine, [10129838] Salopette | bleu denim, [10129721] Pull | gris foncé, [10129646] Casquette | crème, [10129759] Jean 7/8 | bleu denim"
+        ],
+        [
+            "Montre moi les produit de la vente REPLAY59",
+            "Bien! voici les produits : [10129569] Écharpe tube | bleu marine, [10129838] Salopette | bleu denim, [10129721] Pull | gris foncé, [10129646] Casquette | crème, [10129759] Jean 7/8 | bleu denim"
+        ],
+        [
+            "Montre moi la vente REPLAY59",
+            "D'accord! voici les produits : [10129569] Écharpe tube | bleu marine, [10129838] Salopette | bleu denim, [10129721] Pull | gris foncé, [10129646] Casquette | crème, [10129759] Jean 7/8 | bleu denim"
+        ],
+        [
+            "Donne moi les produit de la vente MPTRIBU1",
+            "Ok! voici les produits : [10357384] Trousse Je suis une Mère(veille) - blanc - 19 x 28 x 9 cm, [10357386] Trousse I Love my Soeur de Coeur - blanc - 19 x 28 x 9 cm, [10357395] Trousse Je suis un Père hors pairs - blanc - 19 x 28 x 9 cm, [10357383] Trousse Captain Papa - blanc - 19 x 28 x 9 cm, [10357385] Trousse Je suis un Père(tinent) - blanc - 19 x 28 x 9 cm"
+        ],
+        [
+            "Montre moi les produit de la vente MPTRIBU1",
+            "Bien! voici les produits : [10357384] Trousse Je suis une Mère(veille) - blanc - 19 x 28 x 9 cm, [10357386] Trousse I Love my Soeur de Coeur - blanc - 19 x 28 x 9 cm, [10357395] Trousse Je suis un Père hors pairs - blanc - 19 x 28 x 9 cm, [10357383] Trousse Captain Papa - blanc - 19 x 28 x 9 cm, [10357385] Trousse Je suis un Père(tinent) - blanc - 19 x 28 x 9 cm"
+        ],
+        [
+            "Montre moi la vente MPTRIBU1",
+            "D'accord! voici les produits : [10357384] Trousse Je suis une Mère(veille) - blanc - 19 x 28 x 9 cm, [10357386] Trousse I Love my Soeur de Coeur - blanc - 19 x 28 x 9 cm, [10357395] Trousse Je suis un Père hors pairs - blanc - 19 x 28 x 9 cm, [10357383] Trousse Captain Papa - blanc - 19 x 28 x 9 cm, [10357385] Trousse Je suis un Père(tinent) - blanc - 19 x 28 x 9 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BALLY8",
+            "Ok! voici les produits : [9538238] Veste - bleu, [9538364] Veste - beige, [9538366] Veste - marron, [9538461] Veste - noir, [9538526] Veste - noir et gris"
+        ],
+        [
+            "Montre moi les produit de la vente BALLY8",
+            "Bien! voici les produits : [9538238] Veste - bleu, [9538364] Veste - beige, [9538366] Veste - marron, [9538461] Veste - noir, [9538526] Veste - noir et gris"
+        ],
+        [
+            "Montre moi la vente BALLY8",
+            "D'accord! voici les produits : [9538238] Veste - bleu, [9538364] Veste - beige, [9538366] Veste - marron, [9538461] Veste - noir, [9538526] Veste - noir et gris"
+        ],
+        [
+            "Donne moi les produit de la vente ANDREACONTI3",
+            "Ok! voici les produits : [8907016] Escarpins ouverts| noir | talon : 6 cm, [8907007] Sandales | noir | talon : 9 cm, [8907009] Sandales | noir | talon : 6 cm, [8906973] Sandales | coloris argenté | talon : 6 cm, [8907011] Sandales | coloris argenté | talon : 6 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ANDREACONTI3",
+            "Bien! voici les produits : [8907016] Escarpins ouverts| noir | talon : 6 cm, [8907007] Sandales | noir | talon : 9 cm, [8907009] Sandales | noir | talon : 6 cm, [8906973] Sandales | coloris argenté | talon : 6 cm, [8907011] Sandales | coloris argenté | talon : 6 cm"
+        ],
+        [
+            "Montre moi la vente ANDREACONTI3",
+            "D'accord! voici les produits : [8907016] Escarpins ouverts| noir | talon : 6 cm, [8907007] Sandales | noir | talon : 9 cm, [8907009] Sandales | noir | talon : 6 cm, [8906973] Sandales | coloris argenté | talon : 6 cm, [8907011] Sandales | coloris argenté | talon : 6 cm"
+        ],
+        [
+            "Donne moi les produit de la vente DEHA15",
+            "Ok! voici les produits : [10697748] XX, [10697378] XX, [10697387] XX, [10697309] XX, [10697502] XX"
+        ],
+        [
+            "Montre moi les produit de la vente DEHA15",
+            "Bien! voici les produits : [10697748] XX, [10697378] XX, [10697387] XX, [10697309] XX, [10697502] XX"
+        ],
+        [
+            "Montre moi la vente DEHA15",
+            "D'accord! voici les produits : [10697748] XX, [10697378] XX, [10697387] XX, [10697309] XX, [10697502] XX"
+        ],
+        [
+            "Donne moi les produit de la vente BIKKEMBERGS38",
+            "Ok! voici les produits : [10410944] Sweat zippé - capuche avec cordon - bleu, [10410753] Doudoune - pois - bleu foncé, [10410949] Sweat zippé - gris chiné, [10410951] Sweat zippé - capuche - noir, [10410805] Doudoune sans manches - capuche - bleu foncé"
+        ],
+        [
+            "Montre moi les produit de la vente BIKKEMBERGS38",
+            "Bien! voici les produits : [10410944] Sweat zippé - capuche avec cordon - bleu, [10410753] Doudoune - pois - bleu foncé, [10410949] Sweat zippé - gris chiné, [10410951] Sweat zippé - capuche - noir, [10410805] Doudoune sans manches - capuche - bleu foncé"
+        ],
+        [
+            "Montre moi la vente BIKKEMBERGS38",
+            "D'accord! voici les produits : [10410944] Sweat zippé - capuche avec cordon - bleu, [10410753] Doudoune - pois - bleu foncé, [10410949] Sweat zippé - gris chiné, [10410951] Sweat zippé - capuche - noir, [10410805] Doudoune sans manches - capuche - bleu foncé"
+        ],
+        [
+            "Donne moi les produit de la vente BORBONESE6",
+            "Ok! voici les produits : [9872441] XX, [9872555] XX, [9872445] Foulard - blanc, [9872443] Étole - rouge foncé, [9872360] Étole - bleu"
+        ],
+        [
+            "Montre moi les produit de la vente BORBONESE6",
+            "Bien! voici les produits : [9872441] XX, [9872555] XX, [9872445] Foulard - blanc, [9872443] Étole - rouge foncé, [9872360] Étole - bleu"
+        ],
+        [
+            "Montre moi la vente BORBONESE6",
+            "D'accord! voici les produits : [9872441] XX, [9872555] XX, [9872445] Foulard - blanc, [9872443] Étole - rouge foncé, [9872360] Étole - bleu"
+        ],
+        [
+            "Donne moi les produit de la vente KEUROSWAN19",
+            "Ok! voici les produits : [10156399] Trousse Trt Together |noir et multicolore |21 x 15 x 12 cm, [10156701] Pyjama 2 pièces Paw Patrol - gris bleu foncé, [10156703] Pyjama 2 pièces Star Wars - gris, [10156750] Chapeau d’été Trolls - bleu ciel, [10156708] Pyjama 2 pièces Spiderman - bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente KEUROSWAN19",
+            "Bien! voici les produits : [10156399] Trousse Trt Together |noir et multicolore |21 x 15 x 12 cm, [10156701] Pyjama 2 pièces Paw Patrol - gris bleu foncé, [10156703] Pyjama 2 pièces Star Wars - gris, [10156750] Chapeau d’été Trolls - bleu ciel, [10156708] Pyjama 2 pièces Spiderman - bleu marine"
+        ],
+        [
+            "Montre moi la vente KEUROSWAN19",
+            "D'accord! voici les produits : [10156399] Trousse Trt Together |noir et multicolore |21 x 15 x 12 cm, [10156701] Pyjama 2 pièces Paw Patrol - gris bleu foncé, [10156703] Pyjama 2 pièces Star Wars - gris, [10156750] Chapeau d’été Trolls - bleu ciel, [10156708] Pyjama 2 pièces Spiderman - bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente PMENDIGOTE10",
+            "Ok! voici les produits : [10135921] Housse pour tablette Platane - noir écru - 27,5 x 21 x 1,5 cm, [10135888] Sac bourse Hachi - cuir suédé - taupe et écru - 18 x 20,5 x 11 cm, [10135907] Housse pour ordinateur Petite Geek - noir - 36,5 x 25,5 x 1 cm, [10136059] Sac bourse Valentin - violet - 41 x 27 x 16 cm, [10136106] Sac bourse Prosper Star - cuir suédé - bleu - 26 x 21 x 10 cm"
+        ],
+        [
+            "Montre moi les produit de la vente PMENDIGOTE10",
+            "Bien! voici les produits : [10135921] Housse pour tablette Platane - noir écru - 27,5 x 21 x 1,5 cm, [10135888] Sac bourse Hachi - cuir suédé - taupe et écru - 18 x 20,5 x 11 cm, [10135907] Housse pour ordinateur Petite Geek - noir - 36,5 x 25,5 x 1 cm, [10136059] Sac bourse Valentin - violet - 41 x 27 x 16 cm, [10136106] Sac bourse Prosper Star - cuir suédé - bleu - 26 x 21 x 10 cm"
+        ],
+        [
+            "Montre moi la vente PMENDIGOTE10",
+            "D'accord! voici les produits : [10135921] Housse pour tablette Platane - noir écru - 27,5 x 21 x 1,5 cm, [10135888] Sac bourse Hachi - cuir suédé - taupe et écru - 18 x 20,5 x 11 cm, [10135907] Housse pour ordinateur Petite Geek - noir - 36,5 x 25,5 x 1 cm, [10136059] Sac bourse Valentin - violet - 41 x 27 x 16 cm, [10136106] Sac bourse Prosper Star - cuir suédé - bleu - 26 x 21 x 10 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ADELLACQUA3",
+            "Ok! voici les produits : [9945069] Mocassins, cuir | noir, [9945053] Richelieu, cuir | marron foncé, [9945066] Derbies, cuir | noir, [9945047] Derbies, cuir | bleu, [9945037] Sneakers montantes, cuir | bleu roi et bleu | tige : 10,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ADELLACQUA3",
+            "Bien! voici les produits : [9945069] Mocassins, cuir | noir, [9945053] Richelieu, cuir | marron foncé, [9945066] Derbies, cuir | noir, [9945047] Derbies, cuir | bleu, [9945037] Sneakers montantes, cuir | bleu roi et bleu | tige : 10,5 cm"
+        ],
+        [
+            "Montre moi la vente ADELLACQUA3",
+            "D'accord! voici les produits : [9945069] Mocassins, cuir | noir, [9945053] Richelieu, cuir | marron foncé, [9945066] Derbies, cuir | noir, [9945047] Derbies, cuir | bleu, [9945037] Sneakers montantes, cuir | bleu roi et bleu | tige : 10,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ALDO13",
+            "Ok! voici les produits : [9850527] Nu-pieds Susie - blanc, [9850753] Espadrilles Frontale - bleu, [9850691] Derbies montantes Wenalia - cuir - marron - tige : 11 cm, [9850710] Espadrilles Molinis - blanc, [9850677] Chaussures bateau Cluenes - cuir - bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente ALDO13",
+            "Bien! voici les produits : [9850527] Nu-pieds Susie - blanc, [9850753] Espadrilles Frontale - bleu, [9850691] Derbies montantes Wenalia - cuir - marron - tige : 11 cm, [9850710] Espadrilles Molinis - blanc, [9850677] Chaussures bateau Cluenes - cuir - bleu marine"
+        ],
+        [
+            "Montre moi la vente ALDO13",
+            "D'accord! voici les produits : [9850527] Nu-pieds Susie - blanc, [9850753] Espadrilles Frontale - bleu, [9850691] Derbies montantes Wenalia - cuir - marron - tige : 11 cm, [9850710] Espadrilles Molinis - blanc, [9850677] Chaussures bateau Cluenes - cuir - bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente AYNEOSENS10",
+            "Ok! voici les produits : [9928943] XX, [9928945] XX, [9928941] XX"
+        ],
+        [
+            "Montre moi les produit de la vente AYNEOSENS10",
+            "Bien! voici les produits : [9928943] XX, [9928945] XX, [9928941] XX"
+        ],
+        [
+            "Montre moi la vente AYNEOSENS10",
+            "D'accord! voici les produits : [9928943] XX, [9928945] XX, [9928941] XX"
+        ],
+        [
+            "Donne moi les produit de la vente KESSLORD21",
+            "Ok! voici les produits : [10445209] Sac cartable Arthur - cuir grainé - noir - 37 x 28 x 13 cm, [10445240] Sac cartable Arthur - cuir grainé - taupe - 37 x 28 x 13 cm, [10445159] Sac cartable Arthur - cuir grainé - camel - 37 x 28 x 13 cm, [10445161] Sac cartable Arthur - cuir grainé - bleu - 37 x 28 x 13 cm, [10445232] Sac cartable Arthur - cuir grainé - rouge - 37 x 28 x 13 cm"
+        ],
+        [
+            "Montre moi les produit de la vente KESSLORD21",
+            "Bien! voici les produits : [10445209] Sac cartable Arthur - cuir grainé - noir - 37 x 28 x 13 cm, [10445240] Sac cartable Arthur - cuir grainé - taupe - 37 x 28 x 13 cm, [10445159] Sac cartable Arthur - cuir grainé - camel - 37 x 28 x 13 cm, [10445161] Sac cartable Arthur - cuir grainé - bleu - 37 x 28 x 13 cm, [10445232] Sac cartable Arthur - cuir grainé - rouge - 37 x 28 x 13 cm"
+        ],
+        [
+            "Montre moi la vente KESSLORD21",
+            "D'accord! voici les produits : [10445209] Sac cartable Arthur - cuir grainé - noir - 37 x 28 x 13 cm, [10445240] Sac cartable Arthur - cuir grainé - taupe - 37 x 28 x 13 cm, [10445159] Sac cartable Arthur - cuir grainé - camel - 37 x 28 x 13 cm, [10445161] Sac cartable Arthur - cuir grainé - bleu - 37 x 28 x 13 cm, [10445232] Sac cartable Arthur - cuir grainé - rouge - 37 x 28 x 13 cm"
+        ],
+        [
+            "Donne moi les produit de la vente HEDGREN2",
+            "Ok! voici les produits : [9771645] Sac à bandoulière - camel et gris | 41 x 31 x 10 cm, [9722063] Trousse de maquillage - noir denim | 27 x 17 x 11 cm, [9722121] Sac week-end - kaki et écru | 45 x 20 x 24 cm, [9722086] Sac enveloppe - bleu denim | 44 x 30 x 11 cm, [9722064] Trousse de maquillage - gris | 27 x 17 x 11 cm"
+        ],
+        [
+            "Montre moi les produit de la vente HEDGREN2",
+            "Bien! voici les produits : [9771645] Sac à bandoulière - camel et gris | 41 x 31 x 10 cm, [9722063] Trousse de maquillage - noir denim | 27 x 17 x 11 cm, [9722121] Sac week-end - kaki et écru | 45 x 20 x 24 cm, [9722086] Sac enveloppe - bleu denim | 44 x 30 x 11 cm, [9722064] Trousse de maquillage - gris | 27 x 17 x 11 cm"
+        ],
+        [
+            "Montre moi la vente HEDGREN2",
+            "D'accord! voici les produits : [9771645] Sac à bandoulière - camel et gris | 41 x 31 x 10 cm, [9722063] Trousse de maquillage - noir denim | 27 x 17 x 11 cm, [9722121] Sac week-end - kaki et écru | 45 x 20 x 24 cm, [9722086] Sac enveloppe - bleu denim | 44 x 30 x 11 cm, [9722064] Trousse de maquillage - gris | 27 x 17 x 11 cm"
+        ],
+        [
+            "Donne moi les produit de la vente JROBIN7",
+            "Ok! voici les produits : [10278251] Culotte de bain Marbell - bleu nacré, [10278357] Tunique Miramar - motif géométrique - bleu marine, [10278319] Soutien-gorge classique Tobago - motif fleuri - rose et jaune, [10278330] Soutien-gorge corbeille Eugenie - motif léopard - bleu foncé et beige, [10278317] Soutien-gorge classique Bel Air - noir et blanc"
+        ],
+        [
+            "Montre moi les produit de la vente JROBIN7",
+            "Bien! voici les produits : [10278251] Culotte de bain Marbell - bleu nacré, [10278357] Tunique Miramar - motif géométrique - bleu marine, [10278319] Soutien-gorge classique Tobago - motif fleuri - rose et jaune, [10278330] Soutien-gorge corbeille Eugenie - motif léopard - bleu foncé et beige, [10278317] Soutien-gorge classique Bel Air - noir et blanc"
+        ],
+        [
+            "Montre moi la vente JROBIN7",
+            "D'accord! voici les produits : [10278251] Culotte de bain Marbell - bleu nacré, [10278357] Tunique Miramar - motif géométrique - bleu marine, [10278319] Soutien-gorge classique Tobago - motif fleuri - rose et jaune, [10278330] Soutien-gorge corbeille Eugenie - motif léopard - bleu foncé et beige, [10278317] Soutien-gorge classique Bel Air - noir et blanc"
+        ],
+        [
+            "Donne moi les produit de la vente ADIDAS67",
+            "Ok! voici les produits : [10378435] Mules Adilette Blod W - blanc et noir - Semelles compensées : 3,5 cm, [10378872] Chaussures Winterfast Sl K - noir et rouge, [10378740] Chaussures de running - rouge et rouge foncé, [10378898] Coque pour téléphone 1996 TPU Case iPhon  - doré - 6,5 x 14 x 1,5 cm, [10378874] Chaussures Zx Flux J - blanc et noir"
+        ],
+        [
+            "Montre moi les produit de la vente ADIDAS67",
+            "Bien! voici les produits : [10378435] Mules Adilette Blod W - blanc et noir - Semelles compensées : 3,5 cm, [10378872] Chaussures Winterfast Sl K - noir et rouge, [10378740] Chaussures de running - rouge et rouge foncé, [10378898] Coque pour téléphone 1996 TPU Case iPhon  - doré - 6,5 x 14 x 1,5 cm, [10378874] Chaussures Zx Flux J - blanc et noir"
+        ],
+        [
+            "Montre moi la vente ADIDAS67",
+            "D'accord! voici les produits : [10378435] Mules Adilette Blod W - blanc et noir - Semelles compensées : 3,5 cm, [10378872] Chaussures Winterfast Sl K - noir et rouge, [10378740] Chaussures de running - rouge et rouge foncé, [10378898] Coque pour téléphone 1996 TPU Case iPhon  - doré - 6,5 x 14 x 1,5 cm, [10378874] Chaussures Zx Flux J - blanc et noir"
+        ],
+        [
+            "Donne moi les produit de la vente VANS29",
+            "Ok! voici les produits : [9476743] Pull - rayures - bordeaux, [9428241] Polaire - capuche - noir, [9428194] Pull - gris, [9476662] Solerettes - 3 paires - noir, [9428193] Pull - moucheté - bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente VANS29",
+            "Bien! voici les produits : [9476743] Pull - rayures - bordeaux, [9428241] Polaire - capuche - noir, [9428194] Pull - gris, [9476662] Solerettes - 3 paires - noir, [9428193] Pull - moucheté - bleu marine"
+        ],
+        [
+            "Montre moi la vente VANS29",
+            "D'accord! voici les produits : [9476743] Pull - rayures - bordeaux, [9428241] Polaire - capuche - noir, [9428194] Pull - gris, [9476662] Solerettes - 3 paires - noir, [9428193] Pull - moucheté - bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente ETAM57",
+            "Ok! voici les produits : [10340705] Soutien-gorge balconnet emboîtant Sweetie - noir, [10340744] Soutien-gorge bandeau Playa - bleu, [10340355] Culotte Fraicheur - noir, [10340256] Body Tiffany - 12% élasthanne - écru, [10340321] Chemise de nuit Smarty - 95% coton - gris"
+        ],
+        [
+            "Montre moi les produit de la vente ETAM57",
+            "Bien! voici les produits : [10340705] Soutien-gorge balconnet emboîtant Sweetie - noir, [10340744] Soutien-gorge bandeau Playa - bleu, [10340355] Culotte Fraicheur - noir, [10340256] Body Tiffany - 12% élasthanne - écru, [10340321] Chemise de nuit Smarty - 95% coton - gris"
+        ],
+        [
+            "Montre moi la vente ETAM57",
+            "D'accord! voici les produits : [10340705] Soutien-gorge balconnet emboîtant Sweetie - noir, [10340744] Soutien-gorge bandeau Playa - bleu, [10340355] Culotte Fraicheur - noir, [10340256] Body Tiffany - 12% élasthanne - écru, [10340321] Chemise de nuit Smarty - 95% coton - gris"
+        ],
+        [
+            "Donne moi les produit de la vente ALUGGAGE4",
+            "Ok! voici les produits : [9437969] Valise Juno Medium |4 roues, blanc |68 x 46 x 26 cm - 70L, [9437938] Sac à dos Bailey Backpack, magenta |50 x 35 x 20 cm - 32L, [9437974] Valie Pluto Large  |4 roues |charbon|80 x 52 x 32 cm, [9437979] Valise Pluto Exclusive Medium |4 roues, rouge |71 x 45 x 28 cm - 81L, [9437962] Valise cabine Fitzroy Exclusive |4 roues, marine| 56 x 35 x 23 cm - 36L"
+        ],
+        [
+            "Montre moi les produit de la vente ALUGGAGE4",
+            "Bien! voici les produits : [9437969] Valise Juno Medium |4 roues, blanc |68 x 46 x 26 cm - 70L, [9437938] Sac à dos Bailey Backpack, magenta |50 x 35 x 20 cm - 32L, [9437974] Valie Pluto Large  |4 roues |charbon|80 x 52 x 32 cm, [9437979] Valise Pluto Exclusive Medium |4 roues, rouge |71 x 45 x 28 cm - 81L, [9437962] Valise cabine Fitzroy Exclusive |4 roues, marine| 56 x 35 x 23 cm - 36L"
+        ],
+        [
+            "Montre moi la vente ALUGGAGE4",
+            "D'accord! voici les produits : [9437969] Valise Juno Medium |4 roues, blanc |68 x 46 x 26 cm - 70L, [9437938] Sac à dos Bailey Backpack, magenta |50 x 35 x 20 cm - 32L, [9437974] Valie Pluto Large  |4 roues |charbon|80 x 52 x 32 cm, [9437979] Valise Pluto Exclusive Medium |4 roues, rouge |71 x 45 x 28 cm - 81L, [9437962] Valise cabine Fitzroy Exclusive |4 roues, marine| 56 x 35 x 23 cm - 36L"
+        ],
+        [
+            "Donne moi les produit de la vente ARCHE11",
+            "Ok! voici les produits : [9248296] Babies Garrex, cuir suédé | noir | talon : 5 cm, [9248118] Derbies montantes Dalix, cuir suédé | noir et coloris argenté | talon : 4 cm tige : 12 cm, [9248166] Derbies montantes Dalix, cuir suédé | noir | talon : 4 cm tige : 12 cm, [9248251] Derbies montantes Balad, cuir suédé | gris foncé | tige : 9 cm, [9248278] Derbies montantes Bareye, cuir suédé | marron foncé | tige : 8 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ARCHE11",
+            "Bien! voici les produits : [9248296] Babies Garrex, cuir suédé | noir | talon : 5 cm, [9248118] Derbies montantes Dalix, cuir suédé | noir et coloris argenté | talon : 4 cm tige : 12 cm, [9248166] Derbies montantes Dalix, cuir suédé | noir | talon : 4 cm tige : 12 cm, [9248251] Derbies montantes Balad, cuir suédé | gris foncé | tige : 9 cm, [9248278] Derbies montantes Bareye, cuir suédé | marron foncé | tige : 8 cm"
+        ],
+        [
+            "Montre moi la vente ARCHE11",
+            "D'accord! voici les produits : [9248296] Babies Garrex, cuir suédé | noir | talon : 5 cm, [9248118] Derbies montantes Dalix, cuir suédé | noir et coloris argenté | talon : 4 cm tige : 12 cm, [9248166] Derbies montantes Dalix, cuir suédé | noir | talon : 4 cm tige : 12 cm, [9248251] Derbies montantes Balad, cuir suédé | gris foncé | tige : 9 cm, [9248278] Derbies montantes Bareye, cuir suédé | marron foncé | tige : 8 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AAPPAREL5",
+            "Ok! voici les produits : [7841909] Body Beauty|Noir et rouge, [10250437] Jean | bleu denim brut, [10250488] Tongs | noir, [10250538] Bermuda | kaki, [7841892] Body Crazy|Blanc et rouge"
+        ],
+        [
+            "Montre moi les produit de la vente AAPPAREL5",
+            "Bien! voici les produits : [7841909] Body Beauty|Noir et rouge, [10250437] Jean | bleu denim brut, [10250488] Tongs | noir, [10250538] Bermuda | kaki, [7841892] Body Crazy|Blanc et rouge"
+        ],
+        [
+            "Montre moi la vente AAPPAREL5",
+            "D'accord! voici les produits : [7841909] Body Beauty|Noir et rouge, [10250437] Jean | bleu denim brut, [10250488] Tongs | noir, [10250538] Bermuda | kaki, [7841892] Body Crazy|Blanc et rouge"
+        ],
+        [
+            "Donne moi les produit de la vente PABLOSKY18",
+            "Ok! voici les produits : [5623038] Chaussures ouvertes, cuir|blanc et rose, [5623130] Chaussures ouvertes, cuir|blanc, [5623139] Chaussures ouvertes, cuir|marron, [5623072] Chaussures ouvertes|bleu marine et turquoise, [5623112] Chaussures ouvertes, cuir|marron"
+        ],
+        [
+            "Montre moi les produit de la vente PABLOSKY18",
+            "Bien! voici les produits : [5623038] Chaussures ouvertes, cuir|blanc et rose, [5623130] Chaussures ouvertes, cuir|blanc, [5623139] Chaussures ouvertes, cuir|marron, [5623072] Chaussures ouvertes|bleu marine et turquoise, [5623112] Chaussures ouvertes, cuir|marron"
+        ],
+        [
+            "Montre moi la vente PABLOSKY18",
+            "D'accord! voici les produits : [5623038] Chaussures ouvertes, cuir|blanc et rose, [5623130] Chaussures ouvertes, cuir|blanc, [5623139] Chaussures ouvertes, cuir|marron, [5623072] Chaussures ouvertes|bleu marine et turquoise, [5623112] Chaussures ouvertes, cuir|marron"
+        ],
+        [
+            "Donne moi les produit de la vente BRIHL14",
+            "Ok! voici les produits : [9606238] Pochette Grace In San Francisco - blanc - noir - 26 x 17 x 1 cm, [9606346] Trousse Charlotte In Miami - blanc - noir - 18 x 10 x 11 cm, [9606366] Porte-étiquettes Giulia In Manila - beige - noir - 6,5 x 10,5 x 1, [9606441] Pochette bandoulière Hannah In Paris - jaune - gris - 27 x 16 x 2 cm, [9606351] Trousse Chic Traveller - blanc - noir - 18 x 10 x 11 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BRIHL14",
+            "Bien! voici les produits : [9606238] Pochette Grace In San Francisco - blanc - noir - 26 x 17 x 1 cm, [9606346] Trousse Charlotte In Miami - blanc - noir - 18 x 10 x 11 cm, [9606366] Porte-étiquettes Giulia In Manila - beige - noir - 6,5 x 10,5 x 1, [9606441] Pochette bandoulière Hannah In Paris - jaune - gris - 27 x 16 x 2 cm, [9606351] Trousse Chic Traveller - blanc - noir - 18 x 10 x 11 cm"
+        ],
+        [
+            "Montre moi la vente BRIHL14",
+            "D'accord! voici les produits : [9606238] Pochette Grace In San Francisco - blanc - noir - 26 x 17 x 1 cm, [9606346] Trousse Charlotte In Miami - blanc - noir - 18 x 10 x 11 cm, [9606366] Porte-étiquettes Giulia In Manila - beige - noir - 6,5 x 10,5 x 1, [9606441] Pochette bandoulière Hannah In Paris - jaune - gris - 27 x 16 x 2 cm, [9606351] Trousse Chic Traveller - blanc - noir - 18 x 10 x 11 cm"
+        ],
+        [
+            "Donne moi les produit de la vente SSUCRE13",
+            "Ok! voici les produits : [10331009] Shorty string Hortensia - dentelle - blanc et rose poudré, [10330906] Body-string Aida - 5% élasthanne - motif python - noir, [10330908] Body-string Iris - 10% élasthanne - dentelle - noir, [10330959] Soutien-gorge bandeau Aida - résille - rouge, [10330907] Body-string Aida - motif python - rouge"
+        ],
+        [
+            "Montre moi les produit de la vente SSUCRE13",
+            "Bien! voici les produits : [10331009] Shorty string Hortensia - dentelle - blanc et rose poudré, [10330906] Body-string Aida - 5% élasthanne - motif python - noir, [10330908] Body-string Iris - 10% élasthanne - dentelle - noir, [10330959] Soutien-gorge bandeau Aida - résille - rouge, [10330907] Body-string Aida - motif python - rouge"
+        ],
+        [
+            "Montre moi la vente SSUCRE13",
+            "D'accord! voici les produits : [10331009] Shorty string Hortensia - dentelle - blanc et rose poudré, [10330906] Body-string Aida - 5% élasthanne - motif python - noir, [10330908] Body-string Iris - 10% élasthanne - dentelle - noir, [10330959] Soutien-gorge bandeau Aida - résille - rouge, [10330907] Body-string Aida - motif python - rouge"
+        ],
+        [
+            "Donne moi les produit de la vente ROSY19",
+            "Ok! voici les produits : [9707288] Soutien-gorge demi-bonnets Jannice - à armatures - noir, [9707382] Soutien-gorge emboîtant Celeste - bonnets sans coques - corail fluo, [9707263] Corset Sublime - push-up - corail et écru, [9707265] Corset Sublime - push-up - vieux rose et écru, [9707256] Body-string Jannice - sans armatures - noir"
+        ],
+        [
+            "Montre moi les produit de la vente ROSY19",
+            "Bien! voici les produits : [9707288] Soutien-gorge demi-bonnets Jannice - à armatures - noir, [9707382] Soutien-gorge emboîtant Celeste - bonnets sans coques - corail fluo, [9707263] Corset Sublime - push-up - corail et écru, [9707265] Corset Sublime - push-up - vieux rose et écru, [9707256] Body-string Jannice - sans armatures - noir"
+        ],
+        [
+            "Montre moi la vente ROSY19",
+            "D'accord! voici les produits : [9707288] Soutien-gorge demi-bonnets Jannice - à armatures - noir, [9707382] Soutien-gorge emboîtant Celeste - bonnets sans coques - corail fluo, [9707263] Corset Sublime - push-up - corail et écru, [9707265] Corset Sublime - push-up - vieux rose et écru, [9707256] Body-string Jannice - sans armatures - noir"
+        ],
+        [
+            "Donne moi les produit de la vente FACONNABLE43",
+            "Ok! voici les produits : [10080461] Bermuda de bain - orange, [10080027] Caleçon - motif vichy - bleu marine et blanc, [10080470] Bermuda de bain - rouge, [10080314] Costume 2 pièces - bleu pâle, [10079956] Housse pour ordinateur - bleu beige - 36 x 28 x 3 cm"
+        ],
+        [
+            "Montre moi les produit de la vente FACONNABLE43",
+            "Bien! voici les produits : [10080461] Bermuda de bain - orange, [10080027] Caleçon - motif vichy - bleu marine et blanc, [10080470] Bermuda de bain - rouge, [10080314] Costume 2 pièces - bleu pâle, [10079956] Housse pour ordinateur - bleu beige - 36 x 28 x 3 cm"
+        ],
+        [
+            "Montre moi la vente FACONNABLE43",
+            "D'accord! voici les produits : [10080461] Bermuda de bain - orange, [10080027] Caleçon - motif vichy - bleu marine et blanc, [10080470] Bermuda de bain - rouge, [10080314] Costume 2 pièces - bleu pâle, [10079956] Housse pour ordinateur - bleu beige - 36 x 28 x 3 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BALDININI5",
+            "Ok! voici les produits : [9225605] Derbies montantes, cuir | bleu ardoise | tige: 3 cm, semelle: 3cm, [9225606] Derbies montantes, cuir | gris tourterelle et bleu ardoise| tige: 3 cm, semelle: 3cm"
+        ],
+        [
+            "Montre moi les produit de la vente BALDININI5",
+            "Bien! voici les produits : [9225605] Derbies montantes, cuir | bleu ardoise | tige: 3 cm, semelle: 3cm, [9225606] Derbies montantes, cuir | gris tourterelle et bleu ardoise| tige: 3 cm, semelle: 3cm"
+        ],
+        [
+            "Montre moi la vente BALDININI5",
+            "D'accord! voici les produits : [9225605] Derbies montantes, cuir | bleu ardoise | tige: 3 cm, semelle: 3cm, [9225606] Derbies montantes, cuir | gris tourterelle et bleu ardoise| tige: 3 cm, semelle: 3cm"
+        ],
+        [
+            "Donne moi les produit de la vente BROOKSFIELD4",
+            "Ok! voici les produits : [10521004] XX, [10521135] XX, [10521122] XX, [10521041] XX, [10521129] XX"
+        ],
+        [
+            "Montre moi les produit de la vente BROOKSFIELD4",
+            "Bien! voici les produits : [10521004] XX, [10521135] XX, [10521122] XX, [10521041] XX, [10521129] XX"
+        ],
+        [
+            "Montre moi la vente BROOKSFIELD4",
+            "D'accord! voici les produits : [10521004] XX, [10521135] XX, [10521122] XX, [10521041] XX, [10521129] XX"
+        ],
+        [
+            "Donne moi les produit de la vente ISATO2",
+            "Ok! voici les produits : [10130383] Pochette | gris et bleu | 32 x 20 x 1 cm, [10130390] Pochette | cuir | camel et jaune | 30 x 20 x 1 cm, [10130484] Pochette | kaki | 26 x 17 x 3 cm, [10130374] Sac à main | cuir | vert et gris | 30 x 18 x 1 cm, [10130540] Corsaire| soie |fuchsia"
+        ],
+        [
+            "Montre moi les produit de la vente ISATO2",
+            "Bien! voici les produits : [10130383] Pochette | gris et bleu | 32 x 20 x 1 cm, [10130390] Pochette | cuir | camel et jaune | 30 x 20 x 1 cm, [10130484] Pochette | kaki | 26 x 17 x 3 cm, [10130374] Sac à main | cuir | vert et gris | 30 x 18 x 1 cm, [10130540] Corsaire| soie |fuchsia"
+        ],
+        [
+            "Montre moi la vente ISATO2",
+            "D'accord! voici les produits : [10130383] Pochette | gris et bleu | 32 x 20 x 1 cm, [10130390] Pochette | cuir | camel et jaune | 30 x 20 x 1 cm, [10130484] Pochette | kaki | 26 x 17 x 3 cm, [10130374] Sac à main | cuir | vert et gris | 30 x 18 x 1 cm, [10130540] Corsaire| soie |fuchsia"
+        ],
+        [
+            "Donne moi les produit de la vente BONLY16",
+            "Ok! voici les produits : [9617929] Bottes Color Hiver - rose - tige : 18 cm, [9617955] Bottes Dalmatina - vert et jaune - tige : 16,5 cm, [9617960] Bottes Iris - rose et noir - tige : 16,5 cm, [9617948] Bottes Cherry - beige et rouge - tige : 16,5 cm, [9617946] Bottes Lovely Flash, lumières clignotantes - rose et blanc - tige : 15 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BONLY16",
+            "Bien! voici les produits : [9617929] Bottes Color Hiver - rose - tige : 18 cm, [9617955] Bottes Dalmatina - vert et jaune - tige : 16,5 cm, [9617960] Bottes Iris - rose et noir - tige : 16,5 cm, [9617948] Bottes Cherry - beige et rouge - tige : 16,5 cm, [9617946] Bottes Lovely Flash, lumières clignotantes - rose et blanc - tige : 15 cm"
+        ],
+        [
+            "Montre moi la vente BONLY16",
+            "D'accord! voici les produits : [9617929] Bottes Color Hiver - rose - tige : 18 cm, [9617955] Bottes Dalmatina - vert et jaune - tige : 16,5 cm, [9617960] Bottes Iris - rose et noir - tige : 16,5 cm, [9617948] Bottes Cherry - beige et rouge - tige : 16,5 cm, [9617946] Bottes Lovely Flash, lumières clignotantes - rose et blanc - tige : 15 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ALUXE15",
+            "Ok! voici les produits : [8715708] Sac Bowery, cuir|camel|40 x 36 x 18 cm, [8715699] Chapka Raf Hat, cuir|rouge foncé, [8715694] Sac Bedford, cuir|marron foncé|37 x 40 x 20 cm, [8715668] Chapka Raf Hat, cuir|taupe, [8715656] Sac Brooklyn, cuir|noir|38 x 37 x 18 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ALUXE15",
+            "Bien! voici les produits : [8715708] Sac Bowery, cuir|camel|40 x 36 x 18 cm, [8715699] Chapka Raf Hat, cuir|rouge foncé, [8715694] Sac Bedford, cuir|marron foncé|37 x 40 x 20 cm, [8715668] Chapka Raf Hat, cuir|taupe, [8715656] Sac Brooklyn, cuir|noir|38 x 37 x 18 cm"
+        ],
+        [
+            "Montre moi la vente ALUXE15",
+            "D'accord! voici les produits : [8715708] Sac Bowery, cuir|camel|40 x 36 x 18 cm, [8715699] Chapka Raf Hat, cuir|rouge foncé, [8715694] Sac Bedford, cuir|marron foncé|37 x 40 x 20 cm, [8715668] Chapka Raf Hat, cuir|taupe, [8715656] Sac Brooklyn, cuir|noir|38 x 37 x 18 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BAGLLERINA3",
+            "Ok! voici les produits : [9785714] Ballerines Cocoon - cuir d'agneau - coloris bronze, [9785721] Ballerines Cocoon - cuir d'agneau - camel, [9785719] Ballerines Cocoon - cuir d'agneau - coloris doré, [9785712] Ballerines Cocoon - cuir d'agneau - blanc, [9785711] Ballerines Cocoon - cuir d'agneau - coloris argenté"
+        ],
+        [
+            "Montre moi les produit de la vente BAGLLERINA3",
+            "Bien! voici les produits : [9785714] Ballerines Cocoon - cuir d'agneau - coloris bronze, [9785721] Ballerines Cocoon - cuir d'agneau - camel, [9785719] Ballerines Cocoon - cuir d'agneau - coloris doré, [9785712] Ballerines Cocoon - cuir d'agneau - blanc, [9785711] Ballerines Cocoon - cuir d'agneau - coloris argenté"
+        ],
+        [
+            "Montre moi la vente BAGLLERINA3",
+            "D'accord! voici les produits : [9785714] Ballerines Cocoon - cuir d'agneau - coloris bronze, [9785721] Ballerines Cocoon - cuir d'agneau - camel, [9785719] Ballerines Cocoon - cuir d'agneau - coloris doré, [9785712] Ballerines Cocoon - cuir d'agneau - blanc, [9785711] Ballerines Cocoon - cuir d'agneau - coloris argenté"
+        ],
+        [
+            "Donne moi les produit de la vente ALPINI1",
+            "Ok! voici les produits : [10342177] Valise long séjour Linea - noir - 49 x 69,5 x 30 cm - V : 102 L, [10342163] Valise cabine Horizon - taupe - 35 x 53 x 23 cm - V : 37 L, [10342112] Sac de voyage Aventura - bleu - 31 x 50 x 20 cm - V : 30 L, [10342078] Set de 3 valises Selecta - orange - H : 55/67/77 cm - V : 37/78/122 L, [10342142] Valise moyen séjour Venise - noir - 43 x 66 x 25 cm - V : 71 L"
+        ],
+        [
+            "Montre moi les produit de la vente ALPINI1",
+            "Bien! voici les produits : [10342177] Valise long séjour Linea - noir - 49 x 69,5 x 30 cm - V : 102 L, [10342163] Valise cabine Horizon - taupe - 35 x 53 x 23 cm - V : 37 L, [10342112] Sac de voyage Aventura - bleu - 31 x 50 x 20 cm - V : 30 L, [10342078] Set de 3 valises Selecta - orange - H : 55/67/77 cm - V : 37/78/122 L, [10342142] Valise moyen séjour Venise - noir - 43 x 66 x 25 cm - V : 71 L"
+        ],
+        [
+            "Montre moi la vente ALPINI1",
+            "D'accord! voici les produits : [10342177] Valise long séjour Linea - noir - 49 x 69,5 x 30 cm - V : 102 L, [10342163] Valise cabine Horizon - taupe - 35 x 53 x 23 cm - V : 37 L, [10342112] Sac de voyage Aventura - bleu - 31 x 50 x 20 cm - V : 30 L, [10342078] Set de 3 valises Selecta - orange - H : 55/67/77 cm - V : 37/78/122 L, [10342142] Valise moyen séjour Venise - noir - 43 x 66 x 25 cm - V : 71 L"
+        ],
+        [
+            "Donne moi les produit de la vente ADAGATTI7",
+            "Ok! voici les produits : [10257981] Jupe, effet de superposition | kaki, [10257955] Slippers | gris, [10258011] Robe | noir, [10258016] Top | bleu clair, [10257972] Jupe | grenat et bleu"
+        ],
+        [
+            "Montre moi les produit de la vente ADAGATTI7",
+            "Bien! voici les produits : [10257981] Jupe, effet de superposition | kaki, [10257955] Slippers | gris, [10258011] Robe | noir, [10258016] Top | bleu clair, [10257972] Jupe | grenat et bleu"
+        ],
+        [
+            "Montre moi la vente ADAGATTI7",
+            "D'accord! voici les produits : [10257981] Jupe, effet de superposition | kaki, [10257955] Slippers | gris, [10258011] Robe | noir, [10258016] Top | bleu clair, [10257972] Jupe | grenat et bleu"
+        ],
+        [
+            "Donne moi les produit de la vente ANTONYME4",
+            "Ok! voici les produits : [9991709] Porte-documents Orlando - anthracite - 40 x 39 x 10 cm, [9991666] Porte-documents Giotto - cuir - marron - 48 x 32 x 15 cm, [9991659] Porte-documents Daniel - cuir - camel - 40 x 30 x 4 cm, [9991715] Sacoche Gaston - bleu et marron - 22,5 x 23 x 7,5 cm, [9991720] Sacoche Gaston - anthracite et noir - 22,5 x 23 x 7,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ANTONYME4",
+            "Bien! voici les produits : [9991709] Porte-documents Orlando - anthracite - 40 x 39 x 10 cm, [9991666] Porte-documents Giotto - cuir - marron - 48 x 32 x 15 cm, [9991659] Porte-documents Daniel - cuir - camel - 40 x 30 x 4 cm, [9991715] Sacoche Gaston - bleu et marron - 22,5 x 23 x 7,5 cm, [9991720] Sacoche Gaston - anthracite et noir - 22,5 x 23 x 7,5 cm"
+        ],
+        [
+            "Montre moi la vente ANTONYME4",
+            "D'accord! voici les produits : [9991709] Porte-documents Orlando - anthracite - 40 x 39 x 10 cm, [9991666] Porte-documents Giotto - cuir - marron - 48 x 32 x 15 cm, [9991659] Porte-documents Daniel - cuir - camel - 40 x 30 x 4 cm, [9991715] Sacoche Gaston - bleu et marron - 22,5 x 23 x 7,5 cm, [9991720] Sacoche Gaston - anthracite et noir - 22,5 x 23 x 7,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BONOBO10",
+            "Ok! voici les produits : [9989973] Robe bustier - rayures - bleu denim et écru, [9990023] Boxer x 2 - vert émeraude et bleu marine, [9990032] Chaussettes - 3 paires - rouge, blanc et bleu, [9990018] Boxer x 2 - bleu canard et blanc, [9989897] Top - vert et noir"
+        ],
+        [
+            "Montre moi les produit de la vente BONOBO10",
+            "Bien! voici les produits : [9989973] Robe bustier - rayures - bleu denim et écru, [9990023] Boxer x 2 - vert émeraude et bleu marine, [9990032] Chaussettes - 3 paires - rouge, blanc et bleu, [9990018] Boxer x 2 - bleu canard et blanc, [9989897] Top - vert et noir"
+        ],
+        [
+            "Montre moi la vente BONOBO10",
+            "D'accord! voici les produits : [9989973] Robe bustier - rayures - bleu denim et écru, [9990023] Boxer x 2 - vert émeraude et bleu marine, [9990032] Chaussettes - 3 paires - rouge, blanc et bleu, [9990018] Boxer x 2 - bleu canard et blanc, [9989897] Top - vert et noir"
+        ],
+        [
+            "Donne moi les produit de la vente ARCHE12",
+            "Ok! voici les produits : [10240364] Salomés Padika - nubuck - vert - talon : 6,5 cm, [10240352] Salomés Padika - nubuck - gris - talon : 6,5 cm, [10240134] Babies Peraga - nubuck - camel - talon : 6,5 cm, [10240353] Sandales Pyko - nubuck - jaune, [10240343] Salomés Padika - nubuck - beige - talon : 6,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ARCHE12",
+            "Bien! voici les produits : [10240364] Salomés Padika - nubuck - vert - talon : 6,5 cm, [10240352] Salomés Padika - nubuck - gris - talon : 6,5 cm, [10240134] Babies Peraga - nubuck - camel - talon : 6,5 cm, [10240353] Sandales Pyko - nubuck - jaune, [10240343] Salomés Padika - nubuck - beige - talon : 6,5 cm"
+        ],
+        [
+            "Montre moi la vente ARCHE12",
+            "D'accord! voici les produits : [10240364] Salomés Padika - nubuck - vert - talon : 6,5 cm, [10240352] Salomés Padika - nubuck - gris - talon : 6,5 cm, [10240134] Babies Peraga - nubuck - camel - talon : 6,5 cm, [10240353] Sandales Pyko - nubuck - jaune, [10240343] Salomés Padika - nubuck - beige - talon : 6,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente FOTOPRIX3",
+            "Ok! voici les produits : [7704578] XX"
+        ],
+        [
+            "Montre moi les produit de la vente FOTOPRIX3",
+            "Bien! voici les produits : [7704578] XX"
+        ],
+        [
+            "Montre moi la vente FOTOPRIX3",
+            "D'accord! voici les produits : [7704578] XX"
+        ],
+        [
+            "Donne moi les produit de la vente TRAVELONE30",
+            "Ok! voici les produits : [10261109] Porte-ordinateur à roulettes - noir - 40 x 34 x 17 cm"
+        ],
+        [
+            "Montre moi les produit de la vente TRAVELONE30",
+            "Bien! voici les produits : [10261109] Porte-ordinateur à roulettes - noir - 40 x 34 x 17 cm"
+        ],
+        [
+            "Montre moi la vente TRAVELONE30",
+            "D'accord! voici les produits : [10261109] Porte-ordinateur à roulettes - noir - 40 x 34 x 17 cm"
+        ],
+        [
+            "Donne moi les produit de la vente OAKWOOD43",
+            "Ok! voici les produits : [10644664] FEMME-ROBE-BLEU MARINE-61468-534, [10644579] FEMME-ACCESOIRE-ROSE CLAIR-61918-546, [10644575] FEMME-ACCESOIRE-BEIGE-61918-513, [10644676] FEMME-VESTE-NOIR-62042-501, [10644650] FEMME-BLOUSON-VISON-59661-559"
+        ],
+        [
+            "Montre moi les produit de la vente OAKWOOD43",
+            "Bien! voici les produits : [10644664] FEMME-ROBE-BLEU MARINE-61468-534, [10644579] FEMME-ACCESOIRE-ROSE CLAIR-61918-546, [10644575] FEMME-ACCESOIRE-BEIGE-61918-513, [10644676] FEMME-VESTE-NOIR-62042-501, [10644650] FEMME-BLOUSON-VISON-59661-559"
+        ],
+        [
+            "Montre moi la vente OAKWOOD43",
+            "D'accord! voici les produits : [10644664] FEMME-ROBE-BLEU MARINE-61468-534, [10644579] FEMME-ACCESOIRE-ROSE CLAIR-61918-546, [10644575] FEMME-ACCESOIRE-BEIGE-61918-513, [10644676] FEMME-VESTE-NOIR-62042-501, [10644650] FEMME-BLOUSON-VISON-59661-559"
+        ],
+        [
+            "Donne moi les produit de la vente FAGUO9",
+            "Ok! voici les produits : [8380765] Sac week-end Weekender | noir et marron clair | 55 x 35 x 25 cm, [8380759] Sac de sport Duffle | blanc et bleu marine | 45 x 30 x 25 cm, [8380763] Sac de sport Duffle | coloris doré et bleu marine | 45 x 30 x 20 cm, [8380758] Porte-documents  | chocolat et marron clair | 40 x 35 x 5 cm, [8380761] Sac de sport Big Duffle | bleu et blanc | 55 x 30 x 35 cm"
+        ],
+        [
+            "Montre moi les produit de la vente FAGUO9",
+            "Bien! voici les produits : [8380765] Sac week-end Weekender | noir et marron clair | 55 x 35 x 25 cm, [8380759] Sac de sport Duffle | blanc et bleu marine | 45 x 30 x 25 cm, [8380763] Sac de sport Duffle | coloris doré et bleu marine | 45 x 30 x 20 cm, [8380758] Porte-documents  | chocolat et marron clair | 40 x 35 x 5 cm, [8380761] Sac de sport Big Duffle | bleu et blanc | 55 x 30 x 35 cm"
+        ],
+        [
+            "Montre moi la vente FAGUO9",
+            "D'accord! voici les produits : [8380765] Sac week-end Weekender | noir et marron clair | 55 x 35 x 25 cm, [8380759] Sac de sport Duffle | blanc et bleu marine | 45 x 30 x 25 cm, [8380763] Sac de sport Duffle | coloris doré et bleu marine | 45 x 30 x 20 cm, [8380758] Porte-documents  | chocolat et marron clair | 40 x 35 x 5 cm, [8380761] Sac de sport Big Duffle | bleu et blanc | 55 x 30 x 35 cm"
+        ],
+        [
+            "Donne moi les produit de la vente LACOSTE38",
+            "Ok! voici les produits : [10108731] T-shirt x 3 - 100% coton - gris et blanc, [10108491] T-shirt x 3 - 100% coton - blanc et gris clair, [10108695] Pantalon - gris foncé, [10108733] T-shirt - gris clair, [10108704] Bermuda - gris clair"
+        ],
+        [
+            "Montre moi les produit de la vente LACOSTE38",
+            "Bien! voici les produits : [10108731] T-shirt x 3 - 100% coton - gris et blanc, [10108491] T-shirt x 3 - 100% coton - blanc et gris clair, [10108695] Pantalon - gris foncé, [10108733] T-shirt - gris clair, [10108704] Bermuda - gris clair"
+        ],
+        [
+            "Montre moi la vente LACOSTE38",
+            "D'accord! voici les produits : [10108731] T-shirt x 3 - 100% coton - gris et blanc, [10108491] T-shirt x 3 - 100% coton - blanc et gris clair, [10108695] Pantalon - gris foncé, [10108733] T-shirt - gris clair, [10108704] Bermuda - gris clair"
+        ],
+        [
+            "Donne moi les produit de la vente LOTTO20",
+            "Ok! voici les produits : [10251424] Chaussures de football - blanc et jaune, [10251422] Chaussures de football - jaune et blanc, [10251417] Chaussures de football - noir et bleu ciel, [10251425] Chaussures de football - noir et jaune, [10251297] Jupe-short - noir"
+        ],
+        [
+            "Montre moi les produit de la vente LOTTO20",
+            "Bien! voici les produits : [10251424] Chaussures de football - blanc et jaune, [10251422] Chaussures de football - jaune et blanc, [10251417] Chaussures de football - noir et bleu ciel, [10251425] Chaussures de football - noir et jaune, [10251297] Jupe-short - noir"
+        ],
+        [
+            "Montre moi la vente LOTTO20",
+            "D'accord! voici les produits : [10251424] Chaussures de football - blanc et jaune, [10251422] Chaussures de football - jaune et blanc, [10251417] Chaussures de football - noir et bleu ciel, [10251425] Chaussures de football - noir et jaune, [10251297] Jupe-short - noir"
+        ],
+        [
+            "Donne moi les produit de la vente ARTNATURAL17",
+            "Ok! voici les produits : [9547846] Chaussures ouvertes Ankanara- cuir - gris, [9547844] Chaussures ouvertes Kepina - cuir grainé - bleu, [9547843] Chaussures ouvertes Kepina - cuir grainé - gris, [9547845] GARCON-BABIES-bleu-E373 LUX SUEDE-GAUCHO-VAQUERO/ANKARANA, [9547847] Chaussures ouvertes Kepina - cuir grainé - jaune moutarde"
+        ],
+        [
+            "Montre moi les produit de la vente ARTNATURAL17",
+            "Bien! voici les produits : [9547846] Chaussures ouvertes Ankanara- cuir - gris, [9547844] Chaussures ouvertes Kepina - cuir grainé - bleu, [9547843] Chaussures ouvertes Kepina - cuir grainé - gris, [9547845] GARCON-BABIES-bleu-E373 LUX SUEDE-GAUCHO-VAQUERO/ANKARANA, [9547847] Chaussures ouvertes Kepina - cuir grainé - jaune moutarde"
+        ],
+        [
+            "Montre moi la vente ARTNATURAL17",
+            "D'accord! voici les produits : [9547846] Chaussures ouvertes Ankanara- cuir - gris, [9547844] Chaussures ouvertes Kepina - cuir grainé - bleu, [9547843] Chaussures ouvertes Kepina - cuir grainé - gris, [9547845] GARCON-BABIES-bleu-E373 LUX SUEDE-GAUCHO-VAQUERO/ANKARANA, [9547847] Chaussures ouvertes Kepina - cuir grainé - jaune moutarde"
+        ],
+        [
+            "Donne moi les produit de la vente CASTANER16",
+            "Ok! voici les produits : [6952799] Cuissardes Juliette, cuir|marron foncé|talon : 2 cm, tige : 42,5 cm, [6952807] Sac bowling Granada, cuir|marron foncé|34 x 22 x 18 cm, [6952810] Cuissardes Juliette, cuir|noir|talon : 2 cm, tige : 42,5 cm, [6952777] Cuissardes à talons Elma, cuir suédé|beige|talon : 8 cm, tige : 41,5 cm, [7019740] Sandales compensées|talon :|plateau :"
+        ],
+        [
+            "Montre moi les produit de la vente CASTANER16",
+            "Bien! voici les produits : [6952799] Cuissardes Juliette, cuir|marron foncé|talon : 2 cm, tige : 42,5 cm, [6952807] Sac bowling Granada, cuir|marron foncé|34 x 22 x 18 cm, [6952810] Cuissardes Juliette, cuir|noir|talon : 2 cm, tige : 42,5 cm, [6952777] Cuissardes à talons Elma, cuir suédé|beige|talon : 8 cm, tige : 41,5 cm, [7019740] Sandales compensées|talon :|plateau :"
+        ],
+        [
+            "Montre moi la vente CASTANER16",
+            "D'accord! voici les produits : [6952799] Cuissardes Juliette, cuir|marron foncé|talon : 2 cm, tige : 42,5 cm, [6952807] Sac bowling Granada, cuir|marron foncé|34 x 22 x 18 cm, [6952810] Cuissardes Juliette, cuir|noir|talon : 2 cm, tige : 42,5 cm, [6952777] Cuissardes à talons Elma, cuir suédé|beige|talon : 8 cm, tige : 41,5 cm, [7019740] Sandales compensées|talon :|plateau :"
+        ],
+        [
+            "Donne moi les produit de la vente AIGNER17",
+            "Ok! voici les produits : [10159076] Nu-pieds Shirley, cuir |noir et coloris doré, [10159069] Chaussures bateau Anna|marron, [10159083] Slippers David,cuir |noir et blanc, [10159071] Peep-toes Olivia |noir et gris| talon : 11 cm, [10159075] Nu-pieds Shirley, cuir | coloris doré"
+        ],
+        [
+            "Montre moi les produit de la vente AIGNER17",
+            "Bien! voici les produits : [10159076] Nu-pieds Shirley, cuir |noir et coloris doré, [10159069] Chaussures bateau Anna|marron, [10159083] Slippers David,cuir |noir et blanc, [10159071] Peep-toes Olivia |noir et gris| talon : 11 cm, [10159075] Nu-pieds Shirley, cuir | coloris doré"
+        ],
+        [
+            "Montre moi la vente AIGNER17",
+            "D'accord! voici les produits : [10159076] Nu-pieds Shirley, cuir |noir et coloris doré, [10159069] Chaussures bateau Anna|marron, [10159083] Slippers David,cuir |noir et blanc, [10159071] Peep-toes Olivia |noir et gris| talon : 11 cm, [10159075] Nu-pieds Shirley, cuir | coloris doré"
+        ],
+        [
+            "Donne moi les produit de la vente MARVILLE8",
+            "Ok! voici les produits : [10244971] Pantalon cargo - coupe cargo - bleu, [10244961] Pantalon cargo - coupe cargo - bleu, [10245049] Pashmina - vert pâle - 194 x 38 cm, [10244973] Pantalon cargo - coupe slim - taupe, [10245048] Pashmina - jaune - 194 x 38 cm"
+        ],
+        [
+            "Montre moi les produit de la vente MARVILLE8",
+            "Bien! voici les produits : [10244971] Pantalon cargo - coupe cargo - bleu, [10244961] Pantalon cargo - coupe cargo - bleu, [10245049] Pashmina - vert pâle - 194 x 38 cm, [10244973] Pantalon cargo - coupe slim - taupe, [10245048] Pashmina - jaune - 194 x 38 cm"
+        ],
+        [
+            "Montre moi la vente MARVILLE8",
+            "D'accord! voici les produits : [10244971] Pantalon cargo - coupe cargo - bleu, [10244961] Pantalon cargo - coupe cargo - bleu, [10245049] Pashmina - vert pâle - 194 x 38 cm, [10244973] Pantalon cargo - coupe slim - taupe, [10245048] Pashmina - jaune - 194 x 38 cm"
+        ],
+        [
+            "Donne moi les produit de la vente COCCINELLE14",
+            "Ok! voici les produits : [9810238] Pochette, cuir| marron clair| 21 x 15 x 1 cm, [9810237] Pochette, cuir| blanc| 21 x 15 x 1 cm"
+        ],
+        [
+            "Montre moi les produit de la vente COCCINELLE14",
+            "Bien! voici les produits : [9810238] Pochette, cuir| marron clair| 21 x 15 x 1 cm, [9810237] Pochette, cuir| blanc| 21 x 15 x 1 cm"
+        ],
+        [
+            "Montre moi la vente COCCINELLE14",
+            "D'accord! voici les produits : [9810238] Pochette, cuir| marron clair| 21 x 15 x 1 cm, [9810237] Pochette, cuir| blanc| 21 x 15 x 1 cm"
+        ],
+        [
+            "Donne moi les produit de la vente SSWAROVSKI2",
+            "Ok! voici les produits : [9638817] Salopette Olivia - noir, [9638803] Robe Keren - noir, [9638815] Salopette Olivia - gris, [9638810] Robe Fashion - ocre, [9638719] Veste longue Grace - gris foncé"
+        ],
+        [
+            "Montre moi les produit de la vente SSWAROVSKI2",
+            "Bien! voici les produits : [9638817] Salopette Olivia - noir, [9638803] Robe Keren - noir, [9638815] Salopette Olivia - gris, [9638810] Robe Fashion - ocre, [9638719] Veste longue Grace - gris foncé"
+        ],
+        [
+            "Montre moi la vente SSWAROVSKI2",
+            "D'accord! voici les produits : [9638817] Salopette Olivia - noir, [9638803] Robe Keren - noir, [9638815] Salopette Olivia - gris, [9638810] Robe Fashion - ocre, [9638719] Veste longue Grace - gris foncé"
+        ],
+        [
+            "Donne moi les produit de la vente BLOLA13",
+            "Ok! voici les produits : [10123002] Trousse | bleu marine | 22 x 14,5 x 1 cm, [10123000] Trousse | noir | 22 x 14,5 x 1 cm, [9954290] Tunique | fermeture zippée | gris foncé, [9954252] Chapeau | noir et doré, [9954325] Coque pour tablette | vert orange | 20 x 14 x 1 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BLOLA13",
+            "Bien! voici les produits : [10123002] Trousse | bleu marine | 22 x 14,5 x 1 cm, [10123000] Trousse | noir | 22 x 14,5 x 1 cm, [9954290] Tunique | fermeture zippée | gris foncé, [9954252] Chapeau | noir et doré, [9954325] Coque pour tablette | vert orange | 20 x 14 x 1 cm"
+        ],
+        [
+            "Montre moi la vente BLOLA13",
+            "D'accord! voici les produits : [10123002] Trousse | bleu marine | 22 x 14,5 x 1 cm, [10123000] Trousse | noir | 22 x 14,5 x 1 cm, [9954290] Tunique | fermeture zippée | gris foncé, [9954252] Chapeau | noir et doré, [9954325] Coque pour tablette | vert orange | 20 x 14 x 1 cm"
+        ],
+        [
+            "Donne moi les produit de la vente RCHOCOLAT3",
+            "Ok! voici les produits : [9880744] Lunettes de soleil unisexe, [9880739] Sneakers - noir, [9880706] Lunettes de soleil pour enfant|rose, verres sans teinte|UV3, [9880732] Lunettes de soleil pour enfant|bleu, verres sans teinte|UV3, [9880702] Chaussons Polka - cuir grainé - blanc"
+        ],
+        [
+            "Montre moi les produit de la vente RCHOCOLAT3",
+            "Bien! voici les produits : [9880744] Lunettes de soleil unisexe, [9880739] Sneakers - noir, [9880706] Lunettes de soleil pour enfant|rose, verres sans teinte|UV3, [9880732] Lunettes de soleil pour enfant|bleu, verres sans teinte|UV3, [9880702] Chaussons Polka - cuir grainé - blanc"
+        ],
+        [
+            "Montre moi la vente RCHOCOLAT3",
+            "D'accord! voici les produits : [9880744] Lunettes de soleil unisexe, [9880739] Sneakers - noir, [9880706] Lunettes de soleil pour enfant|rose, verres sans teinte|UV3, [9880732] Lunettes de soleil pour enfant|bleu, verres sans teinte|UV3, [9880702] Chaussons Polka - cuir grainé - blanc"
+        ],
+        [
+            "Donne moi les produit de la vente PDORO19",
+            "Ok! voici les produits : [9408464] Chaussures de football indoor - cuir de veau - blanc et rouge, [9408469] Chaussures de football indoor - cuir de veau - noir et bleu, [9408471] Chaussures de football indoor - cuir de veau - rouge et blanc, [9408467] Chaussures de football indoor - noir et blanc, [9408462] Chaussures de football indoor - cuir de veau - blanc et bleu ciel"
+        ],
+        [
+            "Montre moi les produit de la vente PDORO19",
+            "Bien! voici les produits : [9408464] Chaussures de football indoor - cuir de veau - blanc et rouge, [9408469] Chaussures de football indoor - cuir de veau - noir et bleu, [9408471] Chaussures de football indoor - cuir de veau - rouge et blanc, [9408467] Chaussures de football indoor - noir et blanc, [9408462] Chaussures de football indoor - cuir de veau - blanc et bleu ciel"
+        ],
+        [
+            "Montre moi la vente PDORO19",
+            "D'accord! voici les produits : [9408464] Chaussures de football indoor - cuir de veau - blanc et rouge, [9408469] Chaussures de football indoor - cuir de veau - noir et bleu, [9408471] Chaussures de football indoor - cuir de veau - rouge et blanc, [9408467] Chaussures de football indoor - noir et blanc, [9408462] Chaussures de football indoor - cuir de veau - blanc et bleu ciel"
+        ],
+        [
+            "Donne moi les produit de la vente DHECHTER23",
+            "Ok! voici les produits : [9433076] Porte-documents Molitor|noir|40x30x6,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente DHECHTER23",
+            "Bien! voici les produits : [9433076] Porte-documents Molitor|noir|40x30x6,5 cm"
+        ],
+        [
+            "Montre moi la vente DHECHTER23",
+            "D'accord! voici les produits : [9433076] Porte-documents Molitor|noir|40x30x6,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente JLSCHERRER31",
+            "Ok! voici les produits : [7087371] Sac à roulettes CDA, cuir et suédine|bleu marine|31 x 62 x 31 cm - 59,5 L, [7087386] Set de 3 valises SCO|bleu marine|H: 55/65/75 cm - V: 43/70/107 L, [7087366] Set valise cabine + vanity Ursula|coloris argenté|H: 28/55 cm - V: 16,5/43 L, [7087380] Vanity case JAJ | noir | 35 x 27 x 14 cm, [7087385] Set valise cabine + vanity JBC|coloris argenté|H: 28/55 cm - V: 16,5/43 L"
+        ],
+        [
+            "Montre moi les produit de la vente JLSCHERRER31",
+            "Bien! voici les produits : [7087371] Sac à roulettes CDA, cuir et suédine|bleu marine|31 x 62 x 31 cm - 59,5 L, [7087386] Set de 3 valises SCO|bleu marine|H: 55/65/75 cm - V: 43/70/107 L, [7087366] Set valise cabine + vanity Ursula|coloris argenté|H: 28/55 cm - V: 16,5/43 L, [7087380] Vanity case JAJ | noir | 35 x 27 x 14 cm, [7087385] Set valise cabine + vanity JBC|coloris argenté|H: 28/55 cm - V: 16,5/43 L"
+        ],
+        [
+            "Montre moi la vente JLSCHERRER31",
+            "D'accord! voici les produits : [7087371] Sac à roulettes CDA, cuir et suédine|bleu marine|31 x 62 x 31 cm - 59,5 L, [7087386] Set de 3 valises SCO|bleu marine|H: 55/65/75 cm - V: 43/70/107 L, [7087366] Set valise cabine + vanity Ursula|coloris argenté|H: 28/55 cm - V: 16,5/43 L, [7087380] Vanity case JAJ | noir | 35 x 27 x 14 cm, [7087385] Set valise cabine + vanity JBC|coloris argenté|H: 28/55 cm - V: 16,5/43 L"
+        ],
+        [
+            "Donne moi les produit de la vente CASTANER23",
+            "Ok! voici les produits : [10196550] Sac bourse Gina,cuir | camel | 27 x 25 x 16 cm"
+        ],
+        [
+            "Montre moi les produit de la vente CASTANER23",
+            "Bien! voici les produits : [10196550] Sac bourse Gina,cuir | camel | 27 x 25 x 16 cm"
+        ],
+        [
+            "Montre moi la vente CASTANER23",
+            "D'accord! voici les produits : [10196550] Sac bourse Gina,cuir | camel | 27 x 25 x 16 cm"
+        ],
+        [
+            "Donne moi les produit de la vente OKAIDI27",
+            "Ok! voici les produits : [9757876] Doudoune - Gris Chiné, [9667933] Robe salopette - rose clair, [9667057] Gilet court - Vert, [9666992] Pantoufles - gris et rose, [9667056] Gilet court - Vert"
+        ],
+        [
+            "Montre moi les produit de la vente OKAIDI27",
+            "Bien! voici les produits : [9757876] Doudoune - Gris Chiné, [9667933] Robe salopette - rose clair, [9667057] Gilet court - Vert, [9666992] Pantoufles - gris et rose, [9667056] Gilet court - Vert"
+        ],
+        [
+            "Montre moi la vente OKAIDI27",
+            "D'accord! voici les produits : [9757876] Doudoune - Gris Chiné, [9667933] Robe salopette - rose clair, [9667057] Gilet court - Vert, [9666992] Pantoufles - gris et rose, [9667056] Gilet court - Vert"
+        ],
+        [
+            "Donne moi les produit de la vente AMORATO25",
+            "Ok! voici les produits : [10136942] Chapeau | bleu et blanc, [10136955] Ceinture, cuir | bleu foncé et jaune | l: 3.5 cm, [10137070] Foulard | noir et blanc | 154 x 146 cm, [10137167] Foulard | noir et blanc | 144 x 32.5 cm, [10136952] Ceinture, cuir | bleu foncé | l: 3.5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente AMORATO25",
+            "Bien! voici les produits : [10136942] Chapeau | bleu et blanc, [10136955] Ceinture, cuir | bleu foncé et jaune | l: 3.5 cm, [10137070] Foulard | noir et blanc | 154 x 146 cm, [10137167] Foulard | noir et blanc | 144 x 32.5 cm, [10136952] Ceinture, cuir | bleu foncé | l: 3.5 cm"
+        ],
+        [
+            "Montre moi la vente AMORATO25",
+            "D'accord! voici les produits : [10136942] Chapeau | bleu et blanc, [10136955] Ceinture, cuir | bleu foncé et jaune | l: 3.5 cm, [10137070] Foulard | noir et blanc | 154 x 146 cm, [10137167] Foulard | noir et blanc | 144 x 32.5 cm, [10136952] Ceinture, cuir | bleu foncé | l: 3.5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AFERMANI3",
+            "Ok! voici les produits : [9465866] Bottines - cuir - taupe foncé - talon : 7 cm - tige : 13,5 cm, [9465875] Derbies - cuir - bleu marine, [9465854] Bottines - cuir - gris - tige : 12,5 cm, [9465871] Derbies - cuir - coloris doré, [9465833] Low-boots - cuir - gris souris - talon : 4 cm - tige : 7,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente AFERMANI3",
+            "Bien! voici les produits : [9465866] Bottines - cuir - taupe foncé - talon : 7 cm - tige : 13,5 cm, [9465875] Derbies - cuir - bleu marine, [9465854] Bottines - cuir - gris - tige : 12,5 cm, [9465871] Derbies - cuir - coloris doré, [9465833] Low-boots - cuir - gris souris - talon : 4 cm - tige : 7,5 cm"
+        ],
+        [
+            "Montre moi la vente AFERMANI3",
+            "D'accord! voici les produits : [9465866] Bottines - cuir - taupe foncé - talon : 7 cm - tige : 13,5 cm, [9465875] Derbies - cuir - bleu marine, [9465854] Bottines - cuir - gris - tige : 12,5 cm, [9465871] Derbies - cuir - coloris doré, [9465833] Low-boots - cuir - gris souris - talon : 4 cm - tige : 7,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ARUIZ88",
+            "Ok! voici les produits : [9844261] Housse pour ordinateur 10\" |rose |29 x 22 x 3 cm, [9843838] Porte-clés | fuchsia foncé| 10 cm, [9844334] Cartable - turquoise - bleu clair - 43 x 31 x 26 cm, [9844394] Trousse |  Bleu clair et multicolore |  23 x 11,5 x 9 cm, [9844324] Sac à coulisse |  vert d'eau et multicolore |  30 x 21 x 0,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ARUIZ88",
+            "Bien! voici les produits : [9844261] Housse pour ordinateur 10\" |rose |29 x 22 x 3 cm, [9843838] Porte-clés | fuchsia foncé| 10 cm, [9844334] Cartable - turquoise - bleu clair - 43 x 31 x 26 cm, [9844394] Trousse |  Bleu clair et multicolore |  23 x 11,5 x 9 cm, [9844324] Sac à coulisse |  vert d'eau et multicolore |  30 x 21 x 0,5 cm"
+        ],
+        [
+            "Montre moi la vente ARUIZ88",
+            "D'accord! voici les produits : [9844261] Housse pour ordinateur 10\" |rose |29 x 22 x 3 cm, [9843838] Porte-clés | fuchsia foncé| 10 cm, [9844334] Cartable - turquoise - bleu clair - 43 x 31 x 26 cm, [9844394] Trousse |  Bleu clair et multicolore |  23 x 11,5 x 9 cm, [9844324] Sac à coulisse |  vert d'eau et multicolore |  30 x 21 x 0,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente CDSPORTS3",
+            "Ok! voici les produits : [10263504] Doudoune sans manches, capuche - vert clair, [10263580] Doudoune sans manches, capuche - gris clair, [10263554] Doudoune sans manches, capuche - vert clair, [10263621] Coupe-vent, capuche - lilas, [10263582] Doudoune sans manches, capuche - jaune"
+        ],
+        [
+            "Montre moi les produit de la vente CDSPORTS3",
+            "Bien! voici les produits : [10263504] Doudoune sans manches, capuche - vert clair, [10263580] Doudoune sans manches, capuche - gris clair, [10263554] Doudoune sans manches, capuche - vert clair, [10263621] Coupe-vent, capuche - lilas, [10263582] Doudoune sans manches, capuche - jaune"
+        ],
+        [
+            "Montre moi la vente CDSPORTS3",
+            "D'accord! voici les produits : [10263504] Doudoune sans manches, capuche - vert clair, [10263580] Doudoune sans manches, capuche - gris clair, [10263554] Doudoune sans manches, capuche - vert clair, [10263621] Coupe-vent, capuche - lilas, [10263582] Doudoune sans manches, capuche - jaune"
+        ],
+        [
+            "Donne moi les produit de la vente LEVIS67",
+            "Ok! voici les produits : [9077319] Bottes après-ski Sentinel | noir | tige : 16 cm"
+        ],
+        [
+            "Montre moi les produit de la vente LEVIS67",
+            "Bien! voici les produits : [9077319] Bottes après-ski Sentinel | noir | tige : 16 cm"
+        ],
+        [
+            "Montre moi la vente LEVIS67",
+            "D'accord! voici les produits : [9077319] Bottes après-ski Sentinel | noir | tige : 16 cm"
+        ],
+        [
+            "Donne moi les produit de la vente NANOS18",
+            "Ok! voici les produits : [10257417] Chapeau d’été - bleu, [10257504] Bloomer - vert, [10257398] Bermuda de bain taille élastiquée + lien de serrage - rose, [10257428] Boléro - écru, [10257502] Bloomer - beige"
+        ],
+        [
+            "Montre moi les produit de la vente NANOS18",
+            "Bien! voici les produits : [10257417] Chapeau d’été - bleu, [10257504] Bloomer - vert, [10257398] Bermuda de bain taille élastiquée + lien de serrage - rose, [10257428] Boléro - écru, [10257502] Bloomer - beige"
+        ],
+        [
+            "Montre moi la vente NANOS18",
+            "D'accord! voici les produits : [10257417] Chapeau d’été - bleu, [10257504] Bloomer - vert, [10257398] Bermuda de bain taille élastiquée + lien de serrage - rose, [10257428] Boléro - écru, [10257502] Bloomer - beige"
+        ],
+        [
+            "Donne moi les produit de la vente CRUCIANIC1",
+            "Ok! voici les produits : [9963332] Sac rabat - violet - 17 x 17 x 4,5 cm, [9963305] Sac - cuir de veau - 25 x 15 x 7 cm, [9963077] Pochette Cruciani C - cuir - vert - 34 x 14 x 4 cm, [9963317] Sac - cuir - violet - vert - 17 x 15 x 5 cm, [9963322] Sac rabat - bleu pétrole - beige - 17 x 17 x 4,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente CRUCIANIC1",
+            "Bien! voici les produits : [9963332] Sac rabat - violet - 17 x 17 x 4,5 cm, [9963305] Sac - cuir de veau - 25 x 15 x 7 cm, [9963077] Pochette Cruciani C - cuir - vert - 34 x 14 x 4 cm, [9963317] Sac - cuir - violet - vert - 17 x 15 x 5 cm, [9963322] Sac rabat - bleu pétrole - beige - 17 x 17 x 4,5 cm"
+        ],
+        [
+            "Montre moi la vente CRUCIANIC1",
+            "D'accord! voici les produits : [9963332] Sac rabat - violet - 17 x 17 x 4,5 cm, [9963305] Sac - cuir de veau - 25 x 15 x 7 cm, [9963077] Pochette Cruciani C - cuir - vert - 34 x 14 x 4 cm, [9963317] Sac - cuir - violet - vert - 17 x 15 x 5 cm, [9963322] Sac rabat - bleu pétrole - beige - 17 x 17 x 4,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ANTISSHOES3",
+            "Ok! voici les produits : [9069271] Bottes d'hiver femme | membrane Antexstop®| noir et coloris argenté | tige: 28 cm, [9069269] Bottes d'hiver femme | membrane Antexstop®| gris et orange | tige: 28 cm, [9069276] Bottes d'hiver | membrane Antexstop®| bleu et noir| tige: 23 cm, [9069268] Bottes d'hiver femme | membrane Antexstop®| gris | tige: 28 cm, [9069273] Bottes d'hiver femme | membrane Antexstop®|bleu | tige: 35 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ANTISSHOES3",
+            "Bien! voici les produits : [9069271] Bottes d'hiver femme | membrane Antexstop®| noir et coloris argenté | tige: 28 cm, [9069269] Bottes d'hiver femme | membrane Antexstop®| gris et orange | tige: 28 cm, [9069276] Bottes d'hiver | membrane Antexstop®| bleu et noir| tige: 23 cm, [9069268] Bottes d'hiver femme | membrane Antexstop®| gris | tige: 28 cm, [9069273] Bottes d'hiver femme | membrane Antexstop®|bleu | tige: 35 cm"
+        ],
+        [
+            "Montre moi la vente ANTISSHOES3",
+            "D'accord! voici les produits : [9069271] Bottes d'hiver femme | membrane Antexstop®| noir et coloris argenté | tige: 28 cm, [9069269] Bottes d'hiver femme | membrane Antexstop®| gris et orange | tige: 28 cm, [9069276] Bottes d'hiver | membrane Antexstop®| bleu et noir| tige: 23 cm, [9069268] Bottes d'hiver femme | membrane Antexstop®| gris | tige: 28 cm, [9069273] Bottes d'hiver femme | membrane Antexstop®|bleu | tige: 35 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BBARDOT5",
+            "Ok! voici les produits : [10092202] String Mythique - dentelle - corail, [10092187] Soutien-gorge balconnet Darling - bonnets coques - crème et écru, [10092182] Soutien-gorge corbeille Bonnie - bonnets doublés - noir et crème, [10092197] Slip Darling - broderies - crème et écru, [10092199] Slip BB - dentelle - noir et vieux rose"
+        ],
+        [
+            "Montre moi les produit de la vente BBARDOT5",
+            "Bien! voici les produits : [10092202] String Mythique - dentelle - corail, [10092187] Soutien-gorge balconnet Darling - bonnets coques - crème et écru, [10092182] Soutien-gorge corbeille Bonnie - bonnets doublés - noir et crème, [10092197] Slip Darling - broderies - crème et écru, [10092199] Slip BB - dentelle - noir et vieux rose"
+        ],
+        [
+            "Montre moi la vente BBARDOT5",
+            "D'accord! voici les produits : [10092202] String Mythique - dentelle - corail, [10092187] Soutien-gorge balconnet Darling - bonnets coques - crème et écru, [10092182] Soutien-gorge corbeille Bonnie - bonnets doublés - noir et crème, [10092197] Slip Darling - broderies - crème et écru, [10092199] Slip BB - dentelle - noir et vieux rose"
+        ],
+        [
+            "Donne moi les produit de la vente LEGEA1",
+            "Ok! voici les produits : [10246640] Débardeur de sport - fuchsia, [10246617] Chaussettes de sport - bordeaux et blanc, [10246628] Débardeur de basket-ball - bleu nuit, [10246502] Imperméable - rose fluo, [10246626] Débardeur de basket-ball - bleu clair"
+        ],
+        [
+            "Montre moi les produit de la vente LEGEA1",
+            "Bien! voici les produits : [10246640] Débardeur de sport - fuchsia, [10246617] Chaussettes de sport - bordeaux et blanc, [10246628] Débardeur de basket-ball - bleu nuit, [10246502] Imperméable - rose fluo, [10246626] Débardeur de basket-ball - bleu clair"
+        ],
+        [
+            "Montre moi la vente LEGEA1",
+            "D'accord! voici les produits : [10246640] Débardeur de sport - fuchsia, [10246617] Chaussettes de sport - bordeaux et blanc, [10246628] Débardeur de basket-ball - bleu nuit, [10246502] Imperméable - rose fluo, [10246626] Débardeur de basket-ball - bleu clair"
+        ],
+        [
+            "Donne moi les produit de la vente CHERVO21",
+            "Ok! voici les produits : [10314601] Short - Dry-matic® - coupe droite - orange clair, [10314706] Blouson sans manches Pro-Therm® - réversible - noir, [10314711] Blouson sans manches Pro-Therm® - réversible - corail, [10314582] Pantacourt Cool impact® - vert clair, [10314580] Pantalon Sonno - coupe 3/4 - Sun block® - Comfrot® - jaune"
+        ],
+        [
+            "Montre moi les produit de la vente CHERVO21",
+            "Bien! voici les produits : [10314601] Short - Dry-matic® - coupe droite - orange clair, [10314706] Blouson sans manches Pro-Therm® - réversible - noir, [10314711] Blouson sans manches Pro-Therm® - réversible - corail, [10314582] Pantacourt Cool impact® - vert clair, [10314580] Pantalon Sonno - coupe 3/4 - Sun block® - Comfrot® - jaune"
+        ],
+        [
+            "Montre moi la vente CHERVO21",
+            "D'accord! voici les produits : [10314601] Short - Dry-matic® - coupe droite - orange clair, [10314706] Blouson sans manches Pro-Therm® - réversible - noir, [10314711] Blouson sans manches Pro-Therm® - réversible - corail, [10314582] Pantacourt Cool impact® - vert clair, [10314580] Pantalon Sonno - coupe 3/4 - Sun block® - Comfrot® - jaune"
+        ],
+        [
+            "Donne moi les produit de la vente DELSEY22",
+            "Ok! voici les produits : [10257060] Sangle de bagage - noir - 60 x 210 x 16 cm, [10257056] Cadenas à combinaison à code - vert - 5,2 x 7,2 x 1,8 cm, [10257076] Sac de voyage Vincennes - marron clair - 45 x 79 x 43 cm - V : 153 L, [10257059] Trousse TN - noir - 14 x 19 x 9,5 cm, [10257062] Sangle de bagage - vert - 60 x 210 x 16 cm"
+        ],
+        [
+            "Montre moi les produit de la vente DELSEY22",
+            "Bien! voici les produits : [10257060] Sangle de bagage - noir - 60 x 210 x 16 cm, [10257056] Cadenas à combinaison à code - vert - 5,2 x 7,2 x 1,8 cm, [10257076] Sac de voyage Vincennes - marron clair - 45 x 79 x 43 cm - V : 153 L, [10257059] Trousse TN - noir - 14 x 19 x 9,5 cm, [10257062] Sangle de bagage - vert - 60 x 210 x 16 cm"
+        ],
+        [
+            "Montre moi la vente DELSEY22",
+            "D'accord! voici les produits : [10257060] Sangle de bagage - noir - 60 x 210 x 16 cm, [10257056] Cadenas à combinaison à code - vert - 5,2 x 7,2 x 1,8 cm, [10257076] Sac de voyage Vincennes - marron clair - 45 x 79 x 43 cm - V : 153 L, [10257059] Trousse TN - noir - 14 x 19 x 9,5 cm, [10257062] Sangle de bagage - vert - 60 x 210 x 16 cm"
+        ],
+        [
+            "Donne moi les produit de la vente LADYSSECRET1",
+            "Ok! voici les produits : [9037769] Coussinets No Scratch ! antidérapants|gris, [9037821] Tendeurs marrons|Plastique et métal, [9037767] Semelles en cuir pour enfant|beige, [9037807] Cirage pâte|marron|100 ml, [9037819] Semelles en laine|blanc"
+        ],
+        [
+            "Montre moi les produit de la vente LADYSSECRET1",
+            "Bien! voici les produits : [9037769] Coussinets No Scratch ! antidérapants|gris, [9037821] Tendeurs marrons|Plastique et métal, [9037767] Semelles en cuir pour enfant|beige, [9037807] Cirage pâte|marron|100 ml, [9037819] Semelles en laine|blanc"
+        ],
+        [
+            "Montre moi la vente LADYSSECRET1",
+            "D'accord! voici les produits : [9037769] Coussinets No Scratch ! antidérapants|gris, [9037821] Tendeurs marrons|Plastique et métal, [9037767] Semelles en cuir pour enfant|beige, [9037807] Cirage pâte|marron|100 ml, [9037819] Semelles en laine|blanc"
+        ],
+        [
+            "Donne moi les produit de la vente RENOMA18",
+            "Ok! voici les produits : [10433942] Chaussettes hautes x 3 - gris et noir, [10433947] Chaussettes hautes x 3 - noir et anthracite, [10433945] Chaussettes hautes x 3 - gris et noir, [10433940] Chaussettes hautes x 3 - bleu marine et gris, [10433941] Chaussettes hautes x 3 - gris et bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente RENOMA18",
+            "Bien! voici les produits : [10433942] Chaussettes hautes x 3 - gris et noir, [10433947] Chaussettes hautes x 3 - noir et anthracite, [10433945] Chaussettes hautes x 3 - gris et noir, [10433940] Chaussettes hautes x 3 - bleu marine et gris, [10433941] Chaussettes hautes x 3 - gris et bleu marine"
+        ],
+        [
+            "Montre moi la vente RENOMA18",
+            "D'accord! voici les produits : [10433942] Chaussettes hautes x 3 - gris et noir, [10433947] Chaussettes hautes x 3 - noir et anthracite, [10433945] Chaussettes hautes x 3 - gris et noir, [10433940] Chaussettes hautes x 3 - bleu marine et gris, [10433941] Chaussettes hautes x 3 - gris et bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente LIPAULT6",
+            "Ok! voici les produits : [10255750] XX, [10255681] XX, [10255682] XX, [10255741] XX, [10255683] XX"
+        ],
+        [
+            "Montre moi les produit de la vente LIPAULT6",
+            "Bien! voici les produits : [10255750] XX, [10255681] XX, [10255682] XX, [10255741] XX, [10255683] XX"
+        ],
+        [
+            "Montre moi la vente LIPAULT6",
+            "D'accord! voici les produits : [10255750] XX, [10255681] XX, [10255682] XX, [10255741] XX, [10255683] XX"
+        ],
+        [
+            "Donne moi les produit de la vente HOGAN5",
+            "Ok! voici les produits : [9365591] Sac à main, cuir suédé | kaki foncé | 26 x 22 x 13 cm, [9364954] Bottes |supprimernoir |supprimertalon : 10,5 cm - tige : 51 cm, [9365529] Sac à main, cuir grainé |supprimerfuchsia foncé |supprimer36 x 22 x 15 cm, [9365528] Sac à main | noir | 37 x 22 x 13 cm, [9365590] Sac à main, cuir | noir | 26 x 22 x 13 cm"
+        ],
+        [
+            "Montre moi les produit de la vente HOGAN5",
+            "Bien! voici les produits : [9365591] Sac à main, cuir suédé | kaki foncé | 26 x 22 x 13 cm, [9364954] Bottes |supprimernoir |supprimertalon : 10,5 cm - tige : 51 cm, [9365529] Sac à main, cuir grainé |supprimerfuchsia foncé |supprimer36 x 22 x 15 cm, [9365528] Sac à main | noir | 37 x 22 x 13 cm, [9365590] Sac à main, cuir | noir | 26 x 22 x 13 cm"
+        ],
+        [
+            "Montre moi la vente HOGAN5",
+            "D'accord! voici les produits : [9365591] Sac à main, cuir suédé | kaki foncé | 26 x 22 x 13 cm, [9364954] Bottes |supprimernoir |supprimertalon : 10,5 cm - tige : 51 cm, [9365529] Sac à main, cuir grainé |supprimerfuchsia foncé |supprimer36 x 22 x 15 cm, [9365528] Sac à main | noir | 37 x 22 x 13 cm, [9365590] Sac à main, cuir | noir | 26 x 22 x 13 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BABYBOTTE11",
+            "Ok! voici les produits : [8922079] Chaussons Majik | violet et blanc, [8922076] XX, [8922080] XX, [8922075] XX, [8922077] Chaussons Mamout | violet et blanc"
+        ],
+        [
+            "Montre moi les produit de la vente BABYBOTTE11",
+            "Bien! voici les produits : [8922079] Chaussons Majik | violet et blanc, [8922076] XX, [8922080] XX, [8922075] XX, [8922077] Chaussons Mamout | violet et blanc"
+        ],
+        [
+            "Montre moi la vente BABYBOTTE11",
+            "D'accord! voici les produits : [8922079] Chaussons Majik | violet et blanc, [8922076] XX, [8922080] XX, [8922075] XX, [8922077] Chaussons Mamout | violet et blanc"
+        ],
+        [
+            "Donne moi les produit de la vente JONAK10",
+            "Ok! voici les produits : [8195663] ballerine-marron deco dore BIWA VELOURS noir-VELOURS-DAIM-281-BIWA-NOIR, [8195670] Bottes à talons compensés Antilope, nubuck|camel|talon : 10 cm, tige : 31 cm, [8195662] ballerine-marron deco dore BIWA VELOURS noir-VELOURS-DAIM-280-BIWA-NOIR"
+        ],
+        [
+            "Montre moi les produit de la vente JONAK10",
+            "Bien! voici les produits : [8195663] ballerine-marron deco dore BIWA VELOURS noir-VELOURS-DAIM-281-BIWA-NOIR, [8195670] Bottes à talons compensés Antilope, nubuck|camel|talon : 10 cm, tige : 31 cm, [8195662] ballerine-marron deco dore BIWA VELOURS noir-VELOURS-DAIM-280-BIWA-NOIR"
+        ],
+        [
+            "Montre moi la vente JONAK10",
+            "D'accord! voici les produits : [8195663] ballerine-marron deco dore BIWA VELOURS noir-VELOURS-DAIM-281-BIWA-NOIR, [8195670] Bottes à talons compensés Antilope, nubuck|camel|talon : 10 cm, tige : 31 cm, [8195662] ballerine-marron deco dore BIWA VELOURS noir-VELOURS-DAIM-280-BIWA-NOIR"
+        ],
+        [
+            "Donne moi les produit de la vente SKECHERS9",
+            "Ok! voici les produits : [9988270] Chaussures de marche Flash DNA - noir et jaune, [9934295] Chaussures de golf Blade - gris et bleu, [9934475] Chaussures de golf Lynx LT - blanc et bleu marine, [9934449] Chaussures de marche Journey - marron et bleu, [9988255] Chaussures de golf Fairway - gris et turquoise"
+        ],
+        [
+            "Montre moi les produit de la vente SKECHERS9",
+            "Bien! voici les produits : [9988270] Chaussures de marche Flash DNA - noir et jaune, [9934295] Chaussures de golf Blade - gris et bleu, [9934475] Chaussures de golf Lynx LT - blanc et bleu marine, [9934449] Chaussures de marche Journey - marron et bleu, [9988255] Chaussures de golf Fairway - gris et turquoise"
+        ],
+        [
+            "Montre moi la vente SKECHERS9",
+            "D'accord! voici les produits : [9988270] Chaussures de marche Flash DNA - noir et jaune, [9934295] Chaussures de golf Blade - gris et bleu, [9934475] Chaussures de golf Lynx LT - blanc et bleu marine, [9934449] Chaussures de marche Journey - marron et bleu, [9988255] Chaussures de golf Fairway - gris et turquoise"
+        ],
+        [
+            "Donne moi les produit de la vente MDUCK17",
+            "Ok! voici les produits : [9697328] Sac à dos| orange |34 x 39 x 12 cm, [9697438] Sacoche d'ordinateur| orange |34 x 28 x 9 cm, [9697452] Trousse de maquillage| vert émeraude |20 x 11 x 7 cm, [9697339] Sac banane| rouge foncé| 32 x 14 x 6 cm, [9697454] Trousse de maquillage| vert fougère |21 x 15 x 3,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente MDUCK17",
+            "Bien! voici les produits : [9697328] Sac à dos| orange |34 x 39 x 12 cm, [9697438] Sacoche d'ordinateur| orange |34 x 28 x 9 cm, [9697452] Trousse de maquillage| vert émeraude |20 x 11 x 7 cm, [9697339] Sac banane| rouge foncé| 32 x 14 x 6 cm, [9697454] Trousse de maquillage| vert fougère |21 x 15 x 3,5 cm"
+        ],
+        [
+            "Montre moi la vente MDUCK17",
+            "D'accord! voici les produits : [9697328] Sac à dos| orange |34 x 39 x 12 cm, [9697438] Sacoche d'ordinateur| orange |34 x 28 x 9 cm, [9697452] Trousse de maquillage| vert émeraude |20 x 11 x 7 cm, [9697339] Sac banane| rouge foncé| 32 x 14 x 6 cm, [9697454] Trousse de maquillage| vert fougère |21 x 15 x 3,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente TORRENTE72",
+            "Ok! voici les produits : [9824449] Valise grand volume Radama - beige - 52 x 75 x 32 cm, [9824266] Set de 4 valises Radama - bleu nuit - H : 45/55/65/75 cm - V : 32/54/85 L, [9824453] Valise grand volume Radama - gris - 52 x 75 x 32 cm, [9824265] Set de 4 valises Radama - gris - H : 45/55/65/75 cm - V : 32/54/85 L, [9824457] Valise grand volume Radama - bleu nuit - 52 x 75 x 32 cm"
+        ],
+        [
+            "Montre moi les produit de la vente TORRENTE72",
+            "Bien! voici les produits : [9824449] Valise grand volume Radama - beige - 52 x 75 x 32 cm, [9824266] Set de 4 valises Radama - bleu nuit - H : 45/55/65/75 cm - V : 32/54/85 L, [9824453] Valise grand volume Radama - gris - 52 x 75 x 32 cm, [9824265] Set de 4 valises Radama - gris - H : 45/55/65/75 cm - V : 32/54/85 L, [9824457] Valise grand volume Radama - bleu nuit - 52 x 75 x 32 cm"
+        ],
+        [
+            "Montre moi la vente TORRENTE72",
+            "D'accord! voici les produits : [9824449] Valise grand volume Radama - beige - 52 x 75 x 32 cm, [9824266] Set de 4 valises Radama - bleu nuit - H : 45/55/65/75 cm - V : 32/54/85 L, [9824453] Valise grand volume Radama - gris - 52 x 75 x 32 cm, [9824265] Set de 4 valises Radama - gris - H : 45/55/65/75 cm - V : 32/54/85 L, [9824457] Valise grand volume Radama - bleu nuit - 52 x 75 x 32 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AGUARDIANI14",
+            "Ok! voici les produits : [10300431] Sandales, cuir | écru | talon : 11 cm, [10300411] Sandales, cuir | blanc et coloris doré | talon : 10,5 cm, [10300409] Sandales, cuir | écru et noir | talon : 10 cm, [10300455] Slippers, cuir suédé | écru, [10300457] Slippers| noir"
+        ],
+        [
+            "Montre moi les produit de la vente AGUARDIANI14",
+            "Bien! voici les produits : [10300431] Sandales, cuir | écru | talon : 11 cm, [10300411] Sandales, cuir | blanc et coloris doré | talon : 10,5 cm, [10300409] Sandales, cuir | écru et noir | talon : 10 cm, [10300455] Slippers, cuir suédé | écru, [10300457] Slippers| noir"
+        ],
+        [
+            "Montre moi la vente AGUARDIANI14",
+            "D'accord! voici les produits : [10300431] Sandales, cuir | écru | talon : 11 cm, [10300411] Sandales, cuir | blanc et coloris doré | talon : 10,5 cm, [10300409] Sandales, cuir | écru et noir | talon : 10 cm, [10300455] Slippers, cuir suédé | écru, [10300457] Slippers| noir"
+        ],
+        [
+            "Donne moi les produit de la vente BAGATT7",
+            "Ok! voici les produits : [9838168] Pochette | blanc | 28 x 22 x 1 cm, [9838197] Porte-documents - cuir - jaune moutarde - noir - 16 x 14 x 7,5 cm, [9838167] Pochette | noir | 28 x 22 x 1 cm, [9838166] Pochette | cuir suédé | beige | 29 x 16 x 2 cm, [9838198] Porte-documents - cuir - rose - 16 x 14 x 7,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BAGATT7",
+            "Bien! voici les produits : [9838168] Pochette | blanc | 28 x 22 x 1 cm, [9838197] Porte-documents - cuir - jaune moutarde - noir - 16 x 14 x 7,5 cm, [9838167] Pochette | noir | 28 x 22 x 1 cm, [9838166] Pochette | cuir suédé | beige | 29 x 16 x 2 cm, [9838198] Porte-documents - cuir - rose - 16 x 14 x 7,5 cm"
+        ],
+        [
+            "Montre moi la vente BAGATT7",
+            "D'accord! voici les produits : [9838168] Pochette | blanc | 28 x 22 x 1 cm, [9838197] Porte-documents - cuir - jaune moutarde - noir - 16 x 14 x 7,5 cm, [9838167] Pochette | noir | 28 x 22 x 1 cm, [9838166] Pochette | cuir suédé | beige | 29 x 16 x 2 cm, [9838198] Porte-documents - cuir - rose - 16 x 14 x 7,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente FACONNABLE44",
+            "Ok! voici les produits : [10104114] XX, [10104118] XX, [10104116] XX, [10104100] XX, [10104363] XX"
+        ],
+        [
+            "Montre moi les produit de la vente FACONNABLE44",
+            "Bien! voici les produits : [10104114] XX, [10104118] XX, [10104116] XX, [10104100] XX, [10104363] XX"
+        ],
+        [
+            "Montre moi la vente FACONNABLE44",
+            "D'accord! voici les produits : [10104114] XX, [10104118] XX, [10104116] XX, [10104100] XX, [10104363] XX"
+        ],
+        [
+            "Donne moi les produit de la vente ALUXE18",
+            "Ok! voici les produits : [10158512] Boots Machina X Short - cuir - camel, [10158566] Tongs Slide - cuir - beige clair et marron clair, [10158503] Boots Machina X Short - cuir - blanc, [10158510] Boots Bohem - cuir suédé - camel, [10158570] Tongs Slide - cuir - rose pâle et marron clair"
+        ],
+        [
+            "Montre moi les produit de la vente ALUXE18",
+            "Bien! voici les produits : [10158512] Boots Machina X Short - cuir - camel, [10158566] Tongs Slide - cuir - beige clair et marron clair, [10158503] Boots Machina X Short - cuir - blanc, [10158510] Boots Bohem - cuir suédé - camel, [10158570] Tongs Slide - cuir - rose pâle et marron clair"
+        ],
+        [
+            "Montre moi la vente ALUXE18",
+            "D'accord! voici les produits : [10158512] Boots Machina X Short - cuir - camel, [10158566] Tongs Slide - cuir - beige clair et marron clair, [10158503] Boots Machina X Short - cuir - blanc, [10158510] Boots Bohem - cuir suédé - camel, [10158570] Tongs Slide - cuir - rose pâle et marron clair"
+        ],
+        [
+            "Donne moi les produit de la vente GEOX32",
+            "Ok! voici les produits : [9567859] Chaussures montantes de randonnée - bleu marine et anthracite - tige : 8 cm, [9567861] Chaussures montantes de randonnée - gris - tige : 8 cm"
+        ],
+        [
+            "Montre moi les produit de la vente GEOX32",
+            "Bien! voici les produits : [9567859] Chaussures montantes de randonnée - bleu marine et anthracite - tige : 8 cm, [9567861] Chaussures montantes de randonnée - gris - tige : 8 cm"
+        ],
+        [
+            "Montre moi la vente GEOX32",
+            "D'accord! voici les produits : [9567859] Chaussures montantes de randonnée - bleu marine et anthracite - tige : 8 cm, [9567861] Chaussures montantes de randonnée - gris - tige : 8 cm"
+        ],
+        [
+            "Donne moi les produit de la vente MELAUTRES8",
+            "Ok! voici les produits : [9947185] Veste en jean - effet délavé - bleu denim, [9947213] Jegging - coupe slim - tissu contrastant - noir, [9947238] Poncho - franges - blanc cassé"
+        ],
+        [
+            "Montre moi les produit de la vente MELAUTRES8",
+            "Bien! voici les produits : [9947185] Veste en jean - effet délavé - bleu denim, [9947213] Jegging - coupe slim - tissu contrastant - noir, [9947238] Poncho - franges - blanc cassé"
+        ],
+        [
+            "Montre moi la vente MELAUTRES8",
+            "D'accord! voici les produits : [9947185] Veste en jean - effet délavé - bleu denim, [9947213] Jegging - coupe slim - tissu contrastant - noir, [9947238] Poncho - franges - blanc cassé"
+        ],
+        [
+            "Donne moi les produit de la vente ACARDONE4",
+            "Ok! voici les produits : [9668083] Sac à main, cuir de veau|vert|25 x 23 x 11 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ACARDONE4",
+            "Bien! voici les produits : [9668083] Sac à main, cuir de veau|vert|25 x 23 x 11 cm"
+        ],
+        [
+            "Montre moi la vente ACARDONE4",
+            "D'accord! voici les produits : [9668083] Sac à main, cuir de veau|vert|25 x 23 x 11 cm"
+        ],
+        [
+            "Donne moi les produit de la vente KITZPICHLER4",
+            "Ok! voici les produits : [10407854] Chaussons Bobby - laine - laine vierge - gris et noir, [10407856] Pantoufles Bobby - laine - laine vierge - gris et rouge, [10407859] Pantoufles Bobby - laine - laine vierge - gris et vert, [10407836] Chaussons Prutz, laine vierge|vert, blanc|tige : 4 cm, [10407846] Chaussons Bobby, laine vierge|bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente KITZPICHLER4",
+            "Bien! voici les produits : [10407854] Chaussons Bobby - laine - laine vierge - gris et noir, [10407856] Pantoufles Bobby - laine - laine vierge - gris et rouge, [10407859] Pantoufles Bobby - laine - laine vierge - gris et vert, [10407836] Chaussons Prutz, laine vierge|vert, blanc|tige : 4 cm, [10407846] Chaussons Bobby, laine vierge|bleu marine"
+        ],
+        [
+            "Montre moi la vente KITZPICHLER4",
+            "D'accord! voici les produits : [10407854] Chaussons Bobby - laine - laine vierge - gris et noir, [10407856] Pantoufles Bobby - laine - laine vierge - gris et rouge, [10407859] Pantoufles Bobby - laine - laine vierge - gris et vert, [10407836] Chaussons Prutz, laine vierge|vert, blanc|tige : 4 cm, [10407846] Chaussons Bobby, laine vierge|bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente SLOGGI28",
+            "Ok! voici les produits : [10262659] Culotte taille haute Shape - sculptant - gris, [10262577] Soutien-gorge classique Vivid Brazil - bonnets doublés - vert et violet, [10262647] Slip brésilien Wow Breeze - microfibre haute technologie - violet, [10262581] Tankini - haut Midnight Essentials - bonnets mousse - bleu nuit, [10262530] Shorty de bain Orchid Latina - violet"
+        ],
+        [
+            "Montre moi les produit de la vente SLOGGI28",
+            "Bien! voici les produits : [10262659] Culotte taille haute Shape - sculptant - gris, [10262577] Soutien-gorge classique Vivid Brazil - bonnets doublés - vert et violet, [10262647] Slip brésilien Wow Breeze - microfibre haute technologie - violet, [10262581] Tankini - haut Midnight Essentials - bonnets mousse - bleu nuit, [10262530] Shorty de bain Orchid Latina - violet"
+        ],
+        [
+            "Montre moi la vente SLOGGI28",
+            "D'accord! voici les produits : [10262659] Culotte taille haute Shape - sculptant - gris, [10262577] Soutien-gorge classique Vivid Brazil - bonnets doublés - vert et violet, [10262647] Slip brésilien Wow Breeze - microfibre haute technologie - violet, [10262581] Tankini - haut Midnight Essentials - bonnets mousse - bleu nuit, [10262530] Shorty de bain Orchid Latina - violet"
+        ],
+        [
+            "Donne moi les produit de la vente CASTANER13",
+            "Ok! voici les produits : [5302344] Sandales compensées|jaune|talon : 12,5  cm|plateau : 5  cm, [5285507] Bottines à talons compensés, cuir suédé, gris|talon : 7 cm|tige : 12 cm, [5302470] Sandales compensées|vert|talon : 12,5  cm|plateau : 5  cm, [5302555] Sandales à talons compensés, cuir, rouge|talon : 12 cm|plateau : 4 cm, [5302351] Sandales compensées|bleu marine|talon : 13,5 cm|plateau : 5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente CASTANER13",
+            "Bien! voici les produits : [5302344] Sandales compensées|jaune|talon : 12,5  cm|plateau : 5  cm, [5285507] Bottines à talons compensés, cuir suédé, gris|talon : 7 cm|tige : 12 cm, [5302470] Sandales compensées|vert|talon : 12,5  cm|plateau : 5  cm, [5302555] Sandales à talons compensés, cuir, rouge|talon : 12 cm|plateau : 4 cm, [5302351] Sandales compensées|bleu marine|talon : 13,5 cm|plateau : 5 cm"
+        ],
+        [
+            "Montre moi la vente CASTANER13",
+            "D'accord! voici les produits : [5302344] Sandales compensées|jaune|talon : 12,5  cm|plateau : 5  cm, [5285507] Bottines à talons compensés, cuir suédé, gris|talon : 7 cm|tige : 12 cm, [5302470] Sandales compensées|vert|talon : 12,5  cm|plateau : 5  cm, [5302555] Sandales à talons compensés, cuir, rouge|talon : 12 cm|plateau : 4 cm, [5302351] Sandales compensées|bleu marine|talon : 13,5 cm|plateau : 5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente DISNEY168",
+            "Ok! voici les produits : [10157790] Barboteuse Mickey | gris chiné, [10157764] Barboteuse Minnie | rose, [10157829] Barboteuse Minnie | rose, [10157792] Barboteuse Mickey | rouge, [10157831] Barboteuse Mickey | blanc"
+        ],
+        [
+            "Montre moi les produit de la vente DISNEY168",
+            "Bien! voici les produits : [10157790] Barboteuse Mickey | gris chiné, [10157764] Barboteuse Minnie | rose, [10157829] Barboteuse Minnie | rose, [10157792] Barboteuse Mickey | rouge, [10157831] Barboteuse Mickey | blanc"
+        ],
+        [
+            "Montre moi la vente DISNEY168",
+            "D'accord! voici les produits : [10157790] Barboteuse Mickey | gris chiné, [10157764] Barboteuse Minnie | rose, [10157829] Barboteuse Minnie | rose, [10157792] Barboteuse Mickey | rouge, [10157831] Barboteuse Mickey | blanc"
+        ],
+        [
+            "Donne moi les produit de la vente BORBONESE5",
+            "Ok! voici les produits : [9447506] Cape, capuche amovible - noir, [9447504] Cape, capuche amovible - beige, [9447507] Trench, ceinture amovible - beige, [9447479] Cardigan - gris, [9447595] Sweat polaire - vert"
+        ],
+        [
+            "Montre moi les produit de la vente BORBONESE5",
+            "Bien! voici les produits : [9447506] Cape, capuche amovible - noir, [9447504] Cape, capuche amovible - beige, [9447507] Trench, ceinture amovible - beige, [9447479] Cardigan - gris, [9447595] Sweat polaire - vert"
+        ],
+        [
+            "Montre moi la vente BORBONESE5",
+            "D'accord! voici les produits : [9447506] Cape, capuche amovible - noir, [9447504] Cape, capuche amovible - beige, [9447507] Trench, ceinture amovible - beige, [9447479] Cardigan - gris, [9447595] Sweat polaire - vert"
+        ],
+        [
+            "Donne moi les produit de la vente BANBAT3",
+            "Ok! voici les produits : [10065956] Veste | blanc, [10065658] Chemise | beige, [10065760] Combishort | beige, bleu marine, [10065958] Veste | noir, [10070306] Top | vert d'eau"
+        ],
+        [
+            "Montre moi les produit de la vente BANBAT3",
+            "Bien! voici les produits : [10065956] Veste | blanc, [10065658] Chemise | beige, [10065760] Combishort | beige, bleu marine, [10065958] Veste | noir, [10070306] Top | vert d'eau"
+        ],
+        [
+            "Montre moi la vente BANBAT3",
+            "D'accord! voici les produits : [10065956] Veste | blanc, [10065658] Chemise | beige, [10065760] Combishort | beige, bleu marine, [10065958] Veste | noir, [10070306] Top | vert d'eau"
+        ],
+        [
+            "Donne moi les produit de la vente MYELLOW20",
+            "Ok! voici les produits : [8890604] Bottines Rheciter, cuir grainé | marron et orange | tige : 13 cm"
+        ],
+        [
+            "Montre moi les produit de la vente MYELLOW20",
+            "Bien! voici les produits : [8890604] Bottines Rheciter, cuir grainé | marron et orange | tige : 13 cm"
+        ],
+        [
+            "Montre moi la vente MYELLOW20",
+            "D'accord! voici les produits : [8890604] Bottines Rheciter, cuir grainé | marron et orange | tige : 13 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AVOISIN4",
+            "Ok! voici les produits : [10053230] Bottines Bart - cuir velours de veau - taupe - tige : 11 cm"
+        ],
+        [
+            "Montre moi les produit de la vente AVOISIN4",
+            "Bien! voici les produits : [10053230] Bottines Bart - cuir velours de veau - taupe - tige : 11 cm"
+        ],
+        [
+            "Montre moi la vente AVOISIN4",
+            "D'accord! voici les produits : [10053230] Bottines Bart - cuir velours de veau - taupe - tige : 11 cm"
+        ],
+        [
+            "Donne moi les produit de la vente TCOLLECTION4",
+            "Ok! voici les produits : [10431112] XX, [10431120] XX, [10431111] XX, [10431121] XX"
+        ],
+        [
+            "Montre moi les produit de la vente TCOLLECTION4",
+            "Bien! voici les produits : [10431112] XX, [10431120] XX, [10431111] XX, [10431121] XX"
+        ],
+        [
+            "Montre moi la vente TCOLLECTION4",
+            "D'accord! voici les produits : [10431112] XX, [10431120] XX, [10431111] XX, [10431121] XX"
+        ],
+        [
+            "Donne moi les produit de la vente SSUCRE14",
+            "Ok! voici les produits : [10695343] XX, [10695341] XX"
+        ],
+        [
+            "Montre moi les produit de la vente SSUCRE14",
+            "Bien! voici les produits : [10695343] XX, [10695341] XX"
+        ],
+        [
+            "Montre moi la vente SSUCRE14",
+            "D'accord! voici les produits : [10695343] XX, [10695341] XX"
+        ],
+        [
+            "Donne moi les produit de la vente BUFFALO31",
+            "Ok! voici les produits : [9471617] Cuissardes - cuir - noir - talon : 5 cm - tige : 53 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BUFFALO31",
+            "Bien! voici les produits : [9471617] Cuissardes - cuir - noir - talon : 5 cm - tige : 53 cm"
+        ],
+        [
+            "Montre moi la vente BUFFALO31",
+            "D'accord! voici les produits : [9471617] Cuissardes - cuir - noir - talon : 5 cm - tige : 53 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ACARDONE6",
+            "Ok! voici les produits : [10776212] Sac à dos - cuir de veau - gris clair - 31 x 26 x 13 cm, [10776211] Sac à dos - cuir de veau - camel - 31 x 26 x 13 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ACARDONE6",
+            "Bien! voici les produits : [10776212] Sac à dos - cuir de veau - gris clair - 31 x 26 x 13 cm, [10776211] Sac à dos - cuir de veau - camel - 31 x 26 x 13 cm"
+        ],
+        [
+            "Montre moi la vente ACARDONE6",
+            "D'accord! voici les produits : [10776212] Sac à dos - cuir de veau - gris clair - 31 x 26 x 13 cm, [10776211] Sac à dos - cuir de veau - camel - 31 x 26 x 13 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ASTER17",
+            "Ok! voici les produits : [9983130] Bottillons Danouk - cuir - rose - tige : 5 cm, [9983139] Salomés Britt - cuir - argenté - tige : 5 cm, [9983128] Bottillons Badadi - cuir - gris foncé et bleu - tige : 5 cm, [9983133] Bottillons Gefrine - nubuck - violet clair - tige : 5 cm, [9983178] Sneakers Dragio - cuir - vert et camel - tige : 7 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ASTER17",
+            "Bien! voici les produits : [9983130] Bottillons Danouk - cuir - rose - tige : 5 cm, [9983139] Salomés Britt - cuir - argenté - tige : 5 cm, [9983128] Bottillons Badadi - cuir - gris foncé et bleu - tige : 5 cm, [9983133] Bottillons Gefrine - nubuck - violet clair - tige : 5 cm, [9983178] Sneakers Dragio - cuir - vert et camel - tige : 7 cm"
+        ],
+        [
+            "Montre moi la vente ASTER17",
+            "D'accord! voici les produits : [9983130] Bottillons Danouk - cuir - rose - tige : 5 cm, [9983139] Salomés Britt - cuir - argenté - tige : 5 cm, [9983128] Bottillons Badadi - cuir - gris foncé et bleu - tige : 5 cm, [9983133] Bottillons Gefrine - nubuck - violet clair - tige : 5 cm, [9983178] Sneakers Dragio - cuir - vert et camel - tige : 7 cm"
+        ],
+        [
+            "Donne moi les produit de la vente HAPPYSOCKS15",
+            "Ok! voici les produits : [9906946] Caleçon - vert et multicolore, [9906935] Caleçon - noir et multicolore, [9906928] Caleçon - noir et blanc, [9906958] Caleçon - turquoise et multicolore, [9906956] Caleçon - bleu et bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente HAPPYSOCKS15",
+            "Bien! voici les produits : [9906946] Caleçon - vert et multicolore, [9906935] Caleçon - noir et multicolore, [9906928] Caleçon - noir et blanc, [9906958] Caleçon - turquoise et multicolore, [9906956] Caleçon - bleu et bleu marine"
+        ],
+        [
+            "Montre moi la vente HAPPYSOCKS15",
+            "D'accord! voici les produits : [9906946] Caleçon - vert et multicolore, [9906935] Caleçon - noir et multicolore, [9906928] Caleçon - noir et blanc, [9906958] Caleçon - turquoise et multicolore, [9906956] Caleçon - bleu et bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente ALEXANDER1",
+            "Ok! voici les produits : [8868929] HOMME-CHAUSSURES-BROWN-S PRADO-9-004-02-BROWN | marrone, [8868920] Bottines, cuir | noir | tige : 10 cm, [8868939] Bottines, cuir suédé | kaki foncé | tige : 15 cm, [8868956] Bottines, cuir | marron | tige : 15 cm semelle : 3,5 cm, [8868930] Bottines, cuir | marron | tige : 11 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ALEXANDER1",
+            "Bien! voici les produits : [8868929] HOMME-CHAUSSURES-BROWN-S PRADO-9-004-02-BROWN | marrone, [8868920] Bottines, cuir | noir | tige : 10 cm, [8868939] Bottines, cuir suédé | kaki foncé | tige : 15 cm, [8868956] Bottines, cuir | marron | tige : 15 cm semelle : 3,5 cm, [8868930] Bottines, cuir | marron | tige : 11 cm"
+        ],
+        [
+            "Montre moi la vente ALEXANDER1",
+            "D'accord! voici les produits : [8868929] HOMME-CHAUSSURES-BROWN-S PRADO-9-004-02-BROWN | marrone, [8868920] Bottines, cuir | noir | tige : 10 cm, [8868939] Bottines, cuir suédé | kaki foncé | tige : 15 cm, [8868956] Bottines, cuir | marron | tige : 15 cm semelle : 3,5 cm, [8868930] Bottines, cuir | marron | tige : 11 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AYNEOSENS9",
+            "Ok! voici les produits : [9413266] Chaussettes | noir et gris, [9413094] Guêtres Neosens | marron, [9413253] Chaussures à talons Paris, cuir | marron clair | talon : 8,5 cm, [9413096] Babies Dance, cuir | gris, [9413268] Chaussettes | noir et rouge"
+        ],
+        [
+            "Montre moi les produit de la vente AYNEOSENS9",
+            "Bien! voici les produits : [9413266] Chaussettes | noir et gris, [9413094] Guêtres Neosens | marron, [9413253] Chaussures à talons Paris, cuir | marron clair | talon : 8,5 cm, [9413096] Babies Dance, cuir | gris, [9413268] Chaussettes | noir et rouge"
+        ],
+        [
+            "Montre moi la vente AYNEOSENS9",
+            "D'accord! voici les produits : [9413266] Chaussettes | noir et gris, [9413094] Guêtres Neosens | marron, [9413253] Chaussures à talons Paris, cuir | marron clair | talon : 8,5 cm, [9413096] Babies Dance, cuir | gris, [9413268] Chaussettes | noir et rouge"
+        ],
+        [
+            "Donne moi les produit de la vente SPARCO23",
+            "Ok! voici les produits : [10181672] Casquette |gris, [10181669] Casque de moto |noir, [10181668] Casque de moto |blanc, [10181674] Casquette | noir, [10181671] Casquette réglable |bleu"
+        ],
+        [
+            "Montre moi les produit de la vente SPARCO23",
+            "Bien! voici les produits : [10181672] Casquette |gris, [10181669] Casque de moto |noir, [10181668] Casque de moto |blanc, [10181674] Casquette | noir, [10181671] Casquette réglable |bleu"
+        ],
+        [
+            "Montre moi la vente SPARCO23",
+            "D'accord! voici les produits : [10181672] Casquette |gris, [10181669] Casque de moto |noir, [10181668] Casque de moto |blanc, [10181674] Casquette | noir, [10181671] Casquette réglable |bleu"
+        ],
+        [
+            "Donne moi les produit de la vente MERRELL15",
+            "Ok! voici les produits : [9308998] Chaussures de randonnée, cuir | noir, [9309000] Chaussures de randonnée | noir, [9308967] Chaussures de randonnée | bleu, [9308893] Chaussures de randonnée | noir, [9308891] Chaussures de randonnée | gris"
+        ],
+        [
+            "Montre moi les produit de la vente MERRELL15",
+            "Bien! voici les produits : [9308998] Chaussures de randonnée, cuir | noir, [9309000] Chaussures de randonnée | noir, [9308967] Chaussures de randonnée | bleu, [9308893] Chaussures de randonnée | noir, [9308891] Chaussures de randonnée | gris"
+        ],
+        [
+            "Montre moi la vente MERRELL15",
+            "D'accord! voici les produits : [9308998] Chaussures de randonnée, cuir | noir, [9309000] Chaussures de randonnée | noir, [9308967] Chaussures de randonnée | bleu, [9308893] Chaussures de randonnée | noir, [9308891] Chaussures de randonnée | gris"
+        ],
+        [
+            "Donne moi les produit de la vente NEWNESS1",
+            "Ok! voici les produits : [10251018] Jegging | bleu denim clair, [10250948] Maillot 2 pièces | bleu et rose, [10251042] Bloomer | blanc, [10250944] Maillot 2 pièces | jaune et rouge"
+        ],
+        [
+            "Montre moi les produit de la vente NEWNESS1",
+            "Bien! voici les produits : [10251018] Jegging | bleu denim clair, [10250948] Maillot 2 pièces | bleu et rose, [10251042] Bloomer | blanc, [10250944] Maillot 2 pièces | jaune et rouge"
+        ],
+        [
+            "Montre moi la vente NEWNESS1",
+            "D'accord! voici les produits : [10251018] Jegging | bleu denim clair, [10250948] Maillot 2 pièces | bleu et rose, [10251042] Bloomer | blanc, [10250944] Maillot 2 pièces | jaune et rouge"
+        ],
+        [
+            "Donne moi les produit de la vente AFERMANI4",
+            "Ok! voici les produits : [10300605] Femme-BOTTINES-BEIGE-AMB009-NORVEGIA COBBLE, [10300615] Femme-BOTTINES-NOIR-AMB009-NORVEGIA NERO, [10300619] Femme-BOTTINES-NOIR-TES004-PARMA NERO, [10300632] Escarpins, cuir | beige foncé | talon : 8,5 cm, [10300621] Boots, cuir | beige clair | talon : 4 cm | tige : 12 cm"
+        ],
+        [
+            "Montre moi les produit de la vente AFERMANI4",
+            "Bien! voici les produits : [10300605] Femme-BOTTINES-BEIGE-AMB009-NORVEGIA COBBLE, [10300615] Femme-BOTTINES-NOIR-AMB009-NORVEGIA NERO, [10300619] Femme-BOTTINES-NOIR-TES004-PARMA NERO, [10300632] Escarpins, cuir | beige foncé | talon : 8,5 cm, [10300621] Boots, cuir | beige clair | talon : 4 cm | tige : 12 cm"
+        ],
+        [
+            "Montre moi la vente AFERMANI4",
+            "D'accord! voici les produits : [10300605] Femme-BOTTINES-BEIGE-AMB009-NORVEGIA COBBLE, [10300615] Femme-BOTTINES-NOIR-AMB009-NORVEGIA NERO, [10300619] Femme-BOTTINES-NOIR-TES004-PARMA NERO, [10300632] Escarpins, cuir | beige foncé | talon : 8,5 cm, [10300621] Boots, cuir | beige clair | talon : 4 cm | tige : 12 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ELPOTRO1",
+            "Ok! voici les produits : [9929793] Trousse - noir - 17 x 11 x 6 cm, [9929790] Trousse - bleu marine - 17 x 11 x 6 cm, [9929792] Trousse - marron foncé - 17 x 11 x 6 cm, [9929791] Trousse - beige - 17 x 11 x 6 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ELPOTRO1",
+            "Bien! voici les produits : [9929793] Trousse - noir - 17 x 11 x 6 cm, [9929790] Trousse - bleu marine - 17 x 11 x 6 cm, [9929792] Trousse - marron foncé - 17 x 11 x 6 cm, [9929791] Trousse - beige - 17 x 11 x 6 cm"
+        ],
+        [
+            "Montre moi la vente ELPOTRO1",
+            "D'accord! voici les produits : [9929793] Trousse - noir - 17 x 11 x 6 cm, [9929790] Trousse - bleu marine - 17 x 11 x 6 cm, [9929792] Trousse - marron foncé - 17 x 11 x 6 cm, [9929791] Trousse - beige - 17 x 11 x 6 cm"
+        ],
+        [
+            "Donne moi les produit de la vente GOODWINSMITH1",
+            "Ok! voici les produits : [9083343] Bottines, cuir | noir et bordeaux foncé | tige : 15 cm, [8711184] Bottines, cuir | noir et beige, [9083340] Bottines, cuir | ocre et noir | tige : 15 cm, [9083335] Bottines, cuir | marron clair et noir | tige : 15 cm, [9083344] Bottines, cuir | ocre et bleu marine | tige : 15 cm"
+        ],
+        [
+            "Montre moi les produit de la vente GOODWINSMITH1",
+            "Bien! voici les produits : [9083343] Bottines, cuir | noir et bordeaux foncé | tige : 15 cm, [8711184] Bottines, cuir | noir et beige, [9083340] Bottines, cuir | ocre et noir | tige : 15 cm, [9083335] Bottines, cuir | marron clair et noir | tige : 15 cm, [9083344] Bottines, cuir | ocre et bleu marine | tige : 15 cm"
+        ],
+        [
+            "Montre moi la vente GOODWINSMITH1",
+            "D'accord! voici les produits : [9083343] Bottines, cuir | noir et bordeaux foncé | tige : 15 cm, [8711184] Bottines, cuir | noir et beige, [9083340] Bottines, cuir | ocre et noir | tige : 15 cm, [9083335] Bottines, cuir | marron clair et noir | tige : 15 cm, [9083344] Bottines, cuir | ocre et bleu marine | tige : 15 cm"
+        ],
+        [
+            "Donne moi les produit de la vente MERRELL13",
+            "Ok! voici les produits : [7643918] Femme-Chaussures basses-Rouge Bleu-J32574-RED/LIGHT BLUE, [7643920] Femme-Chaussures rando montantes-Noir Rose-J01708-BLACK/ROSE, [7643916] Femme-Chaussures basses-Bleu-J32570-ROYAL BLUE/RACER BLUE, [7643911] Sandales Hydro Hiker, cuir et textile|bleu marine et vert, [7643912] Sneakers Allout Blaze|gris et rose"
+        ],
+        [
+            "Montre moi les produit de la vente MERRELL13",
+            "Bien! voici les produits : [7643918] Femme-Chaussures basses-Rouge Bleu-J32574-RED/LIGHT BLUE, [7643920] Femme-Chaussures rando montantes-Noir Rose-J01708-BLACK/ROSE, [7643916] Femme-Chaussures basses-Bleu-J32570-ROYAL BLUE/RACER BLUE, [7643911] Sandales Hydro Hiker, cuir et textile|bleu marine et vert, [7643912] Sneakers Allout Blaze|gris et rose"
+        ],
+        [
+            "Montre moi la vente MERRELL13",
+            "D'accord! voici les produits : [7643918] Femme-Chaussures basses-Rouge Bleu-J32574-RED/LIGHT BLUE, [7643920] Femme-Chaussures rando montantes-Noir Rose-J01708-BLACK/ROSE, [7643916] Femme-Chaussures basses-Bleu-J32570-ROYAL BLUE/RACER BLUE, [7643911] Sandales Hydro Hiker, cuir et textile|bleu marine et vert, [7643912] Sneakers Allout Blaze|gris et rose"
+        ],
+        [
+            "Donne moi les produit de la vente PSEMPIONI11",
+            "Ok! voici les produits : [10356113] Gilet - noir, [10356107] Gilet - blanc, [10356114] Gilet - bleu électrique"
+        ],
+        [
+            "Montre moi les produit de la vente PSEMPIONI11",
+            "Bien! voici les produits : [10356113] Gilet - noir, [10356107] Gilet - blanc, [10356114] Gilet - bleu électrique"
+        ],
+        [
+            "Montre moi la vente PSEMPIONI11",
+            "D'accord! voici les produits : [10356113] Gilet - noir, [10356107] Gilet - blanc, [10356114] Gilet - bleu électrique"
+        ],
+        [
+            "Donne moi les produit de la vente LOLLIPOPS33",
+            "Ok! voici les produits : [10336594] Trousse à maquillage Yolo - crème - 13 x 17 x 24 cm, [10336369] Bonnet Ymaille - kaki, [10336552] FEMME-DIVERS-MULTI-22518-MULT, [10336356] Bonnet Ysky - bleu pâle, [10336371] Mitaines Ymaille - kaki"
+        ],
+        [
+            "Montre moi les produit de la vente LOLLIPOPS33",
+            "Bien! voici les produits : [10336594] Trousse à maquillage Yolo - crème - 13 x 17 x 24 cm, [10336369] Bonnet Ymaille - kaki, [10336552] FEMME-DIVERS-MULTI-22518-MULT, [10336356] Bonnet Ysky - bleu pâle, [10336371] Mitaines Ymaille - kaki"
+        ],
+        [
+            "Montre moi la vente LOLLIPOPS33",
+            "D'accord! voici les produits : [10336594] Trousse à maquillage Yolo - crème - 13 x 17 x 24 cm, [10336369] Bonnet Ymaille - kaki, [10336552] FEMME-DIVERS-MULTI-22518-MULT, [10336356] Bonnet Ysky - bleu pâle, [10336371] Mitaines Ymaille - kaki"
+        ],
+        [
+            "Donne moi les produit de la vente CPAZOLINI1",
+            "Ok! voici les produits : [10753676] XX, [10753695] XX, [10753704] XX, [10753683] XX, [10753802] XX"
+        ],
+        [
+            "Montre moi les produit de la vente CPAZOLINI1",
+            "Bien! voici les produits : [10753676] XX, [10753695] XX, [10753704] XX, [10753683] XX, [10753802] XX"
+        ],
+        [
+            "Montre moi la vente CPAZOLINI1",
+            "D'accord! voici les produits : [10753676] XX, [10753695] XX, [10753704] XX, [10753683] XX, [10753802] XX"
+        ],
+        [
+            "Donne moi les produit de la vente PAUSECAFE6",
+            "Ok! voici les produits : [10358791] Surchemise - motif fleuri - noir et multicolore, [10358790] Surchemise - multicolore, [10358707] Jupe portefeuille - noir, [10358675] Boléro - ajouré - noir, [10358789] Surchemise - blanc et multicolore"
+        ],
+        [
+            "Montre moi les produit de la vente PAUSECAFE6",
+            "Bien! voici les produits : [10358791] Surchemise - motif fleuri - noir et multicolore, [10358790] Surchemise - multicolore, [10358707] Jupe portefeuille - noir, [10358675] Boléro - ajouré - noir, [10358789] Surchemise - blanc et multicolore"
+        ],
+        [
+            "Montre moi la vente PAUSECAFE6",
+            "D'accord! voici les produits : [10358791] Surchemise - motif fleuri - noir et multicolore, [10358790] Surchemise - multicolore, [10358707] Jupe portefeuille - noir, [10358675] Boléro - ajouré - noir, [10358789] Surchemise - blanc et multicolore"
+        ],
+        [
+            "Donne moi les produit de la vente PLOPEZ7",
+            "Ok! voici les produits : [8998868] Cuissardes, cuir | gris foncé et noir | talon : 10,5 cm tige : 59 cm"
+        ],
+        [
+            "Montre moi les produit de la vente PLOPEZ7",
+            "Bien! voici les produits : [8998868] Cuissardes, cuir | gris foncé et noir | talon : 10,5 cm tige : 59 cm"
+        ],
+        [
+            "Montre moi la vente PLOPEZ7",
+            "D'accord! voici les produits : [8998868] Cuissardes, cuir | gris foncé et noir | talon : 10,5 cm tige : 59 cm"
+        ],
+        [
+            "Donne moi les produit de la vente HELIUM1",
+            "Ok! voici les produits : [10063429] Blouson sans manches - 100% cuir d'agneau nappa - marron foncé, [10063351] Sac week-end - cuir nappa de mouton - noir - 50 x 33 x 26 cm, [10063428] Blouson sans manches - 100% cuir d'agneau nappa - noir, [10063350] Sac week-end - cuir nappa de mouton - noir - 51 x 29 x 23 cm, [10063369] Veste courte - 100% cuir d'agneau nappa - noir"
+        ],
+        [
+            "Montre moi les produit de la vente HELIUM1",
+            "Bien! voici les produits : [10063429] Blouson sans manches - 100% cuir d'agneau nappa - marron foncé, [10063351] Sac week-end - cuir nappa de mouton - noir - 50 x 33 x 26 cm, [10063428] Blouson sans manches - 100% cuir d'agneau nappa - noir, [10063350] Sac week-end - cuir nappa de mouton - noir - 51 x 29 x 23 cm, [10063369] Veste courte - 100% cuir d'agneau nappa - noir"
+        ],
+        [
+            "Montre moi la vente HELIUM1",
+            "D'accord! voici les produits : [10063429] Blouson sans manches - 100% cuir d'agneau nappa - marron foncé, [10063351] Sac week-end - cuir nappa de mouton - noir - 50 x 33 x 26 cm, [10063428] Blouson sans manches - 100% cuir d'agneau nappa - noir, [10063350] Sac week-end - cuir nappa de mouton - noir - 51 x 29 x 23 cm, [10063369] Veste courte - 100% cuir d'agneau nappa - noir"
+        ],
+        [
+            "Donne moi les produit de la vente ALMAENPENA6",
+            "Ok! voici les produits : [9592092] Bottes , cuir suédé , taupe , talon : 10 cm , tige : 34,5 cm, [9592101] Bottes , cuir grainé , noir et bleu foncé , tige : 42 cm, [9592089] Bottes , cuir suédé , noir , talon : 9,5 cm , tige : 31,5 cm, [9592022] Bottes , cuir suédé , taupe foncé , 4 cm , plateau : 2 cm , tige : 25 cm, [9592091] Bottes , cuir suédé , camel , talon : 10 cm , tige : 34,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ALMAENPENA6",
+            "Bien! voici les produits : [9592092] Bottes , cuir suédé , taupe , talon : 10 cm , tige : 34,5 cm, [9592101] Bottes , cuir grainé , noir et bleu foncé , tige : 42 cm, [9592089] Bottes , cuir suédé , noir , talon : 9,5 cm , tige : 31,5 cm, [9592022] Bottes , cuir suédé , taupe foncé , 4 cm , plateau : 2 cm , tige : 25 cm, [9592091] Bottes , cuir suédé , camel , talon : 10 cm , tige : 34,5 cm"
+        ],
+        [
+            "Montre moi la vente ALMAENPENA6",
+            "D'accord! voici les produits : [9592092] Bottes , cuir suédé , taupe , talon : 10 cm , tige : 34,5 cm, [9592101] Bottes , cuir grainé , noir et bleu foncé , tige : 42 cm, [9592089] Bottes , cuir suédé , noir , talon : 9,5 cm , tige : 31,5 cm, [9592022] Bottes , cuir suédé , taupe foncé , 4 cm , plateau : 2 cm , tige : 25 cm, [9592091] Bottes , cuir suédé , camel , talon : 10 cm , tige : 34,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente GIOSEPPO20",
+            "Ok! voici les produits : [9608569] Panier Angels | doré | marron clair | 50 x 30 x 20 cm, [9608563] Panier Angels | argenté | marron | 50 x 30 x 20 cm, [9608572] Panier Felipa | fibres naturelles | beige | fuchsia | 28 x 25 x 18 cm"
+        ],
+        [
+            "Montre moi les produit de la vente GIOSEPPO20",
+            "Bien! voici les produits : [9608569] Panier Angels | doré | marron clair | 50 x 30 x 20 cm, [9608563] Panier Angels | argenté | marron | 50 x 30 x 20 cm, [9608572] Panier Felipa | fibres naturelles | beige | fuchsia | 28 x 25 x 18 cm"
+        ],
+        [
+            "Montre moi la vente GIOSEPPO20",
+            "D'accord! voici les produits : [9608569] Panier Angels | doré | marron clair | 50 x 30 x 20 cm, [9608563] Panier Angels | argenté | marron | 50 x 30 x 20 cm, [9608572] Panier Felipa | fibres naturelles | beige | fuchsia | 28 x 25 x 18 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ASH14",
+            "Ok! voici les produits : [9404110] Sabots Jezebel - cuir - noir - talon : 8 cm - plateau : 4 cm, [9404107] Sabots Jezebel - cuir - camel et coloris doré - talon : 8 cm - plateau : 4 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ASH14",
+            "Bien! voici les produits : [9404110] Sabots Jezebel - cuir - noir - talon : 8 cm - plateau : 4 cm, [9404107] Sabots Jezebel - cuir - camel et coloris doré - talon : 8 cm - plateau : 4 cm"
+        ],
+        [
+            "Montre moi la vente ASH14",
+            "D'accord! voici les produits : [9404110] Sabots Jezebel - cuir - noir - talon : 8 cm - plateau : 4 cm, [9404107] Sabots Jezebel - cuir - camel et coloris doré - talon : 8 cm - plateau : 4 cm"
+        ],
+        [
+            "Donne moi les produit de la vente BATA16",
+            "Ok! voici les produits : [9447940] Chaussures montantes, cuir|beige|tige : 18 cm, [9447938] Sneakers, cuir suédé|bleu, [9447968] Derbies à boucle, cuir | gris, [9447928] Derbies à boucle, cuir | bleu, [9447980] Sneakers montantes, cuir | noir | tige : 9,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BATA16",
+            "Bien! voici les produits : [9447940] Chaussures montantes, cuir|beige|tige : 18 cm, [9447938] Sneakers, cuir suédé|bleu, [9447968] Derbies à boucle, cuir | gris, [9447928] Derbies à boucle, cuir | bleu, [9447980] Sneakers montantes, cuir | noir | tige : 9,5 cm"
+        ],
+        [
+            "Montre moi la vente BATA16",
+            "D'accord! voici les produits : [9447940] Chaussures montantes, cuir|beige|tige : 18 cm, [9447938] Sneakers, cuir suédé|bleu, [9447968] Derbies à boucle, cuir | gris, [9447928] Derbies à boucle, cuir | bleu, [9447980] Sneakers montantes, cuir | noir | tige : 9,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente JLSCHERRER32",
+            "Ok! voici les produits : [7627382] Sac bourse Krystal, cuir|rouge|19 x 22 x 15 cm, [7627375] Sac bourse Krystal, cuir|beige|19 x 22 x 15 cm, [7627357] Sac bourse Krystal, cuir|noir|19 x 22 x 15 cm, [7627353] Sac bourse Krystal, cuir|gris foncé|19 x 22 x 15 cm"
+        ],
+        [
+            "Montre moi les produit de la vente JLSCHERRER32",
+            "Bien! voici les produits : [7627382] Sac bourse Krystal, cuir|rouge|19 x 22 x 15 cm, [7627375] Sac bourse Krystal, cuir|beige|19 x 22 x 15 cm, [7627357] Sac bourse Krystal, cuir|noir|19 x 22 x 15 cm, [7627353] Sac bourse Krystal, cuir|gris foncé|19 x 22 x 15 cm"
+        ],
+        [
+            "Montre moi la vente JLSCHERRER32",
+            "D'accord! voici les produits : [7627382] Sac bourse Krystal, cuir|rouge|19 x 22 x 15 cm, [7627375] Sac bourse Krystal, cuir|beige|19 x 22 x 15 cm, [7627357] Sac bourse Krystal, cuir|noir|19 x 22 x 15 cm, [7627353] Sac bourse Krystal, cuir|gris foncé|19 x 22 x 15 cm"
+        ],
+        [
+            "Donne moi les produit de la vente CASTANER21",
+            "Ok! voici les produits : [6952799] Cuissardes Juliette, cuir|marron foncé|talon : 2 cm, tige : 42,5 cm, [8895143] Trousse Jerez | bleu et noir | 24 x 11,5 x 1 cm, [8895142] Trousse Jerez | marron | 24 x 11,5 x 1 cm, [6952807] Sac bowling Granada, cuir|marron foncé|34 x 22 x 18 cm, [6952831] Cuissardes Sulina, cuir|noir|talon : 2,5 cm, tige : 42 cm"
+        ],
+        [
+            "Montre moi les produit de la vente CASTANER21",
+            "Bien! voici les produits : [6952799] Cuissardes Juliette, cuir|marron foncé|talon : 2 cm, tige : 42,5 cm, [8895143] Trousse Jerez | bleu et noir | 24 x 11,5 x 1 cm, [8895142] Trousse Jerez | marron | 24 x 11,5 x 1 cm, [6952807] Sac bowling Granada, cuir|marron foncé|34 x 22 x 18 cm, [6952831] Cuissardes Sulina, cuir|noir|talon : 2,5 cm, tige : 42 cm"
+        ],
+        [
+            "Montre moi la vente CASTANER21",
+            "D'accord! voici les produits : [6952799] Cuissardes Juliette, cuir|marron foncé|talon : 2 cm, tige : 42,5 cm, [8895143] Trousse Jerez | bleu et noir | 24 x 11,5 x 1 cm, [8895142] Trousse Jerez | marron | 24 x 11,5 x 1 cm, [6952807] Sac bowling Granada, cuir|marron foncé|34 x 22 x 18 cm, [6952831] Cuissardes Sulina, cuir|noir|talon : 2,5 cm, tige : 42 cm"
+        ],
+        [
+            "Donne moi les produit de la vente LINVOSGES21",
+            "Ok! voici les produits : [10097038] Sac cabas \"Baignade\" turquoise en lin lavé - 40 x 50 x 10 cm, [10097537] Sac de plage \"Pyla\" bleu, camel en papier tressé - 54 x 38,5 x 24,5 cm, [10097037] Sac cabas \"Baignade\" orange en lin lavé - 40 x 50 x 10 cm, [10097540] Sac de plage \"Saly\" jaune, beige en coton- 53 x 46 x 8 cm"
+        ],
+        [
+            "Montre moi les produit de la vente LINVOSGES21",
+            "Bien! voici les produits : [10097038] Sac cabas \"Baignade\" turquoise en lin lavé - 40 x 50 x 10 cm, [10097537] Sac de plage \"Pyla\" bleu, camel en papier tressé - 54 x 38,5 x 24,5 cm, [10097037] Sac cabas \"Baignade\" orange en lin lavé - 40 x 50 x 10 cm, [10097540] Sac de plage \"Saly\" jaune, beige en coton- 53 x 46 x 8 cm"
+        ],
+        [
+            "Montre moi la vente LINVOSGES21",
+            "D'accord! voici les produits : [10097038] Sac cabas \"Baignade\" turquoise en lin lavé - 40 x 50 x 10 cm, [10097537] Sac de plage \"Pyla\" bleu, camel en papier tressé - 54 x 38,5 x 24,5 cm, [10097037] Sac cabas \"Baignade\" orange en lin lavé - 40 x 50 x 10 cm, [10097540] Sac de plage \"Saly\" jaune, beige en coton- 53 x 46 x 8 cm"
+        ],
+        [
+            "Donne moi les produit de la vente HACKETT25",
+            "Ok! voici les produits : [9720885] Costume 2 pièces | bleu foncé, [9720589] Men-Leather STRIPE WEB WASHBAG-BLUE/NAVY-HM411922-5AU, [9720883] Costume 2 pièces | bleu marine, [9720914] Nœud papillon - motif - bleu marine et blanc, [9720928] Nœud papillon - rayures - rouge et blanc"
+        ],
+        [
+            "Montre moi les produit de la vente HACKETT25",
+            "Bien! voici les produits : [9720885] Costume 2 pièces | bleu foncé, [9720589] Men-Leather STRIPE WEB WASHBAG-BLUE/NAVY-HM411922-5AU, [9720883] Costume 2 pièces | bleu marine, [9720914] Nœud papillon - motif - bleu marine et blanc, [9720928] Nœud papillon - rayures - rouge et blanc"
+        ],
+        [
+            "Montre moi la vente HACKETT25",
+            "D'accord! voici les produits : [9720885] Costume 2 pièces | bleu foncé, [9720589] Men-Leather STRIPE WEB WASHBAG-BLUE/NAVY-HM411922-5AU, [9720883] Costume 2 pièces | bleu marine, [9720914] Nœud papillon - motif - bleu marine et blanc, [9720928] Nœud papillon - rayures - rouge et blanc"
+        ],
+        [
+            "Donne moi les produit de la vente MELISSA7",
+            "Ok! voici les produits : [8904944] Bottes de pluie | violet et jaune, tige : 8 cm, [8905253] Bottes de pluie, Vivienne Westwood | coloris argenté et rose, tige : 16 cm, [8904966] Bottes de pluie | rose et orange, tige : 8 cm, [8904945] Bottes de pluie | noir et rose, tige : 8 cm, [8905261] Bottes de pluie, Vivienne Westwood | bleu et rose, tige : 16 cm"
+        ],
+        [
+            "Montre moi les produit de la vente MELISSA7",
+            "Bien! voici les produits : [8904944] Bottes de pluie | violet et jaune, tige : 8 cm, [8905253] Bottes de pluie, Vivienne Westwood | coloris argenté et rose, tige : 16 cm, [8904966] Bottes de pluie | rose et orange, tige : 8 cm, [8904945] Bottes de pluie | noir et rose, tige : 8 cm, [8905261] Bottes de pluie, Vivienne Westwood | bleu et rose, tige : 16 cm"
+        ],
+        [
+            "Montre moi la vente MELISSA7",
+            "D'accord! voici les produits : [8904944] Bottes de pluie | violet et jaune, tige : 8 cm, [8905253] Bottes de pluie, Vivienne Westwood | coloris argenté et rose, tige : 16 cm, [8904966] Bottes de pluie | rose et orange, tige : 8 cm, [8904945] Bottes de pluie | noir et rose, tige : 8 cm, [8905261] Bottes de pluie, Vivienne Westwood | bleu et rose, tige : 16 cm"
+        ],
+        [
+            "Donne moi les produit de la vente YERSE10",
+            "Ok! voici les produits : [10493781] XX, [10493826] XX, [10493802] XX"
+        ],
+        [
+            "Montre moi les produit de la vente YERSE10",
+            "Bien! voici les produits : [10493781] XX, [10493826] XX, [10493802] XX"
+        ],
+        [
+            "Montre moi la vente YERSE10",
+            "D'accord! voici les produits : [10493781] XX, [10493826] XX, [10493802] XX"
+        ],
+        [
+            "Donne moi les produit de la vente ASH13",
+            "Ok! voici les produits : [8993247] Sabots Joplin, cuir suédé | marron | talon : 8 cm plateau : 4 cm, [8993250] Sabots Joplin, cuir suédé | noir | talon : 8 cm plateau : 4 cm, [8993248] Sabots Joplin, cuir suédé | kaki | talon : 8 cm plateau : 4 cm, [8993249] Sabots Joplin, cuir suédé | marron | talon : 8 cm plateau : 4 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ASH13",
+            "Bien! voici les produits : [8993247] Sabots Joplin, cuir suédé | marron | talon : 8 cm plateau : 4 cm, [8993250] Sabots Joplin, cuir suédé | noir | talon : 8 cm plateau : 4 cm, [8993248] Sabots Joplin, cuir suédé | kaki | talon : 8 cm plateau : 4 cm, [8993249] Sabots Joplin, cuir suédé | marron | talon : 8 cm plateau : 4 cm"
+        ],
+        [
+            "Montre moi la vente ASH13",
+            "D'accord! voici les produits : [8993247] Sabots Joplin, cuir suédé | marron | talon : 8 cm plateau : 4 cm, [8993250] Sabots Joplin, cuir suédé | noir | talon : 8 cm plateau : 4 cm, [8993248] Sabots Joplin, cuir suédé | kaki | talon : 8 cm plateau : 4 cm, [8993249] Sabots Joplin, cuir suédé | marron | talon : 8 cm plateau : 4 cm"
+        ],
+        [
+            "Donne moi les produit de la vente CNOIR17",
+            "Ok! voici les produits : [9953607] Sac - taupe foncé - 41 x 32 x 10 cm, [9953613] Sac à main - coloris doré et blanc - 22 x 22 x 32 cm, [9953611] Sac à main, cuir - bleu et crème - 41 x 32 x 10 cm, [9953610] Sac à main, coloris argenté et blanc - 22 x 22 x 32 cm, [9953620] Sac porté épaule - rouge - 20 x 14 x 6 cm"
+        ],
+        [
+            "Montre moi les produit de la vente CNOIR17",
+            "Bien! voici les produits : [9953607] Sac - taupe foncé - 41 x 32 x 10 cm, [9953613] Sac à main - coloris doré et blanc - 22 x 22 x 32 cm, [9953611] Sac à main, cuir - bleu et crème - 41 x 32 x 10 cm, [9953610] Sac à main, coloris argenté et blanc - 22 x 22 x 32 cm, [9953620] Sac porté épaule - rouge - 20 x 14 x 6 cm"
+        ],
+        [
+            "Montre moi la vente CNOIR17",
+            "D'accord! voici les produits : [9953607] Sac - taupe foncé - 41 x 32 x 10 cm, [9953613] Sac à main - coloris doré et blanc - 22 x 22 x 32 cm, [9953611] Sac à main, cuir - bleu et crème - 41 x 32 x 10 cm, [9953610] Sac à main, coloris argenté et blanc - 22 x 22 x 32 cm, [9953620] Sac porté épaule - rouge - 20 x 14 x 6 cm"
+        ],
+        [
+            "Donne moi les produit de la vente CAMPER34",
+            "Ok! voici les produits : [10023446] Sacoche d'ordinateur Adapack - cuir - bleu nuit vert - 28 x 21 cm, [10023317] Baskets Marges - corail, [10023208] Baskets Dub - cuir - noir et orange, [10022891] Chaussons Wabi - corail et marron, [10023298] Baskets Dub - cuir - orange et noir"
+        ],
+        [
+            "Montre moi les produit de la vente CAMPER34",
+            "Bien! voici les produits : [10023446] Sacoche d'ordinateur Adapack - cuir - bleu nuit vert - 28 x 21 cm, [10023317] Baskets Marges - corail, [10023208] Baskets Dub - cuir - noir et orange, [10022891] Chaussons Wabi - corail et marron, [10023298] Baskets Dub - cuir - orange et noir"
+        ],
+        [
+            "Montre moi la vente CAMPER34",
+            "D'accord! voici les produits : [10023446] Sacoche d'ordinateur Adapack - cuir - bleu nuit vert - 28 x 21 cm, [10023317] Baskets Marges - corail, [10023208] Baskets Dub - cuir - noir et orange, [10022891] Chaussons Wabi - corail et marron, [10023298] Baskets Dub - cuir - orange et noir"
+        ],
+        [
+            "Donne moi les produit de la vente PAQUETAGE27",
+            "Ok! voici les produits : [8705146] Sac trapèze|camel|50 x 25 x 15 cm, [8705151] Sac trapèze|rose|50 x 25 x 15 cm, [8705481] Sac trapèze, cuir grainé  | bleu marine | 40 x 25 x 13 cm, [8705147] Sac trapèze, cuir grainé|camel|50 x 25 x 15 cm"
+        ],
+        [
+            "Montre moi les produit de la vente PAQUETAGE27",
+            "Bien! voici les produits : [8705146] Sac trapèze|camel|50 x 25 x 15 cm, [8705151] Sac trapèze|rose|50 x 25 x 15 cm, [8705481] Sac trapèze, cuir grainé  | bleu marine | 40 x 25 x 13 cm, [8705147] Sac trapèze, cuir grainé|camel|50 x 25 x 15 cm"
+        ],
+        [
+            "Montre moi la vente PAQUETAGE27",
+            "D'accord! voici les produits : [8705146] Sac trapèze|camel|50 x 25 x 15 cm, [8705151] Sac trapèze|rose|50 x 25 x 15 cm, [8705481] Sac trapèze, cuir grainé  | bleu marine | 40 x 25 x 13 cm, [8705147] Sac trapèze, cuir grainé|camel|50 x 25 x 15 cm"
+        ],
+        [
+            "Donne moi les produit de la vente LORIBLU6",
+            "Ok! voici les produits : [9210259] Bottines, cuir de veau | noir | talon : 9,5 cm tige : 17 cm plateau : 2 cm, [9210258] Bottines, cuir | noir | talon : 9,5 cm tige : 12,5 cm plateau : 2 cm, [9210251] Bottines, cuir nappa | noir | talon : 10 cm tige : 9 cm, [9210255] Bottines, cuir | noir | talon : 9,5 cm tige : 11,5 cm plateau : 2 cm, [9210253] Bottines, cuir nappa | noir | talon : 10 cm tige : 12 cm plateau : 2 cm"
+        ],
+        [
+            "Montre moi les produit de la vente LORIBLU6",
+            "Bien! voici les produits : [9210259] Bottines, cuir de veau | noir | talon : 9,5 cm tige : 17 cm plateau : 2 cm, [9210258] Bottines, cuir | noir | talon : 9,5 cm tige : 12,5 cm plateau : 2 cm, [9210251] Bottines, cuir nappa | noir | talon : 10 cm tige : 9 cm, [9210255] Bottines, cuir | noir | talon : 9,5 cm tige : 11,5 cm plateau : 2 cm, [9210253] Bottines, cuir nappa | noir | talon : 10 cm tige : 12 cm plateau : 2 cm"
+        ],
+        [
+            "Montre moi la vente LORIBLU6",
+            "D'accord! voici les produits : [9210259] Bottines, cuir de veau | noir | talon : 9,5 cm tige : 17 cm plateau : 2 cm, [9210258] Bottines, cuir | noir | talon : 9,5 cm tige : 12,5 cm plateau : 2 cm, [9210251] Bottines, cuir nappa | noir | talon : 10 cm tige : 9 cm, [9210255] Bottines, cuir | noir | talon : 9,5 cm tige : 11,5 cm plateau : 2 cm, [9210253] Bottines, cuir nappa | noir | talon : 10 cm tige : 12 cm plateau : 2 cm"
+        ],
+        [
+            "Donne moi les produit de la vente MFLOVING8",
+            "Ok! voici les produits : [9878004] Kimono - noir, [9877949] Robe pull - noir et vieux rose, [9878061] Robe pull - noir, [9877950] Robe portefeuille - noir, orange et blanc, [9878003] Kimono - bleu et beige"
+        ],
+        [
+            "Montre moi les produit de la vente MFLOVING8",
+            "Bien! voici les produits : [9878004] Kimono - noir, [9877949] Robe pull - noir et vieux rose, [9878061] Robe pull - noir, [9877950] Robe portefeuille - noir, orange et blanc, [9878003] Kimono - bleu et beige"
+        ],
+        [
+            "Montre moi la vente MFLOVING8",
+            "D'accord! voici les produits : [9878004] Kimono - noir, [9877949] Robe pull - noir et vieux rose, [9878061] Robe pull - noir, [9877950] Robe portefeuille - noir, orange et blanc, [9878003] Kimono - bleu et beige"
+        ],
+        [
+            "Donne moi les produit de la vente PURELIN3",
+            "Ok! voici les produits : [10471867] Sarouel Liora - coupe large - 100% lin - gris, [10471865] Sarouel Liora - coupe large - 100% lin - blanc, [10471874] Sarouel Liora - coupe large - 100% lin - taupe, [10471864] Sarouel Liel - coupe large - 100% lin - blanc, [10471866] Sarouel Liel - coupe large - 100% lin - gris"
+        ],
+        [
+            "Montre moi les produit de la vente PURELIN3",
+            "Bien! voici les produits : [10471867] Sarouel Liora - coupe large - 100% lin - gris, [10471865] Sarouel Liora - coupe large - 100% lin - blanc, [10471874] Sarouel Liora - coupe large - 100% lin - taupe, [10471864] Sarouel Liel - coupe large - 100% lin - blanc, [10471866] Sarouel Liel - coupe large - 100% lin - gris"
+        ],
+        [
+            "Montre moi la vente PURELIN3",
+            "D'accord! voici les produits : [10471867] Sarouel Liora - coupe large - 100% lin - gris, [10471865] Sarouel Liora - coupe large - 100% lin - blanc, [10471874] Sarouel Liora - coupe large - 100% lin - taupe, [10471864] Sarouel Liel - coupe large - 100% lin - blanc, [10471866] Sarouel Liel - coupe large - 100% lin - gris"
+        ],
+        [
+            "Donne moi les produit de la vente ACARDONE5",
+            "Ok! voici les produits : [10078614] Sac à bandoulière, cuir de veau|rouge|21 x 15 x 8 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ACARDONE5",
+            "Bien! voici les produits : [10078614] Sac à bandoulière, cuir de veau|rouge|21 x 15 x 8 cm"
+        ],
+        [
+            "Montre moi la vente ACARDONE5",
+            "D'accord! voici les produits : [10078614] Sac à bandoulière, cuir de veau|rouge|21 x 15 x 8 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AS984",
+            "Ok! voici les produits : [9470968] Bottines, cuir, marron, tige : 16,5 cm, [9471025] Bottines, cuir, anthracite, tige : 19 cm, [9457061] Bottines, cuir, noir, tige : 19 cm, [9471024] Bottines, cuir, gris et marron, tige : 19 cm, [9470984] Bottines, cuir, gris, tige : 16,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente AS984",
+            "Bien! voici les produits : [9470968] Bottines, cuir, marron, tige : 16,5 cm, [9471025] Bottines, cuir, anthracite, tige : 19 cm, [9457061] Bottines, cuir, noir, tige : 19 cm, [9471024] Bottines, cuir, gris et marron, tige : 19 cm, [9470984] Bottines, cuir, gris, tige : 16,5 cm"
+        ],
+        [
+            "Montre moi la vente AS984",
+            "D'accord! voici les produits : [9470968] Bottines, cuir, marron, tige : 16,5 cm, [9471025] Bottines, cuir, anthracite, tige : 19 cm, [9457061] Bottines, cuir, noir, tige : 19 cm, [9471024] Bottines, cuir, gris et marron, tige : 19 cm, [9470984] Bottines, cuir, gris, tige : 16,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ARTNATURAL15",
+            "Ok! voici les produits : [8645955] Sac ceinture  | marron clair et écru, [8645957] Sac ceinture  | bleu clair et gris clair, [8645956] Sac ceinture  | jaune clair et prune, [8645954] Sac ceinture  | bleu clair et rouge"
+        ],
+        [
+            "Montre moi les produit de la vente ARTNATURAL15",
+            "Bien! voici les produits : [8645955] Sac ceinture  | marron clair et écru, [8645957] Sac ceinture  | bleu clair et gris clair, [8645956] Sac ceinture  | jaune clair et prune, [8645954] Sac ceinture  | bleu clair et rouge"
+        ],
+        [
+            "Montre moi la vente ARTNATURAL15",
+            "D'accord! voici les produits : [8645955] Sac ceinture  | marron clair et écru, [8645957] Sac ceinture  | bleu clair et gris clair, [8645956] Sac ceinture  | jaune clair et prune, [8645954] Sac ceinture  | bleu clair et rouge"
+        ],
+        [
+            "Donne moi les produit de la vente VFAIR13",
+            "Ok! voici les produits : [9728226] Soutien-gorge bandeau Unique Idole - tulle - blanc cassé, [9728229] Soutien-gorge emboîtant Chic Grace - noir, [9728227] Soutien-gorge bandeau Unique Idole - tulle - blanc cassé, [9728228] Soutien-gorge emboîtant Chic Grace - dentelle - blanc, [9728230] Soutien-gorge emboîtant Chic Grace - dentelle - violet foncé"
+        ],
+        [
+            "Montre moi les produit de la vente VFAIR13",
+            "Bien! voici les produits : [9728226] Soutien-gorge bandeau Unique Idole - tulle - blanc cassé, [9728229] Soutien-gorge emboîtant Chic Grace - noir, [9728227] Soutien-gorge bandeau Unique Idole - tulle - blanc cassé, [9728228] Soutien-gorge emboîtant Chic Grace - dentelle - blanc, [9728230] Soutien-gorge emboîtant Chic Grace - dentelle - violet foncé"
+        ],
+        [
+            "Montre moi la vente VFAIR13",
+            "D'accord! voici les produits : [9728226] Soutien-gorge bandeau Unique Idole - tulle - blanc cassé, [9728229] Soutien-gorge emboîtant Chic Grace - noir, [9728227] Soutien-gorge bandeau Unique Idole - tulle - blanc cassé, [9728228] Soutien-gorge emboîtant Chic Grace - dentelle - blanc, [9728230] Soutien-gorge emboîtant Chic Grace - dentelle - violet foncé"
+        ],
+        [
+            "Donne moi les produit de la vente MAISONLEJABY11",
+            "Ok! voici les produits : [10016093] Guêpière Thedora - bonnets doublés - blanc, [10016062] Slip brésilien Passion - dentelle de Calais - marron clair et écru, [10016095] Jarretière Marani - broderie blanc cassé, [10016106] Porte-jarretelles Marani - dentelle blanc cassé, [10016094] Guêpière Thedora - bonnets doublés - noir"
+        ],
+        [
+            "Montre moi les produit de la vente MAISONLEJABY11",
+            "Bien! voici les produits : [10016093] Guêpière Thedora - bonnets doublés - blanc, [10016062] Slip brésilien Passion - dentelle de Calais - marron clair et écru, [10016095] Jarretière Marani - broderie blanc cassé, [10016106] Porte-jarretelles Marani - dentelle blanc cassé, [10016094] Guêpière Thedora - bonnets doublés - noir"
+        ],
+        [
+            "Montre moi la vente MAISONLEJABY11",
+            "D'accord! voici les produits : [10016093] Guêpière Thedora - bonnets doublés - blanc, [10016062] Slip brésilien Passion - dentelle de Calais - marron clair et écru, [10016095] Jarretière Marani - broderie blanc cassé, [10016106] Porte-jarretelles Marani - dentelle blanc cassé, [10016094] Guêpière Thedora - bonnets doublés - noir"
+        ],
+        [
+            "Donne moi les produit de la vente TIMBERLAND75",
+            "Ok! voici les produits : [9877395] Sac enveloppe Ohio - noir - 31 x 23 x 9 cm, [9877264] Chauffe-épaules - écru, [9877266] Chauffe-épaules - blanc, [9877396] Sac enveloppe Ohio - brique - 31 x 23 x 9 cm, [9877263] Chauffe-épaules - noir"
+        ],
+        [
+            "Montre moi les produit de la vente TIMBERLAND75",
+            "Bien! voici les produits : [9877395] Sac enveloppe Ohio - noir - 31 x 23 x 9 cm, [9877264] Chauffe-épaules - écru, [9877266] Chauffe-épaules - blanc, [9877396] Sac enveloppe Ohio - brique - 31 x 23 x 9 cm, [9877263] Chauffe-épaules - noir"
+        ],
+        [
+            "Montre moi la vente TIMBERLAND75",
+            "D'accord! voici les produits : [9877395] Sac enveloppe Ohio - noir - 31 x 23 x 9 cm, [9877264] Chauffe-épaules - écru, [9877266] Chauffe-épaules - blanc, [9877396] Sac enveloppe Ohio - brique - 31 x 23 x 9 cm, [9877263] Chauffe-épaules - noir"
+        ],
+        [
+            "Donne moi les produit de la vente BUFFALO28",
+            "Ok! voici les produits : [8869498] Sandales à talons compensés - anthracite et noir - talon : 9,5 cm - plateau : 2,5 cm, [8869476] Sandales à talons compensés - écru et gris - talon : 9,5 cm - plateau : 2,5 cm, [8869505] Sandales à talons compensés - turquoise - talon : 10,5 cm - plateau : 3 cm, [8869495] Sandales à talons compensés - noir et corail - talon : 8,5 cm - plateau : 4,5 cm, [8869466] Sandales à talons compensés - cuir - camel - talon : 9 cm - tige : 9,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente BUFFALO28",
+            "Bien! voici les produits : [8869498] Sandales à talons compensés - anthracite et noir - talon : 9,5 cm - plateau : 2,5 cm, [8869476] Sandales à talons compensés - écru et gris - talon : 9,5 cm - plateau : 2,5 cm, [8869505] Sandales à talons compensés - turquoise - talon : 10,5 cm - plateau : 3 cm, [8869495] Sandales à talons compensés - noir et corail - talon : 8,5 cm - plateau : 4,5 cm, [8869466] Sandales à talons compensés - cuir - camel - talon : 9 cm - tige : 9,5 cm"
+        ],
+        [
+            "Montre moi la vente BUFFALO28",
+            "D'accord! voici les produits : [8869498] Sandales à talons compensés - anthracite et noir - talon : 9,5 cm - plateau : 2,5 cm, [8869476] Sandales à talons compensés - écru et gris - talon : 9,5 cm - plateau : 2,5 cm, [8869505] Sandales à talons compensés - turquoise - talon : 10,5 cm - plateau : 3 cm, [8869495] Sandales à talons compensés - noir et corail - talon : 8,5 cm - plateau : 4,5 cm, [8869466] Sandales à talons compensés - cuir - camel - talon : 9 cm - tige : 9,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente MAVILUGGAGE9",
+            "Ok! voici les produits : [10342306] Sac banane| bleu| 30 x 8 x 23 cm, [10342307] Sac banane| rouge| 30 x 8 x 23 cm, [10342317] Housse pour tablette | bleu marine, rouge et blanc| 27 x 22 x 3 cm, [10342339] Sacoche d'ordinateur| rose, bleu et blanc| 37 x 28 x 8 cm, [10342320] Porte-étiquettes| vert| 8 x 5 x 2 cm"
+        ],
+        [
+            "Montre moi les produit de la vente MAVILUGGAGE9",
+            "Bien! voici les produits : [10342306] Sac banane| bleu| 30 x 8 x 23 cm, [10342307] Sac banane| rouge| 30 x 8 x 23 cm, [10342317] Housse pour tablette | bleu marine, rouge et blanc| 27 x 22 x 3 cm, [10342339] Sacoche d'ordinateur| rose, bleu et blanc| 37 x 28 x 8 cm, [10342320] Porte-étiquettes| vert| 8 x 5 x 2 cm"
+        ],
+        [
+            "Montre moi la vente MAVILUGGAGE9",
+            "D'accord! voici les produits : [10342306] Sac banane| bleu| 30 x 8 x 23 cm, [10342307] Sac banane| rouge| 30 x 8 x 23 cm, [10342317] Housse pour tablette | bleu marine, rouge et blanc| 27 x 22 x 3 cm, [10342339] Sacoche d'ordinateur| rose, bleu et blanc| 37 x 28 x 8 cm, [10342320] Porte-étiquettes| vert| 8 x 5 x 2 cm"
+        ],
+        [
+            "Donne moi les produit de la vente LASPORTIVA6",
+            "Ok! voici les produits : [10362815] XX, [10362814] Veste matelassée - rouge, [10362845] Veste matelassée - bleu, [10362821] Chaussures de randonnée - rouge et noir, [10362819] Chaussures de randonnée - gris foncé et noir"
+        ],
+        [
+            "Montre moi les produit de la vente LASPORTIVA6",
+            "Bien! voici les produits : [10362815] XX, [10362814] Veste matelassée - rouge, [10362845] Veste matelassée - bleu, [10362821] Chaussures de randonnée - rouge et noir, [10362819] Chaussures de randonnée - gris foncé et noir"
+        ],
+        [
+            "Montre moi la vente LASPORTIVA6",
+            "D'accord! voici les produits : [10362815] XX, [10362814] Veste matelassée - rouge, [10362845] Veste matelassée - bleu, [10362821] Chaussures de randonnée - rouge et noir, [10362819] Chaussures de randonnée - gris foncé et noir"
+        ],
+        [
+            "Donne moi les produit de la vente DEBYDEBO10",
+            "Ok! voici les produits : [10508464] XX, [10508526] XX, [10508565] XX, [10508451] XX, [10508481] XX"
+        ],
+        [
+            "Montre moi les produit de la vente DEBYDEBO10",
+            "Bien! voici les produits : [10508464] XX, [10508526] XX, [10508565] XX, [10508451] XX, [10508481] XX"
+        ],
+        [
+            "Montre moi la vente DEBYDEBO10",
+            "D'accord! voici les produits : [10508464] XX, [10508526] XX, [10508565] XX, [10508451] XX, [10508481] XX"
+        ],
+        [
+            "Donne moi les produit de la vente PICARD20",
+            "Ok! voici les produits : [10763342] Housse pour ordinateur Brera - bleu - 38 x 31 x 2,5 cm, [10763343] Housse pour ordinateur Brera - orange - 38 x 31 x 2,5 cm, [10763316] Sacoche pour tablette Buddy - cuir de buffle - marron - 26 x 29 x 6 cm, [10763329] Sacoche Milano - cuir grainé - marron - 39 x 36 x 9 cm, [10763318] Sacoche pour tablette Buddy - cuir de buffle - noir - 35 x 34 x 10 cm"
+        ],
+        [
+            "Montre moi les produit de la vente PICARD20",
+            "Bien! voici les produits : [10763342] Housse pour ordinateur Brera - bleu - 38 x 31 x 2,5 cm, [10763343] Housse pour ordinateur Brera - orange - 38 x 31 x 2,5 cm, [10763316] Sacoche pour tablette Buddy - cuir de buffle - marron - 26 x 29 x 6 cm, [10763329] Sacoche Milano - cuir grainé - marron - 39 x 36 x 9 cm, [10763318] Sacoche pour tablette Buddy - cuir de buffle - noir - 35 x 34 x 10 cm"
+        ],
+        [
+            "Montre moi la vente PICARD20",
+            "D'accord! voici les produits : [10763342] Housse pour ordinateur Brera - bleu - 38 x 31 x 2,5 cm, [10763343] Housse pour ordinateur Brera - orange - 38 x 31 x 2,5 cm, [10763316] Sacoche pour tablette Buddy - cuir de buffle - marron - 26 x 29 x 6 cm, [10763329] Sacoche Milano - cuir grainé - marron - 39 x 36 x 9 cm, [10763318] Sacoche pour tablette Buddy - cuir de buffle - noir - 35 x 34 x 10 cm"
+        ],
+        [
+            "Donne moi les produit de la vente STONEFLY6",
+            "Ok! voici les produits : [8954546] Slippers, cuir | noir | talon : 5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente STONEFLY6",
+            "Bien! voici les produits : [8954546] Slippers, cuir | noir | talon : 5 cm"
+        ],
+        [
+            "Montre moi la vente STONEFLY6",
+            "D'accord! voici les produits : [8954546] Slippers, cuir | noir | talon : 5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente GARVALIN28",
+            "Ok! voici les produits : [9630253] Sandales - kaki foncé, [9630254] Sandales - beige et rose"
+        ],
+        [
+            "Montre moi les produit de la vente GARVALIN28",
+            "Bien! voici les produits : [9630253] Sandales - kaki foncé, [9630254] Sandales - beige et rose"
+        ],
+        [
+            "Montre moi la vente GARVALIN28",
+            "D'accord! voici les produits : [9630253] Sandales - kaki foncé, [9630254] Sandales - beige et rose"
+        ],
+        [
+            "Donne moi les produit de la vente MENSHERITAGE5",
+            "Ok! voici les produits : [9672340] Béret | écru, [9672338] Béret | gris, [9672342] Béret | gris, [9672337] Béret | marron, [9672341] Béret | beige"
+        ],
+        [
+            "Montre moi les produit de la vente MENSHERITAGE5",
+            "Bien! voici les produits : [9672340] Béret | écru, [9672338] Béret | gris, [9672342] Béret | gris, [9672337] Béret | marron, [9672341] Béret | beige"
+        ],
+        [
+            "Montre moi la vente MENSHERITAGE5",
+            "D'accord! voici les produits : [9672340] Béret | écru, [9672338] Béret | gris, [9672342] Béret | gris, [9672337] Béret | marron, [9672341] Béret | beige"
+        ],
+        [
+            "Donne moi les produit de la vente KOOKAI73",
+            "Ok! voici les produits : [10262348] Soutien-gorge classique Rain - framboise et mauve, [10262342] Soutien-gorge balconnet Addict - motif - noir et beige, [10262345] Soutien-gorge classique Kimi - dentelle - rose, [10262317] Soutien-gorge balconnet Monaco - dentelle - blanc cassé, [10262340] Soutien-gorge classique Monaco - dentelle - noir et beige"
+        ],
+        [
+            "Montre moi les produit de la vente KOOKAI73",
+            "Bien! voici les produits : [10262348] Soutien-gorge classique Rain - framboise et mauve, [10262342] Soutien-gorge balconnet Addict - motif - noir et beige, [10262345] Soutien-gorge classique Kimi - dentelle - rose, [10262317] Soutien-gorge balconnet Monaco - dentelle - blanc cassé, [10262340] Soutien-gorge classique Monaco - dentelle - noir et beige"
+        ],
+        [
+            "Montre moi la vente KOOKAI73",
+            "D'accord! voici les produits : [10262348] Soutien-gorge classique Rain - framboise et mauve, [10262342] Soutien-gorge balconnet Addict - motif - noir et beige, [10262345] Soutien-gorge classique Kimi - dentelle - rose, [10262317] Soutien-gorge balconnet Monaco - dentelle - blanc cassé, [10262340] Soutien-gorge classique Monaco - dentelle - noir et beige"
+        ],
+        [
+            "Donne moi les produit de la vente GIOSEPPO21",
+            "Ok! voici les produits : [9620181] Mules de bain Molinete - bleu marine et vert, [9620115] Sac Jolla - fibres naturelles - beige et orange - 14 x 16 x 2 cm"
+        ],
+        [
+            "Montre moi les produit de la vente GIOSEPPO21",
+            "Bien! voici les produits : [9620181] Mules de bain Molinete - bleu marine et vert, [9620115] Sac Jolla - fibres naturelles - beige et orange - 14 x 16 x 2 cm"
+        ],
+        [
+            "Montre moi la vente GIOSEPPO21",
+            "D'accord! voici les produits : [9620181] Mules de bain Molinete - bleu marine et vert, [9620115] Sac Jolla - fibres naturelles - beige et orange - 14 x 16 x 2 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AIGNER16",
+            "Ok! voici les produits : [8928661] Bottines Tim, cuir | noir | tige : 14,5 cm, [9329666] Bottes Alessandra, cuir | marron | tige : 38 cm, [8928658] Slippers David, cuir | Couleur principale [A traduire]"
+        ],
+        [
+            "Montre moi les produit de la vente AIGNER16",
+            "Bien! voici les produits : [8928661] Bottines Tim, cuir | noir | tige : 14,5 cm, [9329666] Bottes Alessandra, cuir | marron | tige : 38 cm, [8928658] Slippers David, cuir | Couleur principale [A traduire]"
+        ],
+        [
+            "Montre moi la vente AIGNER16",
+            "D'accord! voici les produits : [8928661] Bottines Tim, cuir | noir | tige : 14,5 cm, [9329666] Bottes Alessandra, cuir | marron | tige : 38 cm, [8928658] Slippers David, cuir | Couleur principale [A traduire]"
+        ],
+        [
+            "Donne moi les produit de la vente KARAKOOL1",
+            "Ok! voici les produits : [9387482] Cuissardes Erika, cuir suédé | noir | tige : 54 cm, [9387481] Cuissardes Erika, cuir | noir | tige : 54 cm"
+        ],
+        [
+            "Montre moi les produit de la vente KARAKOOL1",
+            "Bien! voici les produits : [9387482] Cuissardes Erika, cuir suédé | noir | tige : 54 cm, [9387481] Cuissardes Erika, cuir | noir | tige : 54 cm"
+        ],
+        [
+            "Montre moi la vente KARAKOOL1",
+            "D'accord! voici les produits : [9387482] Cuissardes Erika, cuir suédé | noir | tige : 54 cm, [9387481] Cuissardes Erika, cuir | noir | tige : 54 cm"
+        ],
+        [
+            "Donne moi les produit de la vente AMATIREGAZZI1",
+            "Ok! voici les produits : [10131516] Derbies à boucle - cuir - marron, [10131517] Derbies à boucle - cuir - noir"
+        ],
+        [
+            "Montre moi les produit de la vente AMATIREGAZZI1",
+            "Bien! voici les produits : [10131516] Derbies à boucle - cuir - marron, [10131517] Derbies à boucle - cuir - noir"
+        ],
+        [
+            "Montre moi la vente AMATIREGAZZI1",
+            "D'accord! voici les produits : [10131516] Derbies à boucle - cuir - marron, [10131517] Derbies à boucle - cuir - noir"
+        ],
+        [
+            "Donne moi les produit de la vente BAQIETTO1",
+            "Ok! voici les produits : [8885822] Derbies à boucle, cuir | marron"
+        ],
+        [
+            "Montre moi les produit de la vente BAQIETTO1",
+            "Bien! voici les produits : [8885822] Derbies à boucle, cuir | marron"
+        ],
+        [
+            "Montre moi la vente BAQIETTO1",
+            "D'accord! voici les produits : [8885822] Derbies à boucle, cuir | marron"
+        ],
+        [
+            "Donne moi les produit de la vente STONEFLY8",
+            "Ok! voici les produits : [10685255] XX, [10686508] XX, [10685256] XX"
+        ],
+        [
+            "Montre moi les produit de la vente STONEFLY8",
+            "Bien! voici les produits : [10685255] XX, [10686508] XX, [10685256] XX"
+        ],
+        [
+            "Montre moi la vente STONEFLY8",
+            "D'accord! voici les produits : [10685255] XX, [10686508] XX, [10685256] XX"
+        ],
+        [
+            "Donne moi les produit de la vente ROOBINS1",
+            "Ok! voici les produits : [8977868] XX, [8977869] Bottines BEYONCE, cuir suédé | noir et coloris argenté | talon : 7,2 cm, tige : 10 cm"
+        ],
+        [
+            "Montre moi les produit de la vente ROOBINS1",
+            "Bien! voici les produits : [8977868] XX, [8977869] Bottines BEYONCE, cuir suédé | noir et coloris argenté | talon : 7,2 cm, tige : 10 cm"
+        ],
+        [
+            "Montre moi la vente ROOBINS1",
+            "D'accord! voici les produits : [8977868] XX, [8977869] Bottines BEYONCE, cuir suédé | noir et coloris argenté | talon : 7,2 cm, tige : 10 cm"
+        ],
+        [
+            "Donne moi les produit de la vente PABLOSKY17",
+            "Ok! voici les produits : [5314337] Chaussures montantes, cuir|marron foncé|Tige : 7 cm, [5314320] Chaussures montantes, cuir et cuir suédé|bleu marine et kaki|Tige : 5 cm, [5314396] Chaussures montantes, cuir suédé|gris|Tige : 8 cm, [5314522] Chaussures montantes, cuir|bleu marine et marron clair|Tige : 4 cm, [5314398] Chaussures montantes, cuir|marron foncé et bordeaux|Tige : 4 cm"
+        ],
+        [
+            "Montre moi les produit de la vente PABLOSKY17",
+            "Bien! voici les produits : [5314337] Chaussures montantes, cuir|marron foncé|Tige : 7 cm, [5314320] Chaussures montantes, cuir et cuir suédé|bleu marine et kaki|Tige : 5 cm, [5314396] Chaussures montantes, cuir suédé|gris|Tige : 8 cm, [5314522] Chaussures montantes, cuir|bleu marine et marron clair|Tige : 4 cm, [5314398] Chaussures montantes, cuir|marron foncé et bordeaux|Tige : 4 cm"
+        ],
+        [
+            "Montre moi la vente PABLOSKY17",
+            "D'accord! voici les produits : [5314337] Chaussures montantes, cuir|marron foncé|Tige : 7 cm, [5314320] Chaussures montantes, cuir et cuir suédé|bleu marine et kaki|Tige : 5 cm, [5314396] Chaussures montantes, cuir suédé|gris|Tige : 8 cm, [5314522] Chaussures montantes, cuir|bleu marine et marron clair|Tige : 4 cm, [5314398] Chaussures montantes, cuir|marron foncé et bordeaux|Tige : 4 cm"
+        ],
+        [
+            "Donne moi les produit de la vente THEHIPTEE3",
+            "Ok! voici les produits : [10130814] Pantalon de pyjama - pantalon de pyjama - saumon, [10130819] Echarpe tube - bleu foncé - 92 x 112 cm, [10130815] Pantalon de pyjama - pantalon de pyjama - gris cendré, [10130688] Body Gary - gris, [10130820] Echarpe tube - anthracite   - 92 x 112 cm"
+        ],
+        [
+            "Montre moi les produit de la vente THEHIPTEE3",
+            "Bien! voici les produits : [10130814] Pantalon de pyjama - pantalon de pyjama - saumon, [10130819] Echarpe tube - bleu foncé - 92 x 112 cm, [10130815] Pantalon de pyjama - pantalon de pyjama - gris cendré, [10130688] Body Gary - gris, [10130820] Echarpe tube - anthracite   - 92 x 112 cm"
+        ],
+        [
+            "Montre moi la vente THEHIPTEE3",
+            "D'accord! voici les produits : [10130814] Pantalon de pyjama - pantalon de pyjama - saumon, [10130819] Echarpe tube - bleu foncé - 92 x 112 cm, [10130815] Pantalon de pyjama - pantalon de pyjama - gris cendré, [10130688] Body Gary - gris, [10130820] Echarpe tube - anthracite   - 92 x 112 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ORTIZREED17",
+            "Ok! voici les produits : [10287750] Béret - gris, [10287771] Béret - bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente ORTIZREED17",
+            "Bien! voici les produits : [10287750] Béret - gris, [10287771] Béret - bleu marine"
+        ],
+        [
+            "Montre moi la vente ORTIZREED17",
+            "D'accord! voici les produits : [10287750] Béret - gris, [10287771] Béret - bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente BACKSUN7",
+            "Ok! voici les produits : [10252908] Sabots | noir, [10252909] Sabots | chocolat"
+        ],
+        [
+            "Montre moi les produit de la vente BACKSUN7",
+            "Bien! voici les produits : [10252908] Sabots | noir, [10252909] Sabots | chocolat"
+        ],
+        [
+            "Montre moi la vente BACKSUN7",
+            "D'accord! voici les produits : [10252908] Sabots | noir, [10252909] Sabots | chocolat"
+        ],
+        [
+            "Donne moi les produit de la vente SPE_UCULTURE1",
+            "Ok! voici les produits : [10206314] DENHAM / Veste matelassée - bleu marine, [10206113] Veste sans manches - texturé - beige, [10206112] Veste sans manches - texturé - anthracite, [10206077] DENHAM / Pantalon cargo - effet délavé - kaki"
+        ],
+        [
+            "Montre moi les produit de la vente SPE_UCULTURE1",
+            "Bien! voici les produits : [10206314] DENHAM / Veste matelassée - bleu marine, [10206113] Veste sans manches - texturé - beige, [10206112] Veste sans manches - texturé - anthracite, [10206077] DENHAM / Pantalon cargo - effet délavé - kaki"
+        ],
+        [
+            "Montre moi la vente SPE_UCULTURE1",
+            "D'accord! voici les produits : [10206314] DENHAM / Veste matelassée - bleu marine, [10206113] Veste sans manches - texturé - beige, [10206112] Veste sans manches - texturé - anthracite, [10206077] DENHAM / Pantalon cargo - effet délavé - kaki"
+        ],
+        [
+            "Donne moi les produit de la vente LKELLY6",
+            "Ok! voici les produits : [9631681] Bottes - noir - tige : 30 cm, [9631680] Bottes - noir - tige : 26 cm, [9631682] Bottes - rouge - tige : 30 cm"
+        ],
+        [
+            "Montre moi les produit de la vente LKELLY6",
+            "Bien! voici les produits : [9631681] Bottes - noir - tige : 30 cm, [9631680] Bottes - noir - tige : 26 cm, [9631682] Bottes - rouge - tige : 30 cm"
+        ],
+        [
+            "Montre moi la vente LKELLY6",
+            "D'accord! voici les produits : [9631681] Bottes - noir - tige : 30 cm, [9631680] Bottes - noir - tige : 26 cm, [9631682] Bottes - rouge - tige : 30 cm"
+        ],
+        [
+            "Donne moi les produit de la vente CNOIR18",
+            "Ok! voici les produits : [10451792] Jupe longue - bleu nuit, [10451791] Veste courte - 100% lin - beige, [10451793] Jupe longue - corail"
+        ],
+        [
+            "Montre moi les produit de la vente CNOIR18",
+            "Bien! voici les produits : [10451792] Jupe longue - bleu nuit, [10451791] Veste courte - 100% lin - beige, [10451793] Jupe longue - corail"
+        ],
+        [
+            "Montre moi la vente CNOIR18",
+            "D'accord! voici les produits : [10451792] Jupe longue - bleu nuit, [10451791] Veste courte - 100% lin - beige, [10451793] Jupe longue - corail"
+        ],
+        [
+            "Donne moi les produit de la vente AZZARO42",
+            "Ok! voici les produits : [9212783] Porte-documents, cuir grainé |noir |42 x 29 x 11 cm, [9212790] Porte-documents, cuir grainé | noir | 37 x 26 x 1 cm, [9212771] Porte-documents, cuir |noir |39 x 30 x 10 cm"
+        ],
+        [
+            "Montre moi les produit de la vente AZZARO42",
+            "Bien! voici les produits : [9212783] Porte-documents, cuir grainé |noir |42 x 29 x 11 cm, [9212790] Porte-documents, cuir grainé | noir | 37 x 26 x 1 cm, [9212771] Porte-documents, cuir |noir |39 x 30 x 10 cm"
+        ],
+        [
+            "Montre moi la vente AZZARO42",
+            "D'accord! voici les produits : [9212783] Porte-documents, cuir grainé |noir |42 x 29 x 11 cm, [9212790] Porte-documents, cuir grainé | noir | 37 x 26 x 1 cm, [9212771] Porte-documents, cuir |noir |39 x 30 x 10 cm"
+        ],
+        [
+            "Donne moi les produit de la vente PDORO18",
+            "Ok! voici les produits : [8381507] Sneakers Touring Low | gris"
+        ],
+        [
+            "Montre moi les produit de la vente PDORO18",
+            "Bien! voici les produits : [8381507] Sneakers Touring Low | gris"
+        ],
+        [
+            "Montre moi la vente PDORO18",
+            "D'accord! voici les produits : [8381507] Sneakers Touring Low | gris"
+        ],
+        [
+            "Donne moi les produit de la vente TRAVELONE28",
+            "Ok! voici les produits : [9747978] Valise grand volume Sea - bleu marine - 52 x 75 x 32 cm - V : 125 L, [9747982] Valise grand volume Sea - noir - 52 x 75 x 32 cm - V : 125 L, [9747965] Set de 4 valises - beige - H : 45/55/65/75 cm - V : 32/54/85/125 L, [9747986] Valise grand volume Sea - violet - 52 x 75 x 32 cm - V : 125 L"
+        ],
+        [
+            "Montre moi les produit de la vente TRAVELONE28",
+            "Bien! voici les produits : [9747978] Valise grand volume Sea - bleu marine - 52 x 75 x 32 cm - V : 125 L, [9747982] Valise grand volume Sea - noir - 52 x 75 x 32 cm - V : 125 L, [9747965] Set de 4 valises - beige - H : 45/55/65/75 cm - V : 32/54/85/125 L, [9747986] Valise grand volume Sea - violet - 52 x 75 x 32 cm - V : 125 L"
+        ],
+        [
+            "Montre moi la vente TRAVELONE28",
+            "D'accord! voici les produits : [9747978] Valise grand volume Sea - bleu marine - 52 x 75 x 32 cm - V : 125 L, [9747982] Valise grand volume Sea - noir - 52 x 75 x 32 cm - V : 125 L, [9747965] Set de 4 valises - beige - H : 45/55/65/75 cm - V : 32/54/85/125 L, [9747986] Valise grand volume Sea - violet - 52 x 75 x 32 cm - V : 125 L"
+        ],
+        [
+            "Donne moi les produit de la vente AUDLEY10",
+            "Ok! voici les produits : [8869024] Derbies à boucle cuir | noir | talon : 2 cm, [8869016] Derbies à boucle cuir | noir | talon : 2,5 cm, [8869023] Derbies à boucle cuir | marron | talon : 2 cm"
+        ],
+        [
+            "Montre moi les produit de la vente AUDLEY10",
+            "Bien! voici les produits : [8869024] Derbies à boucle cuir | noir | talon : 2 cm, [8869016] Derbies à boucle cuir | noir | talon : 2,5 cm, [8869023] Derbies à boucle cuir | marron | talon : 2 cm"
+        ],
+        [
+            "Montre moi la vente AUDLEY10",
+            "D'accord! voici les produits : [8869024] Derbies à boucle cuir | noir | talon : 2 cm, [8869016] Derbies à boucle cuir | noir | talon : 2,5 cm, [8869023] Derbies à boucle cuir | marron | talon : 2 cm"
+        ],
+        [
+            "Donne moi les produit de la vente MINIMELISSA1",
+            "Ok! voici les produits : [6007328] Bottes de pluie, noir|tige : 34 cm"
+        ],
+        [
+            "Montre moi les produit de la vente MINIMELISSA1",
+            "Bien! voici les produits : [6007328] Bottes de pluie, noir|tige : 34 cm"
+        ],
+        [
+            "Montre moi la vente MINIMELISSA1",
+            "D'accord! voici les produits : [6007328] Bottes de pluie, noir|tige : 34 cm"
+        ],
+        [
+            "Donne moi les produit de la vente SCORPBAY1",
+            "Ok! voici les produits : [10250188] Sac banane | bleu | 23 x 14 x 4 cm"
+        ],
+        [
+            "Montre moi les produit de la vente SCORPBAY1",
+            "Bien! voici les produits : [10250188] Sac banane | bleu | 23 x 14 x 4 cm"
+        ],
+        [
+            "Montre moi la vente SCORPBAY1",
+            "D'accord! voici les produits : [10250188] Sac banane | bleu | 23 x 14 x 4 cm"
+        ],
+        [
+            "Donne moi les produit de la vente CUPLE11",
+            "Ok! voici les produits : [9978604] Minaudière - argenté - marron - 39 x 28,5 x 6 cm, [9978580] Minaudière - cuir - bleu - 34 x 35 x 1,5 cm, [9978582] Sacoche - cuir - fuchsia - 18 x 9,5 x 0,5 cm, [9978587] Minaudière - corail - 35 x 18 x 1 cm, [9978579] Poncho - blanc"
+        ],
+        [
+            "Montre moi les produit de la vente CUPLE11",
+            "Bien! voici les produits : [9978604] Minaudière - argenté - marron - 39 x 28,5 x 6 cm, [9978580] Minaudière - cuir - bleu - 34 x 35 x 1,5 cm, [9978582] Sacoche - cuir - fuchsia - 18 x 9,5 x 0,5 cm, [9978587] Minaudière - corail - 35 x 18 x 1 cm, [9978579] Poncho - blanc"
+        ],
+        [
+            "Montre moi la vente CUPLE11",
+            "D'accord! voici les produits : [9978604] Minaudière - argenté - marron - 39 x 28,5 x 6 cm, [9978580] Minaudière - cuir - bleu - 34 x 35 x 1,5 cm, [9978582] Sacoche - cuir - fuchsia - 18 x 9,5 x 0,5 cm, [9978587] Minaudière - corail - 35 x 18 x 1 cm, [9978579] Poncho - blanc"
+        ],
+        [
+            "Donne moi les produit de la vente EASYPEASY2",
+            "Ok! voici les produits : [9364023] Sac cartable, cuir | fuchsia et rouge | 25 x 25 x 6 cm"
+        ],
+        [
+            "Montre moi les produit de la vente EASYPEASY2",
+            "Bien! voici les produits : [9364023] Sac cartable, cuir | fuchsia et rouge | 25 x 25 x 6 cm"
+        ],
+        [
+            "Montre moi la vente EASYPEASY2",
+            "D'accord! voici les produits : [9364023] Sac cartable, cuir | fuchsia et rouge | 25 x 25 x 6 cm"
+        ],
+        [
+            "Donne moi les produit de la vente PABLOSKY21",
+            "Ok! voici les produits : [6985902] Chaussures montantes, cuir|marron foncé et bordeaux|tige : 4 cm, [6986094] Chaussures montantes, cuir suédé | gris, [6986015] Chaussures montantes, cuir|bleu marine et multicolore|tige : 4 cm"
+        ],
+        [
+            "Montre moi les produit de la vente PABLOSKY21",
+            "Bien! voici les produits : [6985902] Chaussures montantes, cuir|marron foncé et bordeaux|tige : 4 cm, [6986094] Chaussures montantes, cuir suédé | gris, [6986015] Chaussures montantes, cuir|bleu marine et multicolore|tige : 4 cm"
+        ],
+        [
+            "Montre moi la vente PABLOSKY21",
+            "D'accord! voici les produits : [6985902] Chaussures montantes, cuir|marron foncé et bordeaux|tige : 4 cm, [6986094] Chaussures montantes, cuir suédé | gris, [6986015] Chaussures montantes, cuir|bleu marine et multicolore|tige : 4 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ALUGGAGE5",
+            "Ok! voici les produits : [10064021] Sac de voyage - noir - 38 x 50 x 18 cm - 54 L"
+        ],
+        [
+            "Montre moi les produit de la vente ALUGGAGE5",
+            "Bien! voici les produits : [10064021] Sac de voyage - noir - 38 x 50 x 18 cm - 54 L"
+        ],
+        [
+            "Montre moi la vente ALUGGAGE5",
+            "D'accord! voici les produits : [10064021] Sac de voyage - noir - 38 x 50 x 18 cm - 54 L"
+        ],
+        [
+            "Donne moi les produit de la vente JLSCHERRER51",
+            "Ok! voici les produits : [9578712] Sac trapèze - violet - 43 x 31 x 13 cm, [9578716] Sac trapèze - beige - coloris doré - 43 x 31 x 13 cm, [9578707] Sac trapèze - noir - 43 x 31 x 13 cm"
+        ],
+        [
+            "Montre moi les produit de la vente JLSCHERRER51",
+            "Bien! voici les produits : [9578712] Sac trapèze - violet - 43 x 31 x 13 cm, [9578716] Sac trapèze - beige - coloris doré - 43 x 31 x 13 cm, [9578707] Sac trapèze - noir - 43 x 31 x 13 cm"
+        ],
+        [
+            "Montre moi la vente JLSCHERRER51",
+            "D'accord! voici les produits : [9578712] Sac trapèze - violet - 43 x 31 x 13 cm, [9578716] Sac trapèze - beige - coloris doré - 43 x 31 x 13 cm, [9578707] Sac trapèze - noir - 43 x 31 x 13 cm"
+        ],
+        [
+            "Donne moi les produit de la vente PJOE38",
+            "Ok! voici les produits : [9307179] Trousse Farell | kaki | 24 x 15 x 5,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente PJOE38",
+            "Bien! voici les produits : [9307179] Trousse Farell | kaki | 24 x 15 x 5,5 cm"
+        ],
+        [
+            "Montre moi la vente PJOE38",
+            "D'accord! voici les produits : [9307179] Trousse Farell | kaki | 24 x 15 x 5,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente ODESFORGES15",
+            "Ok! voici les produits : [10118786] Trousse \"Jazz\" |en synthétique - nacre"
+        ],
+        [
+            "Montre moi les produit de la vente ODESFORGES15",
+            "Bien! voici les produits : [10118786] Trousse \"Jazz\" |en synthétique - nacre"
+        ],
+        [
+            "Montre moi la vente ODESFORGES15",
+            "D'accord! voici les produits : [10118786] Trousse \"Jazz\" |en synthétique - nacre"
+        ],
+        [
+            "Donne moi les produit de la vente TRUCCO16",
+            "Ok! voici les produits : [10168422] Sac bourse - noir - 25 x 30 x 15 cm"
+        ],
+        [
+            "Montre moi les produit de la vente TRUCCO16",
+            "Bien! voici les produits : [10168422] Sac bourse - noir - 25 x 30 x 15 cm"
+        ],
+        [
+            "Montre moi la vente TRUCCO16",
+            "D'accord! voici les produits : [10168422] Sac bourse - noir - 25 x 30 x 15 cm"
+        ],
+        [
+            "Donne moi les produit de la vente OSWEENEY5",
+            "Ok! voici les produits : [9839871] Caban Bodell - bleu marine"
+        ],
+        [
+            "Montre moi les produit de la vente OSWEENEY5",
+            "Bien! voici les produits : [9839871] Caban Bodell - bleu marine"
+        ],
+        [
+            "Montre moi la vente OSWEENEY5",
+            "D'accord! voici les produits : [9839871] Caban Bodell - bleu marine"
+        ],
+        [
+            "Donne moi les produit de la vente CKLEIN256",
+            "Ok! voici les produits : [8965130] Cuissardes Neron | noir | talon : 6 cm, tige : 57,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente CKLEIN256",
+            "Bien! voici les produits : [8965130] Cuissardes Neron | noir | talon : 6 cm, tige : 57,5 cm"
+        ],
+        [
+            "Montre moi la vente CKLEIN256",
+            "D'accord! voici les produits : [8965130] Cuissardes Neron | noir | talon : 6 cm, tige : 57,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente NIXON18",
+            "Ok! voici les produits : [9874564] Béret Bayside - marron"
+        ],
+        [
+            "Montre moi les produit de la vente NIXON18",
+            "Bien! voici les produits : [9874564] Béret Bayside - marron"
+        ],
+        [
+            "Montre moi la vente NIXON18",
+            "D'accord! voici les produits : [9874564] Béret Bayside - marron"
+        ],
+        [
+            "Donne moi les produit de la vente BOXFRESH2",
+            "Ok! voici les produits : [7615804] Baskets | bleu"
+        ],
+        [
+            "Montre moi les produit de la vente BOXFRESH2",
+            "Bien! voici les produits : [7615804] Baskets | bleu"
+        ],
+        [
+            "Montre moi la vente BOXFRESH2",
+            "D'accord! voici les produits : [7615804] Baskets | bleu"
+        ],
+        [
+            "Donne moi les produit de la vente UNDIZ26",
+            "Ok! voici les produits : [9970358] Chapka Winemiz - gris foncé"
+        ],
+        [
+            "Montre moi les produit de la vente UNDIZ26",
+            "Bien! voici les produits : [9970358] Chapka Winemiz - gris foncé"
+        ],
+        [
+            "Montre moi la vente UNDIZ26",
+            "D'accord! voici les produits : [9970358] Chapka Winemiz - gris foncé"
+        ],
+        [
+            "Donne moi les produit de la vente SUPERGA26",
+            "Ok! voici les produits : [10030094] Housse pour tablette  - blanc"
+        ],
+        [
+            "Montre moi les produit de la vente SUPERGA26",
+            "Bien! voici les produits : [10030094] Housse pour tablette  - blanc"
+        ],
+        [
+            "Montre moi la vente SUPERGA26",
+            "D'accord! voici les produits : [10030094] Housse pour tablette  - blanc"
+        ],
+        [
+            "Donne moi les produit de la vente MADEINITALIA4",
+            "Ok! voici les produits : [9950299] Sac trapèze Diana - cuir - marron foncé - 32 x 20 x 16 cm"
+        ],
+        [
+            "Montre moi les produit de la vente MADEINITALIA4",
+            "Bien! voici les produits : [9950299] Sac trapèze Diana - cuir - marron foncé - 32 x 20 x 16 cm"
+        ],
+        [
+            "Montre moi la vente MADEINITALIA4",
+            "D'accord! voici les produits : [9950299] Sac trapèze Diana - cuir - marron foncé - 32 x 20 x 16 cm"
+        ],
+        [
+            "Donne moi les produit de la vente SNAVARRO31",
+            "Ok! voici les produits : [10167975] Creepers - noir - semelle : 4 cm"
+        ],
+        [
+            "Montre moi les produit de la vente SNAVARRO31",
+            "Bien! voici les produits : [10167975] Creepers - noir - semelle : 4 cm"
+        ],
+        [
+            "Montre moi la vente SNAVARRO31",
+            "D'accord! voici les produits : [10167975] Creepers - noir - semelle : 4 cm"
+        ],
+        [
+            "Donne moi les produit de la vente LCOTTIER20",
+            "Ok! voici les produits : [10194901] Montre auto. Speedfire|acier inoxydable, cadran blanc, Ø : 44 mm"
+        ],
+        [
+            "Montre moi les produit de la vente LCOTTIER20",
+            "Bien! voici les produits : [10194901] Montre auto. Speedfire|acier inoxydable, cadran blanc, Ø : 44 mm"
+        ],
+        [
+            "Montre moi la vente LCOTTIER20",
+            "D'accord! voici les produits : [10194901] Montre auto. Speedfire|acier inoxydable, cadran blanc, Ø : 44 mm"
+        ],
+        [
+            "Donne moi les produit de la vente KICKERS33",
+            "Ok! voici les produits : [10526659] Trousse - beige et rouge - 22 x 7,5 x 7,5 cm"
+        ],
+        [
+            "Montre moi les produit de la vente KICKERS33",
+            "Bien! voici les produits : [10526659] Trousse - beige et rouge - 22 x 7,5 x 7,5 cm"
+        ],
+        [
+            "Montre moi la vente KICKERS33",
+            "D'accord! voici les produits : [10526659] Trousse - beige et rouge - 22 x 7,5 x 7,5 cm"
+        ],
+        [
+            "Donne moi les produit de la vente JLSCHERRER60",
+            "Ok! voici les produits : [10463173] Sac bowling Lou - cuir - bleu - 29 x 18 x 15 cm"
+        ],
+        [
+            "Montre moi les produit de la vente JLSCHERRER60",
+            "Bien! voici les produits : [10463173] Sac bowling Lou - cuir - bleu - 29 x 18 x 15 cm"
+        ],
+        [
+            "Montre moi la vente JLSCHERRER60",
+            "D'accord! voici les produits : [10463173] Sac bowling Lou - cuir - bleu - 29 x 18 x 15 cm"
+        ],
+        [
+            "Donne moi les produit de la vente MARINER24",
+            "Ok! voici les produits : [9688291] Chemise de nuit - bleu marine et rouge - 100% coton"
+        ],
+        [
+            "Montre moi les produit de la vente MARINER24",
+            "Bien! voici les produits : [9688291] Chemise de nuit - bleu marine et rouge - 100% coton"
+        ],
+        [
+            "Montre moi la vente MARINER24",
+            "D'accord! voici les produits : [9688291] Chemise de nuit - bleu marine et rouge - 100% coton"
+        ]
+    ]
+}
