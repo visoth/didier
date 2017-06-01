@@ -1,19 +1,15 @@
 // @flow
 import React from 'react'
-import './CoreLayout.css'
+
+import Wrapper from './Wrapper'
+import Chatbot from '../../chatbot'
+
 import '/styles/core.css'
 
-type Props = {
-    header: React.Element<*>,
-    children: React.Element<*>
-}
-
-export const CoreLayout = (props: Props) =>
-  (<div className='container text-center'>
-    <props.header />
-    <div className='core-layout__viewport'>
-      { props.children }
-    </div>
-  </div>)
+export const CoreLayout = () => (
+  <Wrapper>
+    <Chatbot />
+  </Wrapper>
+)
 
 export default CoreLayout
