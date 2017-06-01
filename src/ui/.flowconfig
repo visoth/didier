@@ -1,0 +1,27 @@
+[ignore]
+.*/dist/.*
+.*/build/.*
+.*/bin/.*
+.*/fbjs/.*
+.*/node_modules/.*
+
+[include]
+./src
+
+[libs]
+./flow-typed
+
+[options]
+esproposal.class_instance_fields=enable
+module.name_mapper='.*\(.css\)' -> 'CSSModules'
+module.name_mapper='react-css-modules' -> 'react-css-mods'
+module.name_mapper='^/\(.*\)$' -> '<PROJECT_ROOT>/\src/\1'
+module.system=haste
+module.ignore_non_literal_requires=true
+strip_root=false
+esproposal.decorators=ignore
+esproposal.class_static_fields=ignore
+unsafe.enable_getters_and_setters=true
+
+module.system.node.resolve_dirname=node_modules
+module.system.node.resolve_dirname=src
