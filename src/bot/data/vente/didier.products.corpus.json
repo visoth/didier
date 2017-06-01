@@ -1,0 +1,1204 @@
+{
+    "didier.products": [
+        [
+            "Je cherche des bottines après-ski",
+            "Ok! on a les ventes CKLEIN, ADIDAS, SKECHERS"
+        ],
+        [
+            "J'aimerais acheter des bottines après-ski",
+            "Bien! on a les ventes CKLEIN, ADIDAS, SKECHERS"
+        ],
+        [
+            "Je viens acheter des bottines après-ski",
+            "Bien! on a les ventes CKLEIN, ADIDAS, SKECHERS"
+        ],
+        [
+            "Je cherche des brassière",
+            "Ok! on a les ventes BERSHKA, BMOON, FREDDY, DEHA, ETAM"
+        ],
+        [
+            "J'aimerais acheter des brassière",
+            "Bien! on a les ventes BERSHKA, BMOON, FREDDY, DEHA, ETAM"
+        ],
+        [
+            "Je viens acheter des brassière",
+            "Bien! on a les ventes BERSHKA, BMOON, FREDDY, DEHA, ETAM"
+        ],
+        [
+            "Je cherche des chaussettes d'intérieur",
+            "Ok! on a les ventes ISOTONER"
+        ],
+        [
+            "J'aimerais acheter des chaussettes d'intérieur",
+            "Bien! on a les ventes ISOTONER"
+        ],
+        [
+            "Je viens acheter des chaussettes d'intérieur",
+            "Bien! on a les ventes ISOTONER"
+        ],
+        [
+            "Je cherche des cravate",
+            "Ok! on a les ventes AZZARO"
+        ],
+        [
+            "J'aimerais acheter des cravate",
+            "Bien! on a les ventes AZZARO"
+        ],
+        [
+            "Je viens acheter des cravate",
+            "Bien! on a les ventes AZZARO"
+        ],
+        [
+            "Je cherche des jupe portefeuille",
+            "Ok! on a les ventes BERSHKA, YERSE, PAUSECAFE"
+        ],
+        [
+            "J'aimerais acheter des jupe portefeuille",
+            "Bien! on a les ventes BERSHKA, YERSE, PAUSECAFE"
+        ],
+        [
+            "Je viens acheter des jupe portefeuille",
+            "Bien! on a les ventes BERSHKA, YERSE, PAUSECAFE"
+        ],
+        [
+            "Je cherche des mules",
+            "Ok! on a les ventes ALDO, ADIDAS, AGUARDIANI, ETAM, ADAGATTI"
+        ],
+        [
+            "J'aimerais acheter des mules",
+            "Bien! on a les ventes ALDO, ADIDAS, AGUARDIANI, ETAM, ADAGATTI"
+        ],
+        [
+            "Je viens acheter des mules",
+            "Bien! on a les ventes ALDO, ADIDAS, AGUARDIANI, ETAM, ADAGATTI"
+        ],
+        [
+            "Je cherche des pantalon chino",
+            "Ok! on a les ventes BBROTHERS"
+        ],
+        [
+            "J'aimerais acheter des pantalon chino",
+            "Bien! on a les ventes BBROTHERS"
+        ],
+        [
+            "Je viens acheter des pantalon chino",
+            "Bien! on a les ventes BBROTHERS"
+        ],
+        [
+            "Je cherche des pantoufles",
+            "Ok! on a les ventes INBLU, KITZPICHLER, OKAIDI"
+        ],
+        [
+            "J'aimerais acheter des pantoufles",
+            "Bien! on a les ventes INBLU, KITZPICHLER, OKAIDI"
+        ],
+        [
+            "Je viens acheter des pantoufles",
+            "Bien! on a les ventes INBLU, KITZPICHLER, OKAIDI"
+        ],
+        [
+            "Je cherche des robe",
+            "Ok! on a les ventes CHARLISE, OAKWOOD, ADAGATTI, AAPPAREL, SSWAROVSKI, ETAM"
+        ],
+        [
+            "J'aimerais acheter des robe",
+            "Bien! on a les ventes CHARLISE, OAKWOOD, ADAGATTI, AAPPAREL, SSWAROVSKI, ETAM"
+        ],
+        [
+            "Je viens acheter des robe",
+            "Bien! on a les ventes CHARLISE, OAKWOOD, ADAGATTI, AAPPAREL, SSWAROVSKI, ETAM"
+        ],
+        [
+            "Je cherche des top",
+            "Ok! on a les ventes FREDDY, BERSHKA, ETAM, LEGEA, KEUROSWAN, BANBAT, AAPPAREL, BERSHKA"
+        ],
+        [
+            "J'aimerais acheter des top",
+            "Bien! on a les ventes FREDDY, BERSHKA, ETAM, LEGEA, KEUROSWAN, BANBAT, AAPPAREL, BERSHKA"
+        ],
+        [
+            "Je viens acheter des top",
+            "Bien! on a les ventes FREDDY, BERSHKA, ETAM, LEGEA, KEUROSWAN, BANBAT, AAPPAREL, BERSHKA"
+        ],
+        [
+            "Je cherche des ballerines",
+            "Ok! on a les ventes ABRILFLOWERS"
+        ],
+        [
+            "J'aimerais acheter des ballerines",
+            "Bien! on a les ventes ABRILFLOWERS"
+        ],
+        [
+            "Je viens acheter des ballerines",
+            "Bien! on a les ventes ABRILFLOWERS"
+        ],
+        [
+            "Je cherche des bottes de pluie",
+            "Ok! on a les ventes BABYBOTTE, BONLY, MELISSA, MINIMELISSA"
+        ],
+        [
+            "J'aimerais acheter des bottes de pluie",
+            "Bien! on a les ventes BABYBOTTE, BONLY, MELISSA, MINIMELISSA"
+        ],
+        [
+            "Je viens acheter des bottes de pluie",
+            "Bien! on a les ventes BABYBOTTE, BONLY, MELISSA, MINIMELISSA"
+        ],
+        [
+            "Je cherche des bottines ",
+            "Ok! on a les ventes AGUARDIANI, AFERMANI"
+        ],
+        [
+            "J'aimerais acheter des bottines ",
+            "Bien! on a les ventes AGUARDIANI, AFERMANI"
+        ],
+        [
+            "Je viens acheter des bottines ",
+            "Bien! on a les ventes AGUARDIANI, AFERMANI"
+        ],
+        [
+            "Je cherche des boxer de bain",
+            "Ok! on a les ventes BMOON, MARVILLE, KEUROSWAN"
+        ],
+        [
+            "J'aimerais acheter des boxer de bain",
+            "Bien! on a les ventes BMOON, MARVILLE, KEUROSWAN"
+        ],
+        [
+            "Je viens acheter des boxer de bain",
+            "Bien! on a les ventes BMOON, MARVILLE, KEUROSWAN"
+        ],
+        [
+            "Je cherche des casquette",
+            "Ok! on a les ventes FREEGUN, SPARCO, FACONNABLE, BONOBO, FACONNABLE"
+        ],
+        [
+            "J'aimerais acheter des casquette",
+            "Bien! on a les ventes FREEGUN, SPARCO, FACONNABLE, BONOBO, FACONNABLE"
+        ],
+        [
+            "Je viens acheter des casquette",
+            "Bien! on a les ventes FREEGUN, SPARCO, FACONNABLE, BONOBO, FACONNABLE"
+        ],
+        [
+            "Je cherche des écharpe tube",
+            "Ok! on a les ventes REPLAY, FREDDY, THEHIPTEE"
+        ],
+        [
+            "J'aimerais acheter des écharpe tube",
+            "Bien! on a les ventes REPLAY, FREDDY, THEHIPTEE"
+        ],
+        [
+            "Je viens acheter des écharpe tube",
+            "Bien! on a les ventes REPLAY, FREDDY, THEHIPTEE"
+        ],
+        [
+            "Je cherche des trousse",
+            "Ok! on a les ventes MPTRIBU, BORBONESE, KEUROSWAN, BRIHL, ARUIZ, ELPOTRO, CASTANER, HACKETT, DELSEY, PJOE, ODESFORGES, KICKERS, CUPLE, PICARD"
+        ],
+        [
+            "J'aimerais acheter des trousse",
+            "Bien! on a les ventes MPTRIBU, BORBONESE, KEUROSWAN, BRIHL, ARUIZ, ELPOTRO, CASTANER, HACKETT, DELSEY, PJOE, ODESFORGES, KICKERS, CUPLE, PICARD"
+        ],
+        [
+            "Je viens acheter des trousse",
+            "Bien! on a les ventes MPTRIBU, BORBONESE, KEUROSWAN, BRIHL, ARUIZ, ELPOTRO, CASTANER, HACKETT, DELSEY, PJOE, ODESFORGES, KICKERS, CUPLE, PICARD"
+        ],
+        [
+            "Je cherche des veste",
+            "Ok! on a les ventes BALLY, AAPPAREL, BERSHKA, FACONNABLE, BIKKEMBERGS"
+        ],
+        [
+            "J'aimerais acheter des veste",
+            "Bien! on a les ventes BALLY, AAPPAREL, BERSHKA, FACONNABLE, BIKKEMBERGS"
+        ],
+        [
+            "Je viens acheter des veste",
+            "Bien! on a les ventes BALLY, AAPPAREL, BERSHKA, FACONNABLE, BIKKEMBERGS"
+        ],
+        [
+            "Je cherche des sandales",
+            "Ok! on a les ventes ANDREACONTI, ABRILFLOWERS, AAPPAREL, ALUXE, ARCHE, STONEFLY"
+        ],
+        [
+            "J'aimerais acheter des sandales",
+            "Bien! on a les ventes ANDREACONTI, ABRILFLOWERS, AAPPAREL, ALUXE, ARCHE, STONEFLY"
+        ],
+        [
+            "Je viens acheter des sandales",
+            "Bien! on a les ventes ANDREACONTI, ABRILFLOWERS, AAPPAREL, ALUXE, ARCHE, STONEFLY"
+        ],
+        [
+            "Je cherche des sarouel",
+            "Ok! on a les ventes DEHA, PURELIN, NANOS"
+        ],
+        [
+            "J'aimerais acheter des sarouel",
+            "Bien! on a les ventes DEHA, PURELIN, NANOS"
+        ],
+        [
+            "Je viens acheter des sarouel",
+            "Bien! on a les ventes DEHA, PURELIN, NANOS"
+        ],
+        [
+            "Je cherche des soutien-gorge",
+            "Ok! on a les ventes BERSHKA, SSUCRE, ETAM, BMOON, SLOGGI"
+        ],
+        [
+            "J'aimerais acheter des soutien-gorge",
+            "Bien! on a les ventes BERSHKA, SSUCRE, ETAM, BMOON, SLOGGI"
+        ],
+        [
+            "Je viens acheter des soutien-gorge",
+            "Bien! on a les ventes BERSHKA, SSUCRE, ETAM, BMOON, SLOGGI"
+        ],
+        [
+            "Je cherche des sweat zippé",
+            "Ok! on a les ventes BIKKEMBERGS, BBROTHERS, FREDDY, VANS"
+        ],
+        [
+            "J'aimerais acheter des sweat zippé",
+            "Bien! on a les ventes BIKKEMBERGS, BBROTHERS, FREDDY, VANS"
+        ],
+        [
+            "Je viens acheter des sweat zippé",
+            "Bien! on a les ventes BIKKEMBERGS, BBROTHERS, FREDDY, VANS"
+        ],
+        [
+            "Je cherche des housse pour tablette",
+            "Ok! on a les ventes PMENDIGOTE, ANTONYME, MAVILUGGAGE, KEUROSWAN, SUPERGA"
+        ],
+        [
+            "J'aimerais acheter des housse pour tablette",
+            "Bien! on a les ventes PMENDIGOTE, ANTONYME, MAVILUGGAGE, KEUROSWAN, SUPERGA"
+        ],
+        [
+            "Je viens acheter des housse pour tablette",
+            "Bien! on a les ventes PMENDIGOTE, ANTONYME, MAVILUGGAGE, KEUROSWAN, SUPERGA"
+        ],
+        [
+            "Je cherche des mocassins",
+            "Ok! on a les ventes ADELLACQUA"
+        ],
+        [
+            "J'aimerais acheter des mocassins",
+            "Bien! on a les ventes ADELLACQUA"
+        ],
+        [
+            "Je viens acheter des mocassins",
+            "Bien! on a les ventes ADELLACQUA"
+        ],
+        [
+            "Je cherche des nu-pieds",
+            "Ok! on a les ventes ALDO, AIGNER"
+        ],
+        [
+            "J'aimerais acheter des nu-pieds",
+            "Bien! on a les ventes ALDO, AIGNER"
+        ],
+        [
+            "Je viens acheter des nu-pieds",
+            "Bien! on a les ventes ALDO, AIGNER"
+        ],
+        [
+            "Je cherche des peep-toes",
+            "Ok! on a les ventes AYNEOSENS, AIGNER, BATA, ALDO, ALDO"
+        ],
+        [
+            "J'aimerais acheter des peep-toes",
+            "Bien! on a les ventes AYNEOSENS, AIGNER, BATA, ALDO, ALDO"
+        ],
+        [
+            "Je viens acheter des peep-toes",
+            "Bien! on a les ventes AYNEOSENS, AIGNER, BATA, ALDO, ALDO"
+        ],
+        [
+            "Je cherche des sac cartable",
+            "Ok! on a les ventes KESSLORD, BERSHKA, EASYPEASY"
+        ],
+        [
+            "J'aimerais acheter des sac cartable",
+            "Bien! on a les ventes KESSLORD, BERSHKA, EASYPEASY"
+        ],
+        [
+            "Je viens acheter des sac cartable",
+            "Bien! on a les ventes KESSLORD, BERSHKA, EASYPEASY"
+        ],
+        [
+            "Je cherche des sacoche transformable en sac à dos",
+            "Ok! on a les ventes HEDGREN, CNOIR"
+        ],
+        [
+            "J'aimerais acheter des sacoche transformable en sac à dos",
+            "Bien! on a les ventes HEDGREN, CNOIR"
+        ],
+        [
+            "Je viens acheter des sacoche transformable en sac à dos",
+            "Bien! on a les ventes HEDGREN, CNOIR"
+        ],
+        [
+            "Je cherche des combishort",
+            "Ok! on a les ventes BERSHKA"
+        ],
+        [
+            "J'aimerais acheter des combishort",
+            "Bien! on a les ventes BERSHKA"
+        ],
+        [
+            "Je viens acheter des combishort",
+            "Bien! on a les ventes BERSHKA"
+        ],
+        [
+            "Je cherche des culotte de bain",
+            "Ok! on a les ventes JROBIN, BMOON"
+        ],
+        [
+            "J'aimerais acheter des culotte de bain",
+            "Bien! on a les ventes JROBIN, BMOON"
+        ],
+        [
+            "Je viens acheter des culotte de bain",
+            "Bien! on a les ventes JROBIN, BMOON"
+        ],
+        [
+            "Je cherche des pull",
+            "Ok! on a les ventes VANS, BBROTHERS, REPLAY, CHARLISE, AAPPAREL, BERSHKA, ADAGATTI"
+        ],
+        [
+            "J'aimerais acheter des pull",
+            "Bien! on a les ventes VANS, BBROTHERS, REPLAY, CHARLISE, AAPPAREL, BERSHKA, ADAGATTI"
+        ],
+        [
+            "Je viens acheter des pull",
+            "Bien! on a les ventes VANS, BBROTHERS, REPLAY, CHARLISE, AAPPAREL, BERSHKA, ADAGATTI"
+        ],
+        [
+            "Je cherche des short",
+            "Ok! on a les ventes KEUROSWAN, AAPPAREL, BANBAT, BMOON"
+        ],
+        [
+            "J'aimerais acheter des short",
+            "Bien! on a les ventes KEUROSWAN, AAPPAREL, BANBAT, BMOON"
+        ],
+        [
+            "Je viens acheter des short",
+            "Bien! on a les ventes KEUROSWAN, AAPPAREL, BANBAT, BMOON"
+        ],
+        [
+            "Je cherche des soutien-gorge balconnet emboîtant",
+            "Ok! on a les ventes ETAM"
+        ],
+        [
+            "J'aimerais acheter des soutien-gorge balconnet emboîtant",
+            "Bien! on a les ventes ETAM"
+        ],
+        [
+            "Je viens acheter des soutien-gorge balconnet emboîtant",
+            "Bien! on a les ventes ETAM"
+        ],
+        [
+            "Je cherche des valise format weekend",
+            "Ok! on a les ventes ALUGGAGE"
+        ],
+        [
+            "J'aimerais acheter des valise format weekend",
+            "Bien! on a les ventes ALUGGAGE"
+        ],
+        [
+            "Je viens acheter des valise format weekend",
+            "Bien! on a les ventes ALUGGAGE"
+        ],
+        [
+            "Je cherche des babies",
+            "Ok! on a les ventes ARCHE, ARCHE, AYNEOSENS"
+        ],
+        [
+            "J'aimerais acheter des babies",
+            "Bien! on a les ventes ARCHE, ARCHE, AYNEOSENS"
+        ],
+        [
+            "Je viens acheter des babies",
+            "Bien! on a les ventes ARCHE, ARCHE, AYNEOSENS"
+        ],
+        [
+            "Je cherche des bottes",
+            "Ok! on a les ventes AAPPAREL, ALMAENPENA, ALUXE, AGUARDIANI, ALDO, AIGNER"
+        ],
+        [
+            "J'aimerais acheter des bottes",
+            "Bien! on a les ventes AAPPAREL, ALMAENPENA, ALUXE, AGUARDIANI, ALDO, AIGNER"
+        ],
+        [
+            "Je viens acheter des bottes",
+            "Bien! on a les ventes AAPPAREL, ALMAENPENA, ALUXE, AGUARDIANI, ALDO, AIGNER"
+        ],
+        [
+            "Je cherche des chaussures montantes de fitness",
+            "Ok! on a les ventes FREDDY"
+        ],
+        [
+            "J'aimerais acheter des chaussures montantes de fitness",
+            "Bien! on a les ventes FREDDY"
+        ],
+        [
+            "Je viens acheter des chaussures montantes de fitness",
+            "Bien! on a les ventes FREDDY"
+        ],
+        [
+            "Je cherche des chaussures ouvertes",
+            "Ok! on a les ventes PABLOSKY, ARTNATURAL"
+        ],
+        [
+            "J'aimerais acheter des chaussures ouvertes",
+            "Bien! on a les ventes PABLOSKY, ARTNATURAL"
+        ],
+        [
+            "Je viens acheter des chaussures ouvertes",
+            "Bien! on a les ventes PABLOSKY, ARTNATURAL"
+        ],
+        [
+            "Je cherche des jean",
+            "Ok! on a les ventes AAPPAREL, ADAGATTI, BERSHKA"
+        ],
+        [
+            "J'aimerais acheter des jean",
+            "Bien! on a les ventes AAPPAREL, ADAGATTI, BERSHKA"
+        ],
+        [
+            "Je viens acheter des jean",
+            "Bien! on a les ventes AAPPAREL, ADAGATTI, BERSHKA"
+        ],
+        [
+            "Je cherche des pochette",
+            "Ok! on a les ventes BRIHL, CRUCIANIC, ACARDONE, AAPPAREL"
+        ],
+        [
+            "J'aimerais acheter des pochette",
+            "Bien! on a les ventes BRIHL, CRUCIANIC, ACARDONE, AAPPAREL"
+        ],
+        [
+            "Je viens acheter des pochette",
+            "Bien! on a les ventes BRIHL, CRUCIANIC, ACARDONE, AAPPAREL"
+        ],
+        [
+            "Je cherche des richelieu",
+            "Ok! on a les ventes ADELLACQUA, ABRILFLOWERS"
+        ],
+        [
+            "J'aimerais acheter des richelieu",
+            "Bien! on a les ventes ADELLACQUA, ABRILFLOWERS"
+        ],
+        [
+            "Je viens acheter des richelieu",
+            "Bien! on a les ventes ADELLACQUA, ABRILFLOWERS"
+        ],
+        [
+            "Je cherche des shorty string",
+            "Ok! on a les ventes SSUCRE"
+        ],
+        [
+            "J'aimerais acheter des shorty string",
+            "Bien! on a les ventes SSUCRE"
+        ],
+        [
+            "Je viens acheter des shorty string",
+            "Bien! on a les ventes SSUCRE"
+        ],
+        [
+            "Je cherche des slip de bain brésilien",
+            "Ok! on a les ventes BMOON, BERSHKA"
+        ],
+        [
+            "J'aimerais acheter des slip de bain brésilien",
+            "Bien! on a les ventes BMOON, BERSHKA"
+        ],
+        [
+            "Je viens acheter des slip de bain brésilien",
+            "Bien! on a les ventes BMOON, BERSHKA"
+        ],
+        [
+            "Je cherche des soutien-gorge demi-bonnets",
+            "Ok! on a les ventes ROSY"
+        ],
+        [
+            "J'aimerais acheter des soutien-gorge demi-bonnets",
+            "Bien! on a les ventes ROSY"
+        ],
+        [
+            "Je viens acheter des soutien-gorge demi-bonnets",
+            "Bien! on a les ventes ROSY"
+        ],
+        [
+            "Je cherche des soutien-gorge emboîtant",
+            "Ok! on a les ventes ROSY, SLOGGI, VFAIR, MAISONLEJABY"
+        ],
+        [
+            "J'aimerais acheter des soutien-gorge emboîtant",
+            "Bien! on a les ventes ROSY, SLOGGI, VFAIR, MAISONLEJABY"
+        ],
+        [
+            "Je viens acheter des soutien-gorge emboîtant",
+            "Bien! on a les ventes ROSY, SLOGGI, VFAIR, MAISONLEJABY"
+        ],
+        [
+            "Je cherche des tunique",
+            "Ok! on a les ventes JROBIN, BERSHKA, BLOLA, BMOON, BIKKEMBERGS"
+        ],
+        [
+            "J'aimerais acheter des tunique",
+            "Bien! on a les ventes JROBIN, BERSHKA, BLOLA, BMOON, BIKKEMBERGS"
+        ],
+        [
+            "Je viens acheter des tunique",
+            "Bien! on a les ventes JROBIN, BERSHKA, BLOLA, BMOON, BIKKEMBERGS"
+        ],
+        [
+            "Je cherche des bermuda de bain",
+            "Ok! on a les ventes FACONNABLE, NANOS"
+        ],
+        [
+            "J'aimerais acheter des bermuda de bain",
+            "Bien! on a les ventes FACONNABLE, NANOS"
+        ],
+        [
+            "Je viens acheter des bermuda de bain",
+            "Bien! on a les ventes FACONNABLE, NANOS"
+        ],
+        [
+            "Je cherche des bottines",
+            "Ok! on a les ventes BALDININI, AVOISIN, CASTANER, ALEXANDER, GOODWINSMITH, LORIBLU, AS, AFERMANI, AIGNER, AGUARDIANI, ROOBINS, ALDO"
+        ],
+        [
+            "J'aimerais acheter des bottines",
+            "Bien! on a les ventes BALDININI, AVOISIN, CASTANER, ALEXANDER, GOODWINSMITH, LORIBLU, AS, AFERMANI, AIGNER, AGUARDIANI, ROOBINS, ALDO"
+        ],
+        [
+            "Je viens acheter des bottines",
+            "Bien! on a les ventes BALDININI, AVOISIN, CASTANER, ALEXANDER, GOODWINSMITH, LORIBLU, AS, AFERMANI, AIGNER, AGUARDIANI, ROOBINS, ALDO"
+        ],
+        [
+            "Je cherche des derbies montantes",
+            "Ok! on a les ventes ARCHE, ALDO, ARCHE"
+        ],
+        [
+            "J'aimerais acheter des derbies montantes",
+            "Bien! on a les ventes ARCHE, ALDO, ARCHE"
+        ],
+        [
+            "Je viens acheter des derbies montantes",
+            "Bien! on a les ventes ARCHE, ALDO, ARCHE"
+        ],
+        [
+            "Je cherche des pull sans manches",
+            "Ok! on a les ventes BROOKSFIELD, BBROTHERS, BONOBO, BIKKEMBERGS"
+        ],
+        [
+            "J'aimerais acheter des pull sans manches",
+            "Bien! on a les ventes BROOKSFIELD, BBROTHERS, BONOBO, BIKKEMBERGS"
+        ],
+        [
+            "Je viens acheter des pull sans manches",
+            "Bien! on a les ventes BROOKSFIELD, BBROTHERS, BONOBO, BIKKEMBERGS"
+        ],
+        [
+            "Je cherche des sac fermoir",
+            "Ok! on a les ventes ISATO"
+        ],
+        [
+            "J'aimerais acheter des sac fermoir",
+            "Bien! on a les ventes ISATO"
+        ],
+        [
+            "Je viens acheter des sac fermoir",
+            "Bien! on a les ventes ISATO"
+        ],
+        [
+            "Je cherche des salomés",
+            "Ok! on a les ventes ANDREACONTI, ARCHE, ASTER"
+        ],
+        [
+            "J'aimerais acheter des salomés",
+            "Bien! on a les ventes ANDREACONTI, ARCHE, ASTER"
+        ],
+        [
+            "Je viens acheter des salomés",
+            "Bien! on a les ventes ANDREACONTI, ARCHE, ASTER"
+        ],
+        [
+            "Je cherche des cabas",
+            "Ok! on a les ventes ALUXE, ACARDONE"
+        ],
+        [
+            "J'aimerais acheter des cabas",
+            "Bien! on a les ventes ALUXE, ACARDONE"
+        ],
+        [
+            "Je viens acheter des cabas",
+            "Bien! on a les ventes ALUXE, ACARDONE"
+        ],
+        [
+            "Je cherche des caleçon",
+            "Ok! on a les ventes FACONNABLE, AAPPAREL"
+        ],
+        [
+            "J'aimerais acheter des caleçon",
+            "Bien! on a les ventes FACONNABLE, AAPPAREL"
+        ],
+        [
+            "Je viens acheter des caleçon",
+            "Bien! on a les ventes FACONNABLE, AAPPAREL"
+        ],
+        [
+            "Je cherche des chaussons",
+            "Ok! on a les ventes BAGLLERINA, RCHOCOLAT, BABYBOTTE, ISOTONER, KITZPICHLER, ALUXE, CAMPER, INBLU, ADIDAS"
+        ],
+        [
+            "J'aimerais acheter des chaussons",
+            "Bien! on a les ventes BAGLLERINA, RCHOCOLAT, BABYBOTTE, ISOTONER, KITZPICHLER, ALUXE, CAMPER, INBLU, ADIDAS"
+        ],
+        [
+            "Je viens acheter des chaussons",
+            "Bien! on a les ventes BAGLLERINA, RCHOCOLAT, BABYBOTTE, ISOTONER, KITZPICHLER, ALUXE, CAMPER, INBLU, ADIDAS"
+        ],
+        [
+            "Je cherche des doudoune",
+            "Ok! on a les ventes BERSHKA, BIKKEMBERGS, BROOKSFIELD, BERSHKA, BORBONESE"
+        ],
+        [
+            "J'aimerais acheter des doudoune",
+            "Bien! on a les ventes BERSHKA, BIKKEMBERGS, BROOKSFIELD, BERSHKA, BORBONESE"
+        ],
+        [
+            "Je viens acheter des doudoune",
+            "Bien! on a les ventes BERSHKA, BIKKEMBERGS, BROOKSFIELD, BERSHKA, BORBONESE"
+        ],
+        [
+            "Je cherche des jegging",
+            "Ok! on a les ventes BERSHKA, MELAUTRES, NEWNESS, BONOBO, OKAIDI"
+        ],
+        [
+            "J'aimerais acheter des jegging",
+            "Bien! on a les ventes BERSHKA, MELAUTRES, NEWNESS, BONOBO, OKAIDI"
+        ],
+        [
+            "Je viens acheter des jegging",
+            "Bien! on a les ventes BERSHKA, MELAUTRES, NEWNESS, BONOBO, OKAIDI"
+        ],
+        [
+            "Je cherche des valise long séjour",
+            "Ok! on a les ventes ALPINI, AAPPAREL"
+        ],
+        [
+            "J'aimerais acheter des valise long séjour",
+            "Bien! on a les ventes ALPINI, AAPPAREL"
+        ],
+        [
+            "Je viens acheter des valise long séjour",
+            "Bien! on a les ventes ALPINI, AAPPAREL"
+        ],
+        [
+            "Je cherche des veste en jean",
+            "Ok! on a les ventes BERSHKA, BERSHKA, MELAUTRES, FACONNABLE, BONOBO"
+        ],
+        [
+            "J'aimerais acheter des veste en jean",
+            "Bien! on a les ventes BERSHKA, BERSHKA, MELAUTRES, FACONNABLE, BONOBO"
+        ],
+        [
+            "Je viens acheter des veste en jean",
+            "Bien! on a les ventes BERSHKA, BERSHKA, MELAUTRES, FACONNABLE, BONOBO"
+        ],
+        [
+            "Je cherche des jupe",
+            "Ok! on a les ventes ADAGATTI"
+        ],
+        [
+            "J'aimerais acheter des jupe",
+            "Bien! on a les ventes ADAGATTI"
+        ],
+        [
+            "Je viens acheter des jupe",
+            "Bien! on a les ventes ADAGATTI"
+        ],
+        [
+            "Je cherche des porte-documents",
+            "Ok! on a les ventes ANTONYME, DHECHTER, BAGATT, AZZARO, FAGUO, ALUGGAGE"
+        ],
+        [
+            "J'aimerais acheter des porte-documents",
+            "Bien! on a les ventes ANTONYME, DHECHTER, BAGATT, AZZARO, FAGUO, ALUGGAGE"
+        ],
+        [
+            "Je viens acheter des porte-documents",
+            "Bien! on a les ventes ANTONYME, DHECHTER, BAGATT, AZZARO, FAGUO, ALUGGAGE"
+        ],
+        [
+            "Je cherche des robe bustier",
+            "Ok! on a les ventes BONOBO, CHARLISE, DEBYDEBO"
+        ],
+        [
+            "J'aimerais acheter des robe bustier",
+            "Bien! on a les ventes BONOBO, CHARLISE, DEBYDEBO"
+        ],
+        [
+            "Je viens acheter des robe bustier",
+            "Bien! on a les ventes BONOBO, CHARLISE, DEBYDEBO"
+        ],
+        [
+            "Je cherche des tongs",
+            "Ok! on a les ventes AAPPAREL"
+        ],
+        [
+            "J'aimerais acheter des tongs",
+            "Bien! on a les ventes AAPPAREL"
+        ],
+        [
+            "Je viens acheter des tongs",
+            "Bien! on a les ventes AAPPAREL"
+        ],
+        [
+            "Je cherche des trolley",
+            "Ok! on a les ventes FOTOPRIX, ALUGGAGE"
+        ],
+        [
+            "J'aimerais acheter des trolley",
+            "Bien! on a les ventes FOTOPRIX, ALUGGAGE"
+        ],
+        [
+            "Je viens acheter des trolley",
+            "Bien! on a les ventes FOTOPRIX, ALUGGAGE"
+        ],
+        [
+            "Je cherche des bermuda",
+            "Ok! on a les ventes AAPPAREL, FREDDY, LACOSTE"
+        ],
+        [
+            "J'aimerais acheter des bermuda",
+            "Bien! on a les ventes AAPPAREL, FREDDY, LACOSTE"
+        ],
+        [
+            "Je viens acheter des bermuda",
+            "Bien! on a les ventes AAPPAREL, FREDDY, LACOSTE"
+        ],
+        [
+            "Je cherche des caleçon technique",
+            "Ok! on a les ventes FREDDY"
+        ],
+        [
+            "J'aimerais acheter des caleçon technique",
+            "Bien! on a les ventes FREDDY"
+        ],
+        [
+            "Je viens acheter des caleçon technique",
+            "Bien! on a les ventes FREDDY"
+        ],
+        [
+            "Je cherche des chaussures",
+            "Ok! on a les ventes ADIDAS, ADAGATTI"
+        ],
+        [
+            "J'aimerais acheter des chaussures",
+            "Bien! on a les ventes ADIDAS, ADAGATTI"
+        ],
+        [
+            "Je viens acheter des chaussures",
+            "Bien! on a les ventes ADIDAS, ADAGATTI"
+        ],
+        [
+            "Je cherche des lunettes de soleil unisexe",
+            "Ok! on a les ventes AAPPAREL"
+        ],
+        [
+            "J'aimerais acheter des lunettes de soleil unisexe",
+            "Bien! on a les ventes AAPPAREL"
+        ],
+        [
+            "Je viens acheter des lunettes de soleil unisexe",
+            "Bien! on a les ventes AAPPAREL"
+        ],
+        [
+            "Je cherche des porte-ordinateur à roulettes",
+            "Ok! on a les ventes TRAVELONE, ALUGGAGE"
+        ],
+        [
+            "J'aimerais acheter des porte-ordinateur à roulettes",
+            "Bien! on a les ventes TRAVELONE, ALUGGAGE"
+        ],
+        [
+            "Je viens acheter des porte-ordinateur à roulettes",
+            "Bien! on a les ventes TRAVELONE, ALUGGAGE"
+        ],
+        [
+            "Je cherche des sac week-end",
+            "Ok! on a les ventes FAGUO, HEDGREN, HELIUM, KESSLORD, ANTONYME, AS"
+        ],
+        [
+            "J'aimerais acheter des sac week-end",
+            "Bien! on a les ventes FAGUO, HEDGREN, HELIUM, KESSLORD, ANTONYME, AS"
+        ],
+        [
+            "Je viens acheter des sac week-end",
+            "Bien! on a les ventes FAGUO, HEDGREN, HELIUM, KESSLORD, ANTONYME, AS"
+        ],
+        [
+            "Je cherche des t-shirt",
+            "Ok! on a les ventes LACOSTE, FREDDY, AAPPAREL, BERSHKA, ADAGATTI, KEUROSWAN, ETAM, BERSHKA"
+        ],
+        [
+            "J'aimerais acheter des t-shirt",
+            "Bien! on a les ventes LACOSTE, FREDDY, AAPPAREL, BERSHKA, ADAGATTI, KEUROSWAN, ETAM, BERSHKA"
+        ],
+        [
+            "Je viens acheter des t-shirt",
+            "Bien! on a les ventes LACOSTE, FREDDY, AAPPAREL, BERSHKA, ADAGATTI, KEUROSWAN, ETAM, BERSHKA"
+        ],
+        [
+            "Je cherche des bague",
+            "Ok! on a les ventes AAPPAREL"
+        ],
+        [
+            "J'aimerais acheter des bague",
+            "Bien! on a les ventes AAPPAREL"
+        ],
+        [
+            "Je viens acheter des bague",
+            "Bien! on a les ventes AAPPAREL"
+        ],
+        [
+            "Je cherche des chaussures de football",
+            "Ok! on a les ventes LOTTO"
+        ],
+        [
+            "J'aimerais acheter des chaussures de football",
+            "Bien! on a les ventes LOTTO"
+        ],
+        [
+            "Je viens acheter des chaussures de football",
+            "Bien! on a les ventes LOTTO"
+        ],
+        [
+            "Je cherche des cuissardes",
+            "Ok! on a les ventes CASTANER, BUFFALO, HOGAN, PLOPEZ, CASTANER, KARAKOOL, LKELLY, PDORO, CKLEIN, ANDREACONTI"
+        ],
+        [
+            "J'aimerais acheter des cuissardes",
+            "Bien! on a les ventes CASTANER, BUFFALO, HOGAN, PLOPEZ, CASTANER, KARAKOOL, LKELLY, PDORO, CKLEIN, ANDREACONTI"
+        ],
+        [
+            "Je viens acheter des cuissardes",
+            "Bien! on a les ventes CASTANER, BUFFALO, HOGAN, PLOPEZ, CASTANER, KARAKOOL, LKELLY, PDORO, CKLEIN, ANDREACONTI"
+        ],
+        [
+            "Je cherche des pantalon cargo",
+            "Ok! on a les ventes MARVILLE, BBROTHERS, BERSHKA, SPARCO, SPE_UCULTURE"
+        ],
+        [
+            "J'aimerais acheter des pantalon cargo",
+            "Bien! on a les ventes MARVILLE, BBROTHERS, BERSHKA, SPARCO, SPE_UCULTURE"
+        ],
+        [
+            "Je viens acheter des pantalon cargo",
+            "Bien! on a les ventes MARVILLE, BBROTHERS, BERSHKA, SPARCO, SPE_UCULTURE"
+        ],
+        [
+            "Je cherche des pashmina",
+            "Ok! on a les ventes BROOKSFIELD, AAPPAREL, MARVILLE"
+        ],
+        [
+            "J'aimerais acheter des pashmina",
+            "Bien! on a les ventes BROOKSFIELD, AAPPAREL, MARVILLE"
+        ],
+        [
+            "Je viens acheter des pashmina",
+            "Bien! on a les ventes BROOKSFIELD, AAPPAREL, MARVILLE"
+        ],
+        [
+            "Je cherche des robe pull",
+            "Ok! on a les ventes BERSHKA, CHARLISE, BERSHKA, MFLOVING, DEBYDEBO"
+        ],
+        [
+            "J'aimerais acheter des robe pull",
+            "Bien! on a les ventes BERSHKA, CHARLISE, BERSHKA, MFLOVING, DEBYDEBO"
+        ],
+        [
+            "Je viens acheter des robe pull",
+            "Bien! on a les ventes BERSHKA, CHARLISE, BERSHKA, MFLOVING, DEBYDEBO"
+        ],
+        [
+            "Je cherche des sac porté épaule",
+            "Ok! on a les ventes COCCINELLE, BAGATT, BRIHL, ACARDONE, CNOIR"
+        ],
+        [
+            "J'aimerais acheter des sac porté épaule",
+            "Bien! on a les ventes COCCINELLE, BAGATT, BRIHL, ACARDONE, CNOIR"
+        ],
+        [
+            "Je viens acheter des sac porté épaule",
+            "Bien! on a les ventes COCCINELLE, BAGATT, BRIHL, ACARDONE, CNOIR"
+        ],
+        [
+            "Je cherche des salopette",
+            "Ok! on a les ventes SSWAROVSKI, REPLAY, BERSHKA, FACONNABLE"
+        ],
+        [
+            "J'aimerais acheter des salopette",
+            "Bien! on a les ventes SSWAROVSKI, REPLAY, BERSHKA, FACONNABLE"
+        ],
+        [
+            "Je viens acheter des salopette",
+            "Bien! on a les ventes SSWAROVSKI, REPLAY, BERSHKA, FACONNABLE"
+        ],
+        [
+            "Je cherche des trousse de toilette",
+            "Ok! on a les ventes BLOLA, AZZARO, BERSHKA"
+        ],
+        [
+            "J'aimerais acheter des trousse de toilette",
+            "Bien! on a les ventes BLOLA, AZZARO, BERSHKA"
+        ],
+        [
+            "Je viens acheter des trousse de toilette",
+            "Bien! on a les ventes BLOLA, AZZARO, BERSHKA"
+        ],
+        [
+            "Je cherche des chaussures de futsal",
+            "Ok! on a les ventes PDORO"
+        ],
+        [
+            "J'aimerais acheter des chaussures de futsal",
+            "Bien! on a les ventes PDORO"
+        ],
+        [
+            "Je viens acheter des chaussures de futsal",
+            "Bien! on a les ventes PDORO"
+        ],
+        [
+            "Je cherche des chemise",
+            "Ok! on a les ventes AAPPAREL, BANBAT"
+        ],
+        [
+            "J'aimerais acheter des chemise",
+            "Bien! on a les ventes AAPPAREL, BANBAT"
+        ],
+        [
+            "Je viens acheter des chemise",
+            "Bien! on a les ventes AAPPAREL, BANBAT"
+        ],
+        [
+            "Je cherche des gilet sans manches",
+            "Ok! on a les ventes BERSHKA, AAPPAREL"
+        ],
+        [
+            "J'aimerais acheter des gilet sans manches",
+            "Bien! on a les ventes BERSHKA, AAPPAREL"
+        ],
+        [
+            "Je viens acheter des gilet sans manches",
+            "Bien! on a les ventes BERSHKA, AAPPAREL"
+        ],
+        [
+            "Je cherche des soutien-gorge bandeau",
+            "Ok! on a les ventes ETAM, BERSHKA, BMOON, VFAIR, ROSY, SLOGGI, SSUCRE"
+        ],
+        [
+            "J'aimerais acheter des soutien-gorge bandeau",
+            "Bien! on a les ventes ETAM, BERSHKA, BMOON, VFAIR, ROSY, SLOGGI, SSUCRE"
+        ],
+        [
+            "Je viens acheter des soutien-gorge bandeau",
+            "Bien! on a les ventes ETAM, BERSHKA, BMOON, VFAIR, ROSY, SLOGGI, SSUCRE"
+        ],
+        [
+            "Je cherche des trousse de maquillage",
+            "Ok! on a les ventes HEDGREN, MDUCK, GOODWINSMITH, BORBONESE"
+        ],
+        [
+            "J'aimerais acheter des trousse de maquillage",
+            "Bien! on a les ventes HEDGREN, MDUCK, GOODWINSMITH, BORBONESE"
+        ],
+        [
+            "Je viens acheter des trousse de maquillage",
+            "Bien! on a les ventes HEDGREN, MDUCK, GOODWINSMITH, BORBONESE"
+        ],
+        [
+            "Je cherche des sac à roulettes",
+            "Ok! on a les ventes JLSCHERRER"
+        ],
+        [
+            "J'aimerais acheter des sac à roulettes",
+            "Bien! on a les ventes JLSCHERRER"
+        ],
+        [
+            "Je viens acheter des sac à roulettes",
+            "Bien! on a les ventes JLSCHERRER"
+        ],
+        [
+            "Je cherche des sac bourse",
+            "Ok! on a les ventes CASTANER, PMENDIGOTE, BERSHKA, JLSCHERRER, JLSCHERRER, TRUCCO"
+        ],
+        [
+            "J'aimerais acheter des sac bourse",
+            "Bien! on a les ventes CASTANER, PMENDIGOTE, BERSHKA, JLSCHERRER, JLSCHERRER, TRUCCO"
+        ],
+        [
+            "Je viens acheter des sac bourse",
+            "Bien! on a les ventes CASTANER, PMENDIGOTE, BERSHKA, JLSCHERRER, JLSCHERRER, TRUCCO"
+        ],
+        [
+            "Je cherche des sac de sport",
+            "Ok! on a les ventes FAGUO, HOGAN, BERSHKA, HACKETT, FREDDY"
+        ],
+        [
+            "J'aimerais acheter des sac de sport",
+            "Bien! on a les ventes FAGUO, HOGAN, BERSHKA, HACKETT, FREDDY"
+        ],
+        [
+            "Je viens acheter des sac de sport",
+            "Bien! on a les ventes FAGUO, HOGAN, BERSHKA, HACKETT, FREDDY"
+        ],
+        [
+            "Je cherche des set de 3 valises",
+            "Ok! on a les ventes JLSCHERRER, JONAK"
+        ],
+        [
+            "J'aimerais acheter des set de 3 valises",
+            "Bien! on a les ventes JLSCHERRER, JONAK"
+        ],
+        [
+            "Je viens acheter des set de 3 valises",
+            "Bien! on a les ventes JLSCHERRER, JONAK"
+        ],
+        [
+            "Je cherche des set valise cabine + vanity",
+            "Ok! on a les ventes JLSCHERRER"
+        ],
+        [
+            "J'aimerais acheter des set valise cabine + vanity",
+            "Bien! on a les ventes JLSCHERRER"
+        ],
+        [
+            "Je viens acheter des set valise cabine + vanity",
+            "Bien! on a les ventes JLSCHERRER"
+        ],
+        [
+            "Je cherche des blouson",
+            "Ok! on a les ventes OKAIDI, BBROTHERS, BERSHKA"
+        ],
+        [
+            "J'aimerais acheter des blouson",
+            "Bien! on a les ventes OKAIDI, BBROTHERS, BERSHKA"
+        ],
+        [
+            "Je viens acheter des blouson",
+            "Bien! on a les ventes OKAIDI, BBROTHERS, BERSHKA"
+        ],
+        [
+            "Je cherche des bonnet de nuit",
+            "Ok! on a les ventes AMORATO, REPLAY"
+        ],
+        [
+            "J'aimerais acheter des bonnet de nuit",
+            "Bien! on a les ventes AMORATO, REPLAY"
+        ],
+        [
+            "Je viens acheter des bonnet de nuit",
+            "Bien! on a les ventes AMORATO, REPLAY"
+        ],
+        [
+            "Je cherche des boxer",
+            "Ok! on a les ventes BONOBO"
+        ],
+        [
+            "J'aimerais acheter des boxer",
+            "Bien! on a les ventes BONOBO"
+        ],
+        [
+            "Je viens acheter des boxer",
+            "Bien! on a les ventes BONOBO"
+        ],
+        [
+            "Je cherche des veste courte",
+            "Ok! on a les ventes BERSHKA, BANBAT, CNOIR, BLOLA, HELIUM"
+        ],
+        [
+            "J'aimerais acheter des veste courte",
+            "Bien! on a les ventes BERSHKA, BANBAT, CNOIR, BLOLA, HELIUM"
+        ],
+        [
+            "Je viens acheter des veste courte",
+            "Bien! on a les ventes BERSHKA, BANBAT, CNOIR, BLOLA, HELIUM"
+        ],
+        [
+            "Je cherche des sacoche d'ordinateur",
+            "Ok! on a les ventes ARUIZ, MDUCK, CAMPER, ALUGGAGE, DELSEY, MAVILUGGAGE"
+        ],
+        [
+            "J'aimerais acheter des sacoche d'ordinateur",
+            "Bien! on a les ventes ARUIZ, MDUCK, CAMPER, ALUGGAGE, DELSEY, MAVILUGGAGE"
+        ],
+        [
+            "Je viens acheter des sacoche d'ordinateur",
+            "Bien! on a les ventes ARUIZ, MDUCK, CAMPER, ALUGGAGE, DELSEY, MAVILUGGAGE"
+        ],
+        [
+            "Je cherche des sous-pull",
+            "Ok! on a les ventes ADAGATTI"
+        ],
+        [
+            "J'aimerais acheter des sous-pull",
+            "Bien! on a les ventes ADAGATTI"
+        ],
+        [
+            "Je viens acheter des sous-pull",
+            "Bien! on a les ventes ADAGATTI"
+        ],
+        [
+            "Je cherche des valise cabine",
+            "Ok! on a les ventes ALPINI, AAPPAREL"
+        ],
+        [
+            "J'aimerais acheter des valise cabine",
+            "Bien! on a les ventes ALPINI, AAPPAREL"
+        ],
+        [
+            "Je viens acheter des valise cabine",
+            "Bien! on a les ventes ALPINI, AAPPAREL"
+        ],
+        [
+            "Je cherche des vanity case",
+            "Ok! on a les ventes JLSCHERRER"
+        ],
+        [
+            "J'aimerais acheter des vanity case",
+            "Bien! on a les ventes JLSCHERRER"
+        ],
+        [
+            "Je viens acheter des vanity case",
+            "Bien! on a les ventes JLSCHERRER"
+        ],
+        [
+            "Je cherche des doudoune sans manches",
+            "Ok! on a les ventes CDSPORTS, BIKKEMBERGS"
+        ],
+        [
+            "J'aimerais acheter des doudoune sans manches",
+            "Bien! on a les ventes CDSPORTS, BIKKEMBERGS"
+        ],
+        [
+            "Je viens acheter des doudoune sans manches",
+            "Bien! on a les ventes CDSPORTS, BIKKEMBERGS"
+        ],
+        [
+            "Je cherche des espadrilles",
+            "Ok! on a les ventes ALDO"
+        ],
+        [
+            "J'aimerais acheter des espadrilles",
+            "Bien! on a les ventes ALDO"
+        ],
+        [
+            "Je viens acheter des espadrilles",
+            "Bien! on a les ventes ALDO"
+        ]
+    ]
+}

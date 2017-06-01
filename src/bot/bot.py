@@ -1,7 +1,8 @@
 from chatterbot import ChatBot
 
 bot = ChatBot("Didier",
-    storage_adapter="chatterbot.storage.JsonFileStorageAdapter",
+    # storage_adapter="chatterbot.storage.JsonFileStorageAdapter",
+    storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
     logic_adapters=[
         "chatterbot.logic.BestMatch",
         {
@@ -13,14 +14,15 @@ bot = ChatBot("Didier",
     trainer='chatterbot.trainers.ChatterBotCorpusTrainer',
     input_adapter="chatterbot.input.TerminalAdapter",
     output_adapter="chatterbot.output.TerminalAdapter",
-    database="database.db"
+    database="chatterbot-database"
 )
 
-bot.train('data/vente/didier.corpus.json')
 bot.train('data/vente/greetings.corpus.json')
-bot.train('data/vente/shoes.corpus.json')
+bot.train('data/vente/trivia.corpus.json')
+bot.train('data/vente/didier.corpus.json')
+bot.train('data/vente/didier.products.corpus.json')
 
-print("Bonjour, Didier à votre service, en quoi pourrai-je vous être utile ?")
+print("Bonjour, Didier a votre service, en quoi pourrai-je vous etre utile ?")
 
 # The following loop will execute each time the user enters input
 while True:
