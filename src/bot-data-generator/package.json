@@ -1,0 +1,19 @@
+{
+  "name": "bot-data-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node gen-product-type.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alasql": "^0.4.0",
+    "csvtojson": "^1.1.6",
+    "express": "^4.15.3",
+    "jsonfile": "^3.0.0",
+    "lodash": "^4.17.4"
+  }
+}
