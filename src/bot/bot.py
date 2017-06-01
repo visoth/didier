@@ -1,18 +1,5 @@
 from chatterbot import ChatBot
 
-conversation = [
-    "Hello",
-    "Hi there!",
-
-    "How are you doing?",
-    "I'm doing great.",
-
-    "That is good to hear",
-    "Thank you.",
-
-    "You're welcome."
-]
-
 bot = ChatBot("Didier",
     storage_adapter="chatterbot.storage.JsonFileStorageAdapter",
     logic_adapters=[
@@ -20,7 +7,7 @@ bot = ChatBot("Didier",
         {
             'import_path': 'chatterbot.logic.LowConfidenceAdapter',
             'threshold': 0.65,
-            'default_response': 'covfefe'
+            'default_response': 'Je n\'ai pas bien compris votre demande, pouvez-vous la reformuler ?'
         }
     ],
     trainer='chatterbot.trainers.ChatterBotCorpusTrainer',
@@ -29,10 +16,11 @@ bot = ChatBot("Didier",
     database="database.db"
 )
 
+bot.train('data/vente/didier.corpus.json')
+bot.train('data/vente/greetings.corpus.json')
+bot.train('data/vente/shoes.corpus.json')
 
-bot.train('chatterbot.corpus.french')
-
-print("Type something to begin...")
+print("Bonjour, Didier à votre service, en quoi pourrai-je vous être utile ?")
 
 # The following loop will execute each time the user enters input
 while True:
