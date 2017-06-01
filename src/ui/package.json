@@ -136,6 +136,7 @@
     "shelljs": "^0.7.7",
     "shx": "^0.2.2",
     "style-loader": "^0.13.2",
+    "styled-components": "^2.0.0",
     "url-loader": "^0.5.8",
     "yargs": "^6.3.0"
   },
