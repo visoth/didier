@@ -7,7 +7,7 @@ csv({
     trim:true,
     delimiter:';'
 })
-.fromFile('product_sales.csv')
+.fromFile('product-sales.csv')
 .on('end_parsed',(data)=> {
     jsonfile.writeFile('product-sales.json', _.flattenDeep([
         ...static_questions,
