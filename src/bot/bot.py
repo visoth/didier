@@ -1,4 +1,3 @@
-from chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot
 
 conversation = [
@@ -24,15 +23,14 @@ bot = ChatBot("Didier",
             'default_response': 'covfefe'
         }
     ],
+    trainer='chatterbot.trainers.ChatterBotCorpusTrainer',
     input_adapter="chatterbot.input.TerminalAdapter",
     output_adapter="chatterbot.output.TerminalAdapter",
     database="database.db"
 )
 
-print("Training bot...")
 
-bot.set_trainer(ListTrainer)
-bot.train(conversation)
+bot.train('chatterbot.corpus.french')
 
 print("Type something to begin...")
 
