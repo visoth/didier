@@ -1,4 +1,5 @@
+from custom_imports import import_bot
+
 def getresponse(text):
-    #recupérer la reponse ici
-    resp = "le texte est " + text
-    return resp
+    bot = import_bot()
+    return bot.compute_response(text)

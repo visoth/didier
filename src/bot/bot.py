@@ -34,3 +34,9 @@ while True:
     # Press ctrl-c or ctrl-d on the keyboard to exit
     except (KeyboardInterrupt, EOFError, SystemExit):
         break
+
+
+def compute_response (text): 
+    response = bot.get_response(text)
+    print(response)
+    return response.serialize()["text"]
