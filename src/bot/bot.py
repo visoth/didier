@@ -1,5 +1,6 @@
-from chatterbot import ChatBot
+import glob
 
+from chatterbot import ChatBot
 bot = ChatBot("Didier",
     # storage_adapter="chatterbot.storage.JsonFileStorageAdapter",
     storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
@@ -17,10 +18,10 @@ bot = ChatBot("Didier",
     database="chatterbot-database"
 )
 
-bot.train('data/vente/greetings.corpus.json')
-bot.train('data/vente/trivia.corpus.json')
-bot.train('data/vente/didier.corpus.json')
-bot.train('data/vente/didier.products.corpus.json')
+print('Importing corpuses')
+for corpusFile in glob.glob('data/**/*.json'):
+    print('Importing corpus : ' + corpusFile)
+    bot.train(corpusFile)
 
 print("Bonjour, Didier a votre service, en quoi pourrai-je vous etre utile ?")
 
