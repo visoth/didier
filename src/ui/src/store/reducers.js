@@ -1,17 +1,14 @@
-// @flow
 import { combineReducers } from 'redux'
-import type { Reducer } from 'redux'
-
 import { routerReducer } from 'react-router-redux'
 
-export const makeRootReducer = (asyncReducers: Object) => {
+export const makeRootReducer = (asyncReducers) => {
   return combineReducers({
     router: routerReducer,
     ...asyncReducers
   })
 }
 
-export const injectReducer = (store: Object, { key, reducer }: { key: string, reducer: Reducer<*, *>}) => {
+export const injectReducer = (store, { key, reducer }) => {
   if (Object.hasOwnProperty.call(store.asyncReducers, key)) return
 
   store.asyncReducers[key] = reducer

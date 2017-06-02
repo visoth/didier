@@ -1,18 +1,11 @@
 // @flow
 import React, { Component } from 'react'
 import { Provider } from 'react-redux'
-
 import { ConnectedRouter } from 'react-router-redux'
-
 import { history } from '/store/createStore'
 
-type Props = {
-  routes: React.Element<*>,
-  store: Object
-}
-
 class AppContainer extends Component {
-  props: Props
+  props
 
   shouldComponentUpdate () {
     return false

@@ -2,10 +2,12 @@
   "name": "corpus-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "corpus-didier.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "echo \"Usage: npm run [corpus|trivia]\" && exit 0",
+    "corpus": "node corpus-didier.js",
+    "trivia": "node corpus-trivia.js"
   },
   "author": "",
   "license": "ISC",
@@ -14,6 +16,7 @@
     "csvtojson": "^1.1.6",
     "express": "^4.15.3",
     "jsonfile": "^3.0.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "request": "^2.81.0"
   }
 }

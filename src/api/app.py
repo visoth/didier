@@ -10,7 +10,7 @@ def root():
 
 @app.route('/question', methods=['POST'])
 def question():
-    return jsonify({"reponse" : getresponse(request.json["question"])})
+    return jsonify({"response" : getresponse(request.json["question"])})
 
 @app.route('/train', methods=['POST'])
 def train():
