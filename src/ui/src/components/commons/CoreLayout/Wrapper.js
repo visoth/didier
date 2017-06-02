@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export default styled.div`
   background: #F5F5F5;
-  height: 100vh;
+  height: 100%;
   overflow: auto;
   display: flex;
   flex-direction: column;
