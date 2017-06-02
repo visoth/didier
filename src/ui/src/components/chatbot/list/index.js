@@ -5,11 +5,11 @@ import Wrapper from './Wrapper'
 import Bot from '../bot'
 import Conversation from '../Conversation'
 
-export const List = () => (
+export const List = (convesations) => (
   <Wrapper>
-    <Bot />
-    <Conversation isMine />
-    <Bot />
+    {
+      convesations.map(c => c.answer ? [<Conversation isMine />, <Bot />] : <Conversation isMine />)
+    }
   </Wrapper>
 )
 
