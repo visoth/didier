@@ -45,7 +45,8 @@ export default class Conversation extends Component {
     }
     return (
       <Container isMine={this.props.isMine}>
-        <p>{this.props.text}</p>
+        {/*<p>{this.props.text}</p>*/}
+        <p  dangerouslySetInnerHTML={{__html:this.props.text}} />
         {/* <img src='https://vp-eu.scene7.com/is/image/vpeu/1/00_67858_FR_brandvisualbrandvisualmv1fr' /> */}
       </Container>
     )
