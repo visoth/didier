@@ -23,7 +23,7 @@ const IconButton = styled.a`
   }
 `
 
-const InputText = styled.textarea.attrs({
+const InputText = styled.input.attrs({
   type: 'text',
   placeholder:'type here...'
 })`
@@ -44,11 +44,25 @@ const InputText = styled.textarea.attrs({
 `
 
 export default class Input extends Component {
+  state = {
+    text: ''
+  }
+  onHandleSubmit = (e) => {
+    e.preventDefault()
+    this.setState({ text: '' })
+    this.props.actions.askQuestion(this.state.text)
+  }
+  onHandleInput = (e) => {
+    e.preventDefault()
+    this.setState({ text: e.target.value })
+  }
   render () {
     return (
       <FadeInUp duration='0.25s' timingFunction='ease-in-out'>
         <Wrapper>
-          <InputText />
+          <form onSubmit={this.onHandleSubmit}>
+            <InputText value={this.state.text} onChange={this.onHandleInput} />
+          </form>
           <IconButton>
             <svg
               xmlns='http://www.w3.org/2000/svg'

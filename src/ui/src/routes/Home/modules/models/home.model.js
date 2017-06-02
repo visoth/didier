@@ -1,5 +1,5 @@
 export const initialState = {
-  conversation : [1, 2, 3],
+  conversation : [],
   useSound: false
 }
 
