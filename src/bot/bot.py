@@ -34,5 +34,4 @@ print("Import of corpus done !")
 
 def compute_response (text): 
     response = bot.get_response(text)
-    # print(response)
     return response.serialize()["text"]
