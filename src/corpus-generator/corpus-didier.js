@@ -28,6 +28,17 @@ csv({ trim:true, delimiter:';' })
 
                 console.log('Corpus generation ended successfully.')
             })
+
+        csv({ trim:true, delimiter:';' })
+            .fromFile('72H.csv')
+            .on('end_parsed', (data)=> {
+                const res = { name: '', children: data }
+                jsonfile.writeFile(
+                    '../bot/data/vente/didier.72h.corpus.json', 
+                    { "didier.sales72h": gen_question_answer(ask_next_sales, res, 'OperationCode') })
+                    
+                console.log('Corpus generation ended successfully.')
+            })
         
         // question & answer
         const gen_question_answer = (questions, group, property) => questions.map(item => [
@@ -39,7 +50,7 @@ csv({ trim:true, delimiter:';' })
         const limit = (data, size = 80) => data.slice(0, size)
         const uniq = (data) => _.uniq(data).slice(0, 5) 
         const remove_number = (text) => text.replace(/[0-9]/g, '')
-        const group_by = (type, data) => alasql(`SELECT ${type} as name, ARRAY(_) as children from ? GROUP BY ${type} WHERE OperationCode != 'AAPPAREL5'`, [data])
+        const group_by = (type, data) => alasql(`SELECT ${type} as name, ARRAY(_) as children from ? WHERE OperationCode != 'AAPPAREL5' GROUP BY ${type}`, [data])
 
         const display_family = (id) => `[${id}] ${family_name[id] ? family_name[id].name.trim() || family_name[id].altName.trim() : 'XX'}`
 
@@ -89,6 +100,21 @@ csv({ trim:true, delimiter:';' })
             {
                 question: (name) => `Je viens acheter des ${name}`,
                 answer: (sales) => `D'accord ! ${format_sales_list(sales)}`,
+            },
+        ]
+
+        const ask_next_sales = [
+            {
+                question: (name) => `Je veux être livré rapidement`,
+                answer: (sales) => `Je vous propose les ventes suivantes : ${format_sales_list(sales)}`
+            },
+            {
+                question: (name) => `Quelles sont les ventes à 72 heure ?`,
+                answer: (sales) => `Les ventes suivantes : ${format_sales_list(sales)}`
+            },
+            {
+                question: (name) => `Je suis pressé`,
+                answer: (sales) => `D'accord ! Je vous propose de vous rendre sur : ${format_sales_list(sales)}`,
             },
         ]
     })
