@@ -39,7 +39,7 @@ csv({ trim:true, delimiter:';' })
         const limit = (data, size = 80) => data.slice(0, size)
         const uniq = (data) => _.uniq(data).slice(0, 5) 
         const remove_number = (text) => text.replace(/[0-9]/g, '')
-        const group_by = (type, data) => alasql(`SELECT ${type} as name, ARRAY(_) as children from ? GROUP BY ${type}`, [data])
+        const group_by = (type, data) => alasql(`SELECT ${type} as name, ARRAY(_) as children from ? GROUP BY ${type} WHERE OperationCode != 'AAPPAREL5'`, [data])
 
         const display_family = (id) => `[${id}] ${family_name[id] ? family_name[id].name.trim() || family_name[id].altName.trim() : 'XX'}`
 
