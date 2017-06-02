@@ -23,7 +23,7 @@ const Container = styled.div`
 
   & > img {
     display: block;
-    max-width: 300px;
+    max-width: 100%;
     max-height: 300px;
     margin-top: 0.15rem;
   }
