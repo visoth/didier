@@ -5,9 +5,9 @@
   "main": "corpus-didier.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "echo \"Usage: npm run [corpus|trivia]\" && exit 0",
+    "start": "echo \"Usage: npm run [corpus|noris]\" && exit 0",
     "corpus": "node corpus-didier.js",
-    "trivia": "node corpus-trivia.js"
+    "noris": "node corpus-noris.js"
   },
   "author": "",
   "license": "ISC",

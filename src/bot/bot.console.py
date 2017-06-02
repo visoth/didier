@@ -1,11 +1,20 @@
 import glob
+import random
+
 from chatterbot import ChatBot
+
+def select_response(statement, statement_list):
+    return random.choice (statement_list)
 
 bot = ChatBot("Didier",
     # storage_adapter="chatterbot.storage.JsonFileStorageAdapter",
     storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
     logic_adapters=[
-        "chatterbot.logic.BestMatch",
+        {
+            "import_path": "chatterbot.logic.BestMatch",
+            "statement_comparison_function": "chatterbot.comparisons.levenshtein_distance",
+            "response_selection_method": select_response
+        },
         {
             'import_path': 'chatterbot.logic.LowConfidenceAdapter',
             'threshold': 0.65,
