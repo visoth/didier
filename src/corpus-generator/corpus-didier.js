@@ -106,7 +106,7 @@ csv({ trim:true, delimiter:';' })
         const ask_next_sales = [
             {
                 question: (name) => `Je veux être livré rapidement`,
-                answer: (sales) => `Je vous propose les ventes suivantes : ${format_sales_list(sales)}`
+                answer: (sales) => `Je vous propose les ventes suivantes, livrées en 72h : ${format_sales_list(sales)}`
             },
             {
                 question: (name) => `Quelles sont les ventes à 72 heure ?`,
@@ -114,7 +114,7 @@ csv({ trim:true, delimiter:';' })
             },
             {
                 question: (name) => `Je suis pressé`,
-                answer: (sales) => `D'accord ! Je vous propose de vous rendre sur : ${format_sales_list(sales)}`,
+                answer: (sales) => `D'accord ! Voici les ventes livrées en 72h : ${format_sales_list(sales)}`,
             },
         ]
     })

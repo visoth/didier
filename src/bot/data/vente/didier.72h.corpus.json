@@ -2,7 +2,7 @@
     "didier.sales72h": [
         [
             "Je veux être livré rapidement",
-            "Je vous propose les ventes suivantes : Voici les ventes en cours concernant ce produit : LCASTAGNETTE, NIKE, DIM, MYELLOW, GOLA"
+            "Je vous propose les ventes suivantes, livrées en 72h : Voici les ventes en cours concernant ce produit : LCASTAGNETTE, NIKE, DIM, MYELLOW, GOLA"
         ],
         [
             "Quelles sont les ventes à 72 heure ?",
@@ -10,7 +10,7 @@
         ],
         [
             "Je suis pressé",
-            "D'accord ! Je vous propose de vous rendre sur : Voici les ventes en cours concernant ce produit : LCASTAGNETTE, NIKE, DIM, MYELLOW, GOLA"
+            "D'accord ! Voici les vente avec livraison en 72h : Voici les ventes en cours concernant ce produit : LCASTAGNETTE, NIKE, DIM, MYELLOW, GOLA"
         ]
     ]
 }
