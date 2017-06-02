@@ -2,30 +2,51 @@
 import React from 'react'
 import styled from 'styled-components'
 
-const Avatar = styled.div`
-  position: relative;
-  flex: 0 0 32px;
-  height: 32px;
-  border-radius: 2px;
-  overflow: hidden;
-  margin-right: 0.5rem;
+const Wrapper = styled.a`
+  width: 3rem;
+  height: 3rem;
   background-color: white;
-  border: 1px solid #DFDFDF;
+  border: 2px solid #EC008C;
   border-radius: 50%;
+  position: relative;
+  display: block;
+  padding: 0.25rem 0.75rem 0.75rem;
+  cursor: pointer;
+  transition: background-color ease-in-out 0.25s;
+  font-family: 'Roboto';
+  box-shadow: 0 0.25rem 0.75rem #A9A9A9;
+
+  &:hover {
+    background-color: #EC008C;
+    & > svg {
+      fill: white;
+    }
+  }
 
   & > svg {
-    position: absolute;
-    top: 44%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    display: block;
-    width: 55%;
     fill: #EC008C;
+    transition: fill ease-in-out 0.25s;
   }
 `
 
-export const chatbot = () => (
-  <Avatar>
+const Notif = styled.span`
+  position: absolute;
+  top: -0.25rem;
+  right: -0.25rem;
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  font-size: 0.75rem;
+  color: white;
+  background-color: #DA0630;
+  text-align: center;
+  line-height: 1rem;
+`
+
+export const floatingBtn = () => (
+  <Wrapper>
+    <Notif>3</Notif>
     <svg
       width='100%'
       height='100%'
@@ -42,7 +63,7 @@ export const chatbot = () => (
         />
       </g>
     </svg>
-  </Avatar>
+  </Wrapper>
 )
 
-export default chatbot
+export default floatingBtn

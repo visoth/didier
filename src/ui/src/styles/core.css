@@ -4,18 +4,22 @@
 
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: rgba(255, 255, 255, 0.6);
+  color: #DFDFDF;
   font-style: italic;
 }
 ::-moz-placeholder { /* Firefox 19+ */
-  color: rgba(255, 255, 255, 0.6);
+  color: #DFDFDF;
   font-style: italic;
 }
 :-ms-input-placeholder { /* IE 10+ */
-  color: rgba(255, 255, 255, 0.6);
+  color: #DFDFDF;
   font-style: italic;
 }
 :-moz-placeholder { /* Firefox 18- */
-  color: rgba(255, 255, 255, 0.6);
+  color: #DFDFDF;
   font-style: italic;
+}
+
+body {
+  height: 100vh;
 }
