@@ -6,9 +6,9 @@ import Wrapper from './Wrapper'
 import List from './list'
 import Answer from './answer'
 
-export const chatbot = () => (
+export const chatbot = (conversations) => (
   <Wrapper>
-    <List />
+    <List conversations={conversations} />
     <Answer />
   </Wrapper>
 )
