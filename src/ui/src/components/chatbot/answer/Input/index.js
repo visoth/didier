@@ -41,6 +41,7 @@ const InputText = styled.input.attrs({
   border-radius: 2px;
   outline: none;
   overflow: auto;
+  font-size: 13px;
 `
 
 export default class Input extends Component {
