@@ -3,23 +3,23 @@ import React, { Component } from 'react'
 import { FadeInUp } from 'animate-components'
 import styled from 'styled-components'
 
-const Wrapper = styled.label`
+const Wrapper = styled.div`
   position: relative;
 `
 
 const IconButton = styled.a`
   position: absolute;
-  right: 0.5rem;
-  top: -0.15rem;
+  right: 0.15rem;
+  top: 0.15rem;
   cursor: pointer;
 
   & > svg {
     transition: fill ease-in-out 0.25s;
-    fill: rgba(255, 255, 255, 0.6);
+    fill: #DFDFDF;
   }
 
   &:hover > svg {
-    fill: white;
+    fill: #A9A9A9;
   }
 `
 
@@ -63,17 +63,17 @@ export default class Input extends Component {
         <Wrapper>
           <form onSubmit={this.onHandleSubmit}>
             <InputText value={this.state.text} onChange={this.onHandleInput} />
+            <IconButton>
+              <svg
+                xmlns='http://www.w3.org/2000/svg'
+                width='24'
+                height='24'
+                viewBox='0 0 24 24'>
+                <path
+                  d='M12 15c1.66 0 2.99-1.34 2.99-3L15 6c0-1.66-1.34-3-3-3S9 4.34 9 6v6c0 1.66 1.34 3 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 15 6.7 12H5c0 3.42 2.72 6.23 6 6.72V22h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z' />
+              </svg>
+            </IconButton>
           </form>
-          <IconButton>
-            <svg
-              xmlns='http://www.w3.org/2000/svg'
-              width='24'
-              height='24'
-              viewBox='0 0 24 24'>
-              <path
-                d='M12 15c1.66 0 2.99-1.34 2.99-3L15 6c0-1.66-1.34-3-3-3S9 4.34 9 6v6c0 1.66 1.34 3 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 15 6.7 12H5c0 3.42 2.72 6.23 6 6.72V22h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z' />
-            </svg>
-          </IconButton>
         </Wrapper>
       </FadeInUp>
     )

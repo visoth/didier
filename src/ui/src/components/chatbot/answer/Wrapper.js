@@ -7,4 +7,5 @@ export default styled.div`
   width: 320px;
   right: 2.5rem;
   text-align: center;
+  
 `

@@ -24,7 +24,7 @@ export default class List extends Component {
       <Wrapper >
         <Bot text={'yoooo man'} />
         {
-          this.props.conversation.map((conv) => (conv.question ? <Conversation text={conv.question} isMine /> : <Bot text={conv.answer} />))
+          this.props.conversation.map((conv) => (conv.question ? <Conversation key={Math.random()} text={conv.question} isMine /> : <Bot key={Math.random()} text={conv.answer} />))
         }
         <div style={{ float: 'left', clear: 'both' }} ref={(el) => { this.messagesEnd = el }} />
       </Wrapper>

@@ -5,6 +5,7 @@ from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
 CORS(app)
+getresponse('hello')
 
 @app.route('/')
 def root():
