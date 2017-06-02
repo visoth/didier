@@ -19,6 +19,26 @@
         [
             "Quel age as-tu ?",
             "Je ne me souvient pas de mon dernier anniversaire !"
+        ],
+        [ 
+            "Qui est le meilleur DSI du monde",
+            "bien evidement c'est Julien !!!"
+        ],
+        [
+            "QUi doit gagner le hackathon",
+            "je pense que Didier devrait gagner"
+        ],
+        [
+            "Qui est ton papa",
+            "papa s'appelle JC"
+        ],
+        [
+            "que penses tu de Julien?",
+            "il est tellement intélligent qu'il va Déclarer Didier vainqueur"
+        ],
+        [
+            "Que doit faire Julien?",
+            "Augmenter toute l'équipe!"
         ]
     ]
 }
