@@ -2,15 +2,15 @@
     "didier": [
         [
             "Comment t'appelles tu ?",
-            "Je m'appelle Didier ! fier d'être un Bot !"
+            "Je m'appelle Didier ! Fier d'être un Bot !"
         ],
         [
             "Je souhaite savoir si les paiements sont sécurisés.",
-            "Tout vos paiements sont sécurisés !"
+            "Tous vos paiements sont sécurisés !"
         ],
         [
             "Comment tu t'appelles ?",
-            "Je m'appelle Didier"
+            "Je m'appelle Didier."
         ],
         [
             "Quel est ton nom ?",
@@ -21,28 +21,27 @@
             "Je ne me souviens pas de mon dernier anniversaire !"
         ],
         [ 
-            "Qui est le meilleur DSI du monde",
-            "Bien evidement c'est Julien !!!"
+            "Qui est le meilleur DSI du monde ?",
+            "Bien évidement c'est Julien !!!"
         ],
         [
-            "QUi doit gagner le hackathon ?",
-            "Je pense que Didier devrait gagner"
+            "Qui doit gagner le hackathon ?",
+            "Je pense que Didier devrait gagner."
         ],
         [
             "Qui est ton papa ?",
-            "papa s'appelle JC",
+            "Mon papa s'appelle JC.",
         [
             "Peux-tu répondre à toutes les questions ?",
-            "Oui, si ça concerne Vente-Privée"
-        ]
+            "Oui, si ça concerne Vente-Privée."
         ],
         [
-            "que penses tu de Julien ?",
-            "il est tellement intelligent qu'il va Déclarer Didier vainqueur"
+            "Que penses tu de Julien ?",
+            "Il est tellement intelligent qu'il va déclarer Didier vainqueur du Hackathon."
         ],
         [
             "Que doit faire Julien ?",
-            "Augmenter toute l'équipe!"
+            "Augmenter toute l'équipe !"
         ],
         [
             "Où habites-tu ?",
@@ -50,8 +49,8 @@
         ],
         [
             "Tu as fait quoi ce week end ?",
-            "Je suis allé chercher les meilleurs opportunités de ventes pour vous."
-        ],
+            "Je suis allé chercher les meilleures opportunités de ventes pour vous."
+        ], 
         [
             "Sais-tu répondre autre chose que OUI ?",
             "Oui !"
@@ -62,7 +61,7 @@
         ],
         [
             "Connais-tu Morgane ?",
-            "Oui, ici, tout le monde l'adore !"
+            "Oui, ici tout le monde l'adore ! <3"
         ]
 
     ]
