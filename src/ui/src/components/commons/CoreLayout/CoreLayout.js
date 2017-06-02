@@ -1,6 +1,5 @@
 // @flow
 import React from 'react'
-import Chatbot from '../../chatbot'
 import bg from './img/bg.png'
 import styled from 'styled-components'
 import { FadeIn } from 'animate-components'
@@ -44,7 +43,7 @@ const ChatContainer = styled.div`
 
 import '/styles/core.css'
 
-export const CoreLayout = () => (
+export const CoreLayout = (props) => (
   <Wrapper>
     <Chat>
       <Btn>
@@ -52,7 +51,7 @@ export const CoreLayout = () => (
       </Btn>
       <FadeIn duration='0.5s' timingFunction='ease-in-out'>
         <ChatContainer>
-          <Chatbot />
+          {props.children}
         </ChatContainer>
       </FadeIn>
     </Chat>

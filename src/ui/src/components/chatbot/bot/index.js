@@ -14,14 +14,14 @@ const Wrapper = styled.div`
   margin-top: 2rem;
 `
 
-export const Bot = () => (
+export const Bot = (props) => (
   <FadeInUp duration='0.25s' timingFunction='ease-in-out'>
     <Wrapper>
       <Avatar />
       <Name
         label='Didier'
       />
-      <Conversation />
+      <Conversation {...props} />
     </Wrapper>
   </FadeInUp>
 )

@@ -12,5 +12,7 @@ export default (state = model.initialState, action) => {
         ...state,
         useSound: action.useSound
       }
+    default:
+      return state
   }
 }

@@ -37,7 +37,7 @@ export default class Conversation extends Component {
         <Wrapper isMine={this.props.isMine}>
           <FadeInUp duration='0.25s' timingFunction='ease-in-out'>
             <Container isMine={this.props.isMine}>
-              <p>hello</p>
+              <p>{this.props.text}</p>
             </Container>
           </FadeInUp>
         </Wrapper>
@@ -45,8 +45,8 @@ export default class Conversation extends Component {
     }
     return (
       <Container isMine={this.props.isMine}>
-        <p>hello</p>
-        <img src='https://vp-eu.scene7.com/is/image/vpeu/1/00_67858_FR_brandvisualbrandvisualmv1fr' />
+        <p>{this.props.text}</p>
+        {/* <img src='https://vp-eu.scene7.com/is/image/vpeu/1/00_67858_FR_brandvisualbrandvisualmv1fr' /> */}
       </Container>
     )
   }
