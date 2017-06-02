@@ -1,21 +1,38 @@
-import React from 'react'
+import React, { Component } from 'react'
+import ReactDOM from 'react-dom'
 import Wrapper from './Wrapper'
 
 import Bot from '../bot'
 import Conversation from '../Conversation'
 
-export const List = (props) => (
-  <Wrapper>
-    <Bot text={'yoooo man'} />
-    {
-      props.conversation.map((conv) => {
-        return [
-          <Conversation text={conv.question} isMine />,
-          <Bot text={conv.answer} />
-        ]
-      })
-    }
-  </Wrapper>
-)
+export default class List extends Component {
+  scrollToBottom = () => {
+    const node = ReactDOM.findDOMNode(this.messagesEnd)
+    node.scrollIntoView({ behavior: 'smooth' })
+  }
 
-export default List
+  componentDidMount () {
+    this.scrollToBottom()
+  }
+
+  componentDidUpdate () {
+    this.scrollToBottom()
+  }
+
+  render () {
+    return (
+      <Wrapper >
+        <Bot text={'yoooo man'} />
+        {
+          this.props.conversation.map((conv) => {
+            return [
+              <Conversation text={conv.question} isMine />,
+              <Bot text={conv.answer} />
+            ]
+          })
+        }
+        <div style={{ float: 'left', clear: 'both' }} ref={(el) => { this.messagesEnd = el }} />
+      </Wrapper>
+    )
+  }
+}

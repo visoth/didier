@@ -6,6 +6,6 @@ export const post = (route, body) => {
         'Content-Type': 'application/json'
       },
       method: 'POST',
-      body: body
+      body: JSON.stringify(body)
     })
 }
