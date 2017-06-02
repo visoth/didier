@@ -22,8 +22,6 @@ bot = ChatBot("Didier",
         }
     ],
     trainer='chatterbot.trainers.ChatterBotCorpusTrainer',
-    input_adapter="chatterbot.input.TerminalAdapter",
-    output_adapter="chatterbot.output.TerminalAdapter",
     database="chatterbot-database"
 )
 
@@ -32,19 +30,7 @@ for corpusFile in glob.glob('data/**/*.json'):
     print('Importing corpus : ' + corpusFile)
     bot.train(corpusFile)
 
-print("Bonjour, Didier a votre service, en quoi pourrai-je vous etre utile ?")
-
-# The following loop will execute each time the user enters input
-while True:
-    try:
-        # We pass None to this method because the parameter
-        # is not used by the TerminalAdapter
-        bot_input = bot.get_response(None)
-
-    # Press ctrl-c or ctrl-d on the keyboard to exit
-    except (KeyboardInterrupt, EOFError, SystemExit):
-        break
-
+print("Import of corpus done !")
 
 def compute_response (text): 
     response = bot.get_response(text)
