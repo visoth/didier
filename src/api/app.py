@@ -1,8 +1,11 @@
 from flask import Flask, request, jsonify
 from robot import getresponse
 from train import trainbot
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
+CORS(app)
+getresponse('hello')
 
 @app.route('/')
 def root():
