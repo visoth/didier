@@ -5,7 +5,7 @@ import botService from '/services/bot.service.js'
 
 function* askQuestionSaga (action) {
   const result = yield call(botService.askQuestion, action.question)
-  yield put(receiveAnswer(action.question, result.response))
+  yield put(receiveAnswer(action.question, result.response, action.withSound))
 }
 
 export default function* rootCounterSaga () {

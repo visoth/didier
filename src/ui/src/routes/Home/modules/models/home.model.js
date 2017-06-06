@@ -1,6 +1,5 @@
 export const initialState = {
-  conversation : [],
-  useSound: false
+  conversation : []
 }
 
 export const ASK_QUESTION = 'ASK_QUESTION'

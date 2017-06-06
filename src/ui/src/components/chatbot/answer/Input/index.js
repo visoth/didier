@@ -1,7 +1,7 @@
 // @flow
 import React, { Component } from 'react'
 import { FadeInUp } from 'animate-components'
-import styled from 'styled-components'
+import styled, { css } from 'styled-components'
 
 const Wrapper = styled.div`
   position: relative;
@@ -19,8 +19,17 @@ const IconButton = styled.a`
   }
 
   &:hover > svg {
-    fill: #A9A9A9;
+    fill: red;
   }
+
+  ${props => props.activeVoice && css`
+    & > svg {
+      fill: red;
+    }
+    &:hover > svg {
+      fill: red;
+    }
+  `}
 `
 
 const InputText = styled.input.attrs({
@@ -46,24 +55,54 @@ const InputText = styled.input.attrs({
 
 export default class Input extends Component {
   state = {
-    text: ''
+    text: '',
+    activeVoice: false
   }
-  onHandleSubmit = (e) => {
-    e.preventDefault()
+  onHandleSubmit = (e, withVoice = false) => {
+    e && e.preventDefault()
     this.setState({ text: '' })
-    this.props.actions.askQuestion(this.state.text)
+    this.props.actions.askQuestion(this.state.text, withVoice === true)
   }
   onHandleInput = (e) => {
-    e.preventDefault()
+    e && e.preventDefault()
     this.setState({ text: e.target.value })
   }
+
+  componentDidMount () {
+    const SpeechRecognition = SpeechRecognition || webkitSpeechRecognition
+    const SpeechGrammarList = SpeechGrammarList || webkitSpeechGrammarList
+    const SpeechRecognitionEvent = SpeechRecognitionEvent || webkitSpeechRecognitionEvent
+
+    const recognition = new SpeechRecognition()
+
+    recognition.lang = 'fr-FR'
+    recognition.interimResults = false
+    recognition.maxAlternatives = 1
+
+    const talkButton = document.body.querySelector('.talk-button')
+    talkButton.onclick = () => {
+      recognition.start()
+      this.setState({ activeVoice: true })
+      console.log('Ready to receive a color command.')
+    }
+
+    recognition.onresult = (event) => {
+      const text = event.results[0][0].transcript
+      this.setState({ text, activeVoice: false }, () => this.onHandleSubmit(null, true))
+    }
+
+    recognition.onspeechend = () => recognition.stop()
+
+    recognition.onerror = (e) => console.log('Error: ' + e.error)
+  }
+
   render () {
     return (
       <FadeInUp duration='0.25s' timingFunction='ease-in-out'>
         <Wrapper>
           <form onSubmit={this.onHandleSubmit}>
             <InputText value={this.state.text} onChange={this.onHandleInput} />
-            <IconButton>
+            <IconButton className='talk-button' activeVoice={this.state.activeVoice}>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
                 width='24'

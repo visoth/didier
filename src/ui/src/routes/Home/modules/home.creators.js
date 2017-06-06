@@ -1,4 +1,4 @@
 import * as model from './models/home.model'
 
-export const askQuestion = (question) => ({ type: model.ASK_QUESTION, question })
-export const receiveAnswer = (question, answer) => ({ type: model.RECEIVE_ANSWER, question, answer })
+export const askQuestion = (question, withSound) => ({ type: model.ASK_QUESTION, question, withSound })
+export const receiveAnswer = (question, answer, withSound) => ({ type: model.RECEIVE_ANSWER, question, answer, withSound })

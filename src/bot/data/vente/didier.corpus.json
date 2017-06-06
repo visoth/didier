@@ -30,39 +30,39 @@
         ],
         [
             "Qui est ton papa ?",
-            "Mon papa s'appelle JC.",
-            [
-                "Peux-tu répondre à toutes les questions ?",
-                "Oui, si ça concerne Vente-Privée."
-            ],
-            [
-                "Que penses tu de Julien ?",
-                "Il est tellement intelligent qu'il va déclarer Didier vainqueur du Hackathon."
-            ],
-            [
-                "Que doit faire Julien ?",
-                "Augmenter toute l'équipe !"
-            ],
-            [
-                "Où habites-tu ?",
-                "Je réside à VP-Land."
-            ],
-            [
-                "Tu as fait quoi ce week end ?",
-                "Je suis allé chercher les meilleures opportunités de ventes pour vous."
-            ],
-            [
-                "Sais-tu répondre autre chose que OUI ?",
-                "Oui !"
-            ],
-            [
-                "Comment ça va ?",
-                "Je vais bien, merci. Et vous ?"
-            ],
-            [
-                "Connais-tu Morgane ?",
-                "Oui, ici tout le monde l'adore ! <3"
-            ]
+            "Mon papa s'appelle JC."
+        ],
+        [
+            "Peux-tu répondre à toutes les questions ?",
+            "Oui, si ça concerne Vente-Privée."
+        ],
+        [
+            "Que penses tu de Julien ?",
+            "Il est tellement intelligent qu'il va déclarer Didier vainqueur du Hackathon."
+        ],
+        [
+            "Que doit faire Julien ?",
+            "Augmenter toute l'équipe !"
+        ],
+        [
+            "Où habites-tu ?",
+            "Je réside à VP-Land."
+        ],
+        [
+            "Tu as fait quoi ce week end ?",
+            "Je suis allé chercher les meilleures opportunités de ventes pour vous."
+        ],
+        [
+            "Sais-tu répondre autre chose que OUI ?",
+            "Oui !"
+        ],
+        [
+            "Comment ça va ?",
+            "Je vais bien, merci. Et vous ?"
+        ],
+        [
+            "Connais-tu Morgane ?",
+            "Oui, ici tout le monde l'adore ! <3"
         ]
     ]
 }

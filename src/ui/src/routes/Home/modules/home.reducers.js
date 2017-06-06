@@ -5,17 +5,20 @@ export default (state = model.initialState, action) => {
     case model.RECEIVE_ANSWER:
       return {
         ...state,
-        conversation: [...state.conversation, { question: null, answer: action.answer }]
+        conversation: [...state.conversation, {
+          question: null,
+          answer: action.answer,
+          sound: action.withSound
+        }]
       }
     case model.ASK_QUESTION:
       return {
         ...state,
-        conversation: [...state.conversation, { question: action.question, answer: null }]
-      }
-    case model.ACTIVATE_SOUND:
-      return {
-        ...state,
-        useSound: action.useSound
+        conversation: [...state.conversation, {
+          question: action.question,
+          answer: null,
+          sound: false
+        }]
       }
     default:
       return state

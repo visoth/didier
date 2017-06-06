@@ -15,6 +15,18 @@ export default class List extends Component {
     this.scrollToBottom()
   }
 
+  componentWillReceiveProps (nextProps) {
+    const lastResponse = nextProps.conversation.slice(-1)[0]
+    console.log('lastresponse: ', lastResponse)
+    if (lastResponse.sound) {
+      const botSpeech = new SpeechSynthesisUtterance()
+      botSpeech.text = lastResponse.answer.replace(/(<([^>]+)>)|(\[[\d]+\])/ig, '')
+      botSpeech.lang = 'fr'
+      botSpeech.rate = 1
+      speechSynthesis.speak(botSpeech)
+    }
+  }
+
   componentDidUpdate () {
     this.scrollToBottom()
   }
@@ -22,7 +34,7 @@ export default class List extends Component {
   render () {
     return (
       <Wrapper >
-        <Bot text={'yoooo man'} />
+        <Bot text={'Bonjour, Didier a votre service, en quoi pourrai-je vous etre utile ?'} />
         {
           this.props.conversation.map((conv) => (conv.question ? <Conversation key={Math.random()} text={conv.question} isMine /> : <Bot key={Math.random()} text={conv.answer} />))
         }
