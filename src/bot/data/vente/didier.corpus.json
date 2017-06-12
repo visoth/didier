@@ -63,6 +63,26 @@
         [
             "Connais-tu Morgane ?",
             "Oui, ici tout le monde l'adore ! <3"
+        ],
+        [
+            "C'est quoi l'objectif",
+            "Le but est d'enrichir l'expérience utilisateur via une interface interactive"
+        ],
+        [
+            "Didier c'est quoi l'objectif",
+            "Le but est d'enrichir l'expérience utilisateur via une interface interactive"
+        ],
+        [
+            "Pourquoi c'est important",
+            "Nous les chatbotes nous sont la technologie d'avenir. Nous n'existons pas encore chez vos concurents. Nous donnons un avantage concurentiel, tout en vous démarquant techniquement."
+        ],
+        [
+            "Techniquement comment as tu été fais",
+            "Je suis fait en Python pour la partie IA et WebService. JavaScript pour la partie application frontend et génération automatisé du corpus. c'est du beau boulot."
+        ],
+        [
+            "Concretement ça donne quoi sur le site web",
+            "Pose moi une question sur les ventes en ligne et je vais essayer de t'aider"
         ]
     ]
 }

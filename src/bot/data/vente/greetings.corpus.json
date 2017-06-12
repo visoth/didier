@@ -111,6 +111,18 @@
         [
             "Quoi de neuf?",
             "Le chiffre avant 10, sinon, toi, quoi de neuf?"
+        ],
+        [
+            "Bye bye",
+            "Merci pour cette discution enrichissante, à Bientot, dites moi si on a gagné le hackaton."
+        ],
+        [
+            "Aurevoir",
+            "Merci pour cette discution enrichissante, à Bientot, dites moi si on a gagné le hackaton."
+        ],
+        [
+            "Aurevoir Didier",
+            "Merci pour cette discution enrichissante, à Bientot, dites moi si on a gagné le hackaton."
         ]
     ]
 }
