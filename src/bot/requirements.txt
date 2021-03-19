@@ -8,7 +8,7 @@ Flask==0.12.2
 future==0.16.0
 idna==2.5
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsondatabase==0.1.7
 MarkupSafe==1.0
 nltk==3.2.4
