@@ -5,7 +5,7 @@ ChatterBot==0.6.0
 chatterbot-corpus==0.0.1
 click==6.7
 Flask==0.12.2
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 future==0.16.0
 idna==2.5
 itsdangerous==0.24
