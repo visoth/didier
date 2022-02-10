@@ -119,7 +119,7 @@
     "ip": "^1.1.2",
     "json-loader": "^0.5.4",
     "jsonfile": "^3.0.0",
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "nodemailer": "^3.1.3",
     "normalize.css": "^5.0.0",
     "postcss-loader": "^1.3.3",
